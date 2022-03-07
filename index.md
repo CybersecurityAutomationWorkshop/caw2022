@@ -10,7 +10,9 @@ will be held 2-June-2022 at the
 [AT&T Forum](https://policyforum.att.com/att-forum/)
 in Washington, DC.
 
-## Agenda
+## Logistics
+
+### Agenda
 Schedule is tentatively 9AM-5PM 2-June-2022;
 details are still being worked.
 
@@ -22,23 +24,19 @@ the intent will be spread out the keynotes as recommended.
 
 See [Agenda](./Agenda.md) for more details.
 
-## Venue
+### Venue
 The [AT&T Forum](https://policyforum.att.com/att-forum/)
 is located at 601 New Jersey Avenue NW, Washington, DC 20001.
 
 Thank you to AT&T for hosting the event for us.
 
-## Remote Access
+### Remote Access
 Intent is to allow virtual participation.
 It may not apply to all sessions or all interoperation demonstrations.
 
 Details need to be worked out yet.
 
-## Keynotes
-keynote speakers have been lined up.
-Eventually add them here or make a subtending page.
-
-## Eligibility
+### Eligibility
 Open to all.
 Free.
 Registration will be required.
@@ -52,10 +50,13 @@ Rules would probably
 be based on sweat equity, distance traveled,
 and a quota (ie to spread attendance across the orgs involved).
 
-
-## Registration
+### Registration
 Participation will require registration.
 Details forthcoming.
+
+## Keynotes
+keynote speakers have been lined up.
+Eventually add them here or make a subtending page.
 
 ## Participating Organizations
 Strictly speaking none
@@ -120,31 +121,9 @@ see
 for more details on decisions being made on how to get
 stuff to work together.
 
-
-## Governance
-This workshop is being organized by one passionate individual volunteer
-who was unelected and will be running it on the
-D-cubed model (Duncan/democratic/dictator).
-
-## Code of Conduct
-TL;DR - don't be a jerk.
-
-In the interest of fostering an open and welcoming environment,
-we as organizers and participants
-pledge to making participation in our projects and our community
-a harassment-free experience for everyone,
-regardless of age, body size, disability, ethnicity,
-sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion,
-or sexual identity and orientation.
-
-See [Code of Conduct](./CODE_OF_CONDUCT.md)
-for the complete code of conduct.
-
 ## Demo Use Cases
 In the ideal world,
-the workshop would perform a live demonstrate 
+the workshop would perform a live demonstrate
 one complicated use case
 that evolved from quiet to under attack
 touching many different child use cases
@@ -173,6 +152,27 @@ Results from the two previous workshops,
 and other related events,
 can be found at
 [Previous Workshops](./PrevResults)
+
+## Governance
+This workshop is being organized by one passionate individual volunteer
+who was unelected and will be running it on the
+D-cubed model (Duncan/democratic/dictator).
+
+## Code of Conduct
+TL;DR - don't be a jerk.
+
+In the interest of fostering an open and welcoming environment,
+we as organizers and participants
+pledge to making participation in our projects and our community
+a harassment-free experience for everyone,
+regardless of age, body size, disability, ethnicity,
+sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion,
+or sexual identity and orientation.
+
+See [Code of Conduct](./CODE_OF_CONDUCT.md)
+for the complete code of conduct.
 
 ## Support or Contact
 
