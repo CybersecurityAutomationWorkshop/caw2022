@@ -12,7 +12,8 @@ in Washington, DC.
 
 ## Logistics
 
-### Agenda
+**Agenda**
+
 Schedule is tentatively 9AM-5PM 2-June-2022;
 details are still being worked.
 
@@ -24,19 +25,21 @@ the intent will be spread out the keynotes as recommended.
 
 See [Agenda](./Agenda.md) for more details.
 
-### Venue
+**Venue**
+
 The [AT&T Forum](https://policyforum.att.com/att-forum/)
 is located at 601 New Jersey Avenue NW, Washington, DC 20001.
 
 Thank you to AT&T for hosting the event for us.
 
-### Remote Access
+**Remote Access**
+
 Intent is to allow virtual participation.
 It may not apply to all sessions or all interoperation demonstrations.
 
 Details need to be worked out yet.
 
-### Eligibility
+**Eligibility**
 Open to all.
 Free.
 Registration will be required.
@@ -50,9 +53,11 @@ Rules would probably
 be based on sweat equity, distance traveled,
 and a quota (ie to spread attendance across the orgs involved).
 
-### Registration
+**Registration**
 Participation will require registration.
 Details forthcoming.
+
+**Organizing Committee**
 
 ## Keynotes
 keynote speakers have been lined up.
@@ -174,10 +179,20 @@ or sexual identity and orientation.
 See [Code of Conduct](./CODE_OF_CONDUCT.md)
 for the complete code of conduct.
 
-## Support or Contact
+## Participate
 
 Join the mailing list:
 https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about
+
+Join the organizing committee:
+See the mailing list archives for meeting announcements,
+surveys, and how to help.
+
+Contribute to this website:
+Click on the GitHub button at the top of this page.
+See 
+
+## Support or Contact
 
 Need help with contributing to this page - click on the github repo
 link in the banner at the top
