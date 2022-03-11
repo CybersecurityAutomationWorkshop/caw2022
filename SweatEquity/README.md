@@ -11,12 +11,12 @@ as part of the stated use cases.
 Click on a participants link
 for more information on what they
 will be providing:
-- [sFractal](./sFractal.md)
-- [DoD](./DoD.md)
-- [Huntington Ingalls](HuntingtonIngalls.md)
-- [University of Oslo](./UniversityOslo.md)
-- [Linux Foundation](./LinuxFoundation.md)
-- [Cybeats](./Cybeats.md)
+- [sFractal](./sFractal/README.md)
+- [DoD](./DoD/README.md)
+- [Huntington Ingalls](HuntingtonIngalls/README.md)
+- [University of Oslo](./UniversityOslo/README.md)
+- [Linux Foundation](./LinuxFoundation/README.md)
+- [Cybeats](./Cybeats/README.md)
 - ...
 
 A procedural note about modifying this
