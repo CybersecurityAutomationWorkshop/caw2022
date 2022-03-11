@@ -17,11 +17,14 @@ in Washington, DC.
 Schedule is tentatively 9AM-5PM 2-June-2022;
 details are still being worked.
 
-Feedback from the last workshop recommended spreading the
-keynotes throughout the day
-(last time they were all in the kickoff session).
-Although a detailed agenda still needs to be created,
-the intent will be spread out the keynotes as recommended.
+Feedback from the last workshop recommended
+fewer keynotes and spreading the
+keynotes throughout the day instead of all at kickoff.
+Keynotes were reduced to 4 and they will be:
+- kickoff
+- just before lunch
+- just after lunch
+- closing
 
 See [Agenda](./Agenda.md) for more details.
 
@@ -32,14 +35,23 @@ is located at 601 New Jersey Avenue NW, Washington, DC 20001.
 
 Thank you to AT&T for hosting the event for us.
 
+Light refreshments will be provided - thanks again to AT&T.
+Intent is to have lunch
+brought in to maximize workshop time.
+A sponsor has volunteered to provide lunch.
+Details are still being worked.
+
+More details on venue, refreshments, etc are [tbd](fixlink)
+
 **Remote Access**
 
 Intent is to allow virtual participation.
 It may not apply to all sessions or all interoperation demonstrations.
 
-Details need to be worked out yet.
+More details in [tbd](fixlink).
 
 **Eligibility**
+
 Open to all.
 Free.
 Registration will be required.
@@ -50,17 +62,17 @@ some sort of rules will need to be worked out,
 well in advance,
 on who is eligible to attend.
 Rules would probably
-be based on sweat equity, distance traveled,
-and a quota (ie to spread attendance across the orgs involved).
+be based on sweat equity,
+distance traveled,
+a quota (ie to spread attendance across the orgs involved),
+with a tie-breaker to who registers first.
 
 **Registration**
 Participation will require registration.
 Details forthcoming.
 
-**Organizing Committee**
-
 ## Keynotes
-keynote speakers have been lined up.
+The 4 keynote speakers have been lined up.
 Eventually add them here or make a subtending page.
 
 ## Participating Organizations
@@ -69,8 +81,8 @@ Strictly speaking none
 getting together to understand and get stuff interoperating
 for the common good).
 
-But the individuals will be (potentially?)
-bringing together the work of the following:
+But the individuals have already volunteered
+contributions bringing together the work of the following:
 - [PACE](https://github.com/opencybersecurityalliance/PACE)
 - [OpenC2](openc2.org)
 - TAC
@@ -78,9 +90,9 @@ bringing together the work of the following:
 - SBOM
 - LF SPDX
 - OWASP CycloneDX
-- CASF
+- CSAF
 
-the above committed. add the others as they commit or now?
+The hope is contributions will also represent:
 - CTI/STIX/TAXII
 - LF Daggerboard
 - OCA Ontology
@@ -95,8 +107,6 @@ see
 [OrgMashup](./OrgMashup/README.md)
 
 ## Objective, Goals, Focus
-Still early in planning stages so this needs work
-
 Attendees should walk away feeling
 that they have had a positive engagement
 with their peers
@@ -104,16 +114,19 @@ and have more confidence
 cybersecurity automation
 is in a better state.
 
-Objectives include: blah blah
+The objective is demonstrating working interoperating
+systems contributing to cybersecurity automation,
+particularly across different participants
+and across the different standards and organizations
+in this mashup of meetups.
 
-Goals are: blah blah
+The method to achieve the objective will be
+demonstration(s) of the use cases
+in a subsequent section.
 
-Focus: demonstrating working interoperating
-systems contributing to cybersecurity automation.
-
-mashup of meetups
-
-hackathon
+There may be a certain amount of hackathon
+to fill in the gaps to complete missing aspects
+of the use cases.
 
 ## Sweat Equity
 To learn more about what participants are bringing
@@ -190,7 +203,7 @@ surveys, and how to help.
 
 Contribute to this website:
 Click on the GitHub button at the top of this page.
-See 
+See [CONTRIBUTING](CONTRIBUTING.md)
 
 ## Support or Contact
 
