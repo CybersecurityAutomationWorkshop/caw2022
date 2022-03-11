@@ -14,17 +14,30 @@ in Washington, DC.
 
 **Agenda**
 
-Schedule is tentatively 9AM-5PM 2-June-2022;
-details are still being worked.
+The Workshop will take place 9AM-5PM EDT 2-June-2022.
 
-Feedback from the last workshop recommended
-fewer keynotes and spreading the
-keynotes throughout the day instead of all at kickoff.
-Keynotes were reduced to 4 and they will be:
-- kickoff
-- just before lunch
-- just after lunch
-- closing
+The four keynote speakers will be:
+- Dan Solero (AT&T)
+- Allan Friedman (CISA)
+- Chuck Brooks (Georgetown University)
+- Neal Ziring (NSA)
+
+The remaining time will be spent either:
+- demonstrating interworking parts/all of a use case
+   + the hope is much of the details will be worked out prior to the Workshop as to what systems will interoperate on which use case(s)
+- trouble shooting interworking
+- hackathon to create new lycans or modify interfaces in the spirit of adding new interworking scenarios.
+
+At the last Workshop, participants created <3 min videos introducing themselves
+and what they were bringing to the Workshop.
+The intent is to do similar for this workshop with some changes:
+- videos are to be made prior to 26-May
+- videos will be compiled into a YouTube playlist
+- playlist will be made available to participants 27-May
+- videos will NOT be shown at Workshop. Participants should watch all the videos prior to the start of the Workshop.
+
+Single or multiple track is not yet decided and will depend on
+the number and extent of the interworking scenarios.
 
 See [Agenda](./Agenda.md) for more details.
 
@@ -71,10 +84,6 @@ with a tie-breaker to who registers first.
 Participation will require registration.
 Details forthcoming.
 
-## Keynotes
-The 4 keynote speakers have been lined up.
-Eventually add them here or make a subtending page.
-
 ## Participating Organizations
 Strictly speaking none
 (ie workshop is a collection of individuals
@@ -112,7 +121,8 @@ that they have had a positive engagement
 with their peers
 and have more confidence
 cybersecurity automation
-is in a better state.
+is in a better state
+because of effort put into the Workshop.
 
 The objective is demonstrating working interoperating
 systems contributing to cybersecurity automation,
@@ -121,12 +131,35 @@ and across the different standards and organizations
 in this mashup of meetups.
 
 The method to achieve the objective will be
-demonstration(s) of the use cases
-in a subsequent section.
+demonstration(s) of
+[use cases](./DemoUseCases/README.md).
 
 There may be a certain amount of hackathon
 to fill in the gaps to complete missing aspects
 of the use cases.
+
+The focus of the Workshop is really up to the participants
+and what they bring for interworking.
+At least some participants are focusing on
+PACE use cases involving getting/retrieving/evaluating
+SBOMs/VEXs/CVEs/... including the larger context playbooks in
+which this is a part, and the subsequent actions taken as a result.
+
+put in pithy meaty example here and ref to rest in use cases.
+
+The Workshop is **NOT** a bakeoff.
+The goal is interworking, not 'picking a winner' among multiple standards
+(e.g. focus on transforming between SPDX/CycloneDX
+instead of focusing on the differences
+or which is better for a given ecosystem/usecase).
+
+The Workshop is **NOT** a trade show or beauty pageant.
+Vendors (and open source projects) can shill their products
+only in the context
+of meeting the interworking interfaces
+(even if it's with the ["hand-waving" lycan](./lycan.md)).
+Consider the Code of Conduct to have "vendor" added to the harassment-free
+list. Talk up your value, don't talk down your competitors.
 
 ## Sweat Equity
 To learn more about what participants are bringing
@@ -175,6 +208,8 @@ can be found at
 This workshop is being organized by one passionate individual volunteer
 who was unelected and will be running it on the
 D-cubed model (Duncan/democratic/dictator).
+Hopefully others will step in to help and we'll evolve to
+spread the joy around.
 
 ## Code of Conduct
 TL;DR - don't be a jerk.
