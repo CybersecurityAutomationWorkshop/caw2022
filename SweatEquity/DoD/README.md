@@ -9,7 +9,7 @@ and sponsors HII to participate in both OpenC2 and PACE.
 
 ## 1. Software/Application/Device Contributions
 DoD's contributions to the CAW include development of:
-* OpenC2 actuator profiles (both PACE- and non-PACE-related)
+* OpenC2 actuator profiles (both PACE and non-PACE related)
 * OpenC2 message validation tools
 * Non-OpenC2 interface specifications (PACE PAR)
 * Posture attribute repository (PAR) proof of concept
@@ -26,7 +26,7 @@ implemented on Amazon Web Services using a [GraphQL interface](https://aws.amazo
 CAW participants will be able to query a set of dummy components (IT assets) and a set of random
 but syntactically valid example SBOMs associated with those components.
 PAR content will be managed exclusively by the Posture Attribute Collection and
-Posture Attribute Retrieval systems; all user access is query-only.
+Posture Attribute Evaluation systems; all user access is query-only.
 
 ![GraphQL](images/AWS-GraphQL-s.png)
 
