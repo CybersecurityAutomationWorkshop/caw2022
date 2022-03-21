@@ -30,6 +30,20 @@ Posture Attribute Evaluation systems; all user access is query-only.
 
 ![GraphQL](images/AWS-GraphQL-s.png)
 
+**PAR Structure**
+
+Every entry in the PAR has an ID, which must be globally unique and in the form of an
+Internationalized Resource Identifier ([IRI](https://datatracker.ietf.org/doc/html/rfc3987)).
+Initially the PAR will include two entry types: devices and SBOMs.
+* A device is a physical or virtual processing element owned or managed by an organization.
+A device entry includes asset identifying and configuration information
+including the SBOM(s) applicable to that device.
+* A Software Bill of Materials ([SBOM](https://ntia.gov/SBOM))
+is a nested inventory for software, a list of ingredients that make up software components.
+An SBOM entry includes the SBOM unique identifier, the seven
+[SBOM minimum elements](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf),
+and the SBOM document in one of several types and data formats.
+
 ## 2. Which interfaces in which usecases
 
 [return to Home](../../index.md)
