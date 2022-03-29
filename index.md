@@ -1,11 +1,23 @@
 # Cybersecurity Automation Workshop
 
-```markdown
-**Under Construction**
+![EO 14028](Images/21-214_Cyber-Executive-Order_WEB.png)
 
-```
+[Executive Order 14028](https://www.cisa.gov/executive-order-improving-nations-cybersecurity)
+establishes that "Prevention, detection, assessment, and remediation of cyber incidents
+is essential to national and economic security" and establishes requirements for Federal
+Information Systems, including:
+* (Sec. 3) Modernizing Federal Government Cybersecurity
+  * advance toward Zero Trust Architecture
+  * accelerate use of secure cloud services
+  * streamline access to cybersecurity data
+* (Sec. 4) Enhancing Software Supply Chain Security
+  * provide purchasers a Software Bill of Materials
+* (Sec. 6) Standardizing Federal Government's Playbook for Responding to Cybersecurity
+Vulnerabilities and Incidents
+* (Sec. 7) Improving Detection of Cybersecurity Vulnerabilities and Incidents
 
-The next Cybersecurity Automation Workshop
+Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
+among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
 will be held 2-June-2022 at the
 [AT&T Forum](https://policyforum.att.com/att-forum/)
 in Washington, DC.
