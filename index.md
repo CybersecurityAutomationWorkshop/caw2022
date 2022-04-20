@@ -1,3 +1,6 @@
+
+![CAW logo](Images/caw_logo.jpg)
+
 # Cybersecurity Automation Workshop
 
 ![EO 14028](Images/21-214_Cyber-Executive-Order_WEB.png)
