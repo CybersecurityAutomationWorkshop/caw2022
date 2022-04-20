@@ -79,7 +79,7 @@ More details in [tbd](fixlink).
 
 Open to all.
 Free.
-Registration will be required.
+Registration is required.
 
 Should we reach limits (if any)
 on the number of physical attendees,
@@ -93,16 +93,21 @@ a quota (ie to spread attendance across the orgs involved),
 with a tie-breaker to who registers first.
 
 **Registration**
-Participation will require registration.
-Details forthcoming.
+Registration is open until May 19th.
+Register at https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767
+
+There are 4 types of tickets:
+- physically in DC or virtually over web
+- w or wo sweat equity
 
 ## Participating Organizations
 Strictly speaking none
 (ie workshop is a collection of individuals
 getting together to understand and get stuff interoperating
 for the common good).
+It is an OASIS sponsored event but does not require OASIS membership to attend.
 
-But the individuals have already volunteered
+Individuals have already volunteered
 contributions bringing together the work of the following:
 - [PACE](https://github.com/opencybersecurityalliance/PACE)
 - [OpenC2](openc2.org)
@@ -112,13 +117,13 @@ contributions bringing together the work of the following:
 - LF SPDX
 - OWASP CycloneDX
 - CSAF
-
-The hope is contributions will also represent:
-- CTI/STIX/TAXII
-- LF Daggerboard
-- OCA Ontology
+- CTI (ie STIX/TAXII)
 - OCA stixshifter
 - OCA Kestrel
+
+The hope is contributions will also represent:
+- LF Daggerboard
+- OCA Ontology
 - IETF MUD
 - ...
 
