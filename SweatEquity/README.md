@@ -17,6 +17,7 @@ will be providing:
 - [University of Oslo](./UniversityOslo/README.md)
 - [Linux Foundation](./LinuxFoundation/README.md)
 - [Cybeats](./Cybeats/README.md)
+- [Copado](./Copado/README.md)
 - ...
 
 A procedural note about modifying this
