@@ -16,9 +16,9 @@ an extensible, adaptive approach.
 Their goal is to dramatically change the timeline and effectiveness of
 cyber defense via integration, automation, orchestration
 and sharing of machine-readable cyber threat information.
-Standard interfaces promote interoperability is crucial
-so solutions developed for one organization and be exchanged
-and useable by the community.
+Standard interfaces promote interoperability which is crucial
+so that solutions developed for one organization can be exchanged
+and useable by the wider community.
 
 - **sensing** is gathering data. Some examples in our use cases include SBOMs, VEXs, and CVEs - all of which are data about the security posture of enterprise devices. Other examples include data from security devices such as routers, firewalls, intrusion detection systems, etc.
 - **sense making** is integrating across multiple, disparate sources of information making the data meaningful. Stixshifter is one example of transforming data - in this case transforming vendor-specific  data into standard STIX observables. PACE is another example where SBOMs, VEXs, and CVEs are combined to give the security posture for a device. Automating the determination of risk with algorithms like Hubbard/Sieresen or FAIR would be another example of sense making. Value Stream Management is another sense-making mechanism for providing prioritization data based on business value of the alternative.
