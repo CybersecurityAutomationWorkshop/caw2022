@@ -5,6 +5,7 @@ This will make more sense once it's filled in
 ## IACD Framework
 The demo use cases will follow a modular functional framework
 from Integrated Adaptive Cyber Defense (IACD).
+
 ---
 <p align="center">Figure 1</p>
 
@@ -26,9 +27,72 @@ and useable by the wider community.
 - **acting** is sending the command and control to do things as a result of the decision making. OpenC2 is a standardized language for the command and control of technologies that provide or support cyber defenses.
 
 
-## Big Picture Ideal Use Case
+# Big Picture Ideal Use Cases
+
+These are realistic (aka complex) use cases
+and hence there are many elements for a given use case.
+Any given use case will have:
+- situation (e.g. "Criminal hackers are currently in the system")
+- industry (e.g. "healthcare")
+- organization (e.g. "General Hospital")
+- infrastructure systems (e.g. BestInClass intrusion detection system, Stixshifter, PACE PES/PCS/PAR, ...)
+- attributes (e.g. asset type, triage scale, SBOMs, VEXs)
+- parameters (e.g. asset type = respirator, triage = life threatening, SBOM = incomplete CycloneDx, ...)
+- assets (both micro e.g. mri47 with particular attributes/parameters, and macro e.g. 234 "level 1" devices with SBOMs and VEXs)
+- playbooks (e.g. CACAO playbook to handle a particular set of conditions)
+- security policies (e.g. General Hospital may choose to do different actions on VEX product_status="not affected/component_not_present" than on "not affected/vulnerable_code_not_in_execute_path" whereas Podunk Rural Community Hospital may choose to lump several/all VEX flags together.
+
+The demonstrable use interoperability will tend to be down in the weeds
+(eg HII OIF Orchestrator sending a retrieve-SBOM OpenC2 command
+over MQTT to sFractal BlinkyMaHa).
+This section will attempt to define some big picture use cases which
+those specific interoperability use cases fit into.
+
+## Enterprise Security Posture
+In this example, the enterprise
+(a large company or a large government agency)
+has a very complex security posture based on many factors
+across many internal organizations
+located in many places.
+But for the purpose of an executive dashboard,
+the security posture is bucketed into one of
+four states:
+- Business As Usual
+- Heightened Threat
+- Active Attack, no known material consequences foreseen
+- Active Attack with material consequences
+
+This Enterprise Security Posture is maintained within PACE
+based on the enterprise security policies, posture attributes
+within PACE, and algorithms whose details are not relevant to
+understanding this use case.
+The policies, data, and algorithms were developed after
+much internal debate on what is normal, what rates higher attention,
+alerting management, or even material impact that must be
+reported to SEC or other regulatory bodies.
+The calculation of which state the enterprise is currently,
+is done by the PES function within PACE.
+
+This Enterprise Security Posture is used as data in many other
+PACE usecases.
+E.g. different playbooks may be run when under attack.
+This includes both initiating playbooks
+(eg to set up incident response) but also taking different paths
+within playbooks (e.g. BAU may do nothing about a
+particular vulnerability in a
+particular asset, but when under attack additional
+resources may be brought in for enhanced monitoring of this device).
+
+Many other use cases will be developed concerning the details
+beneath this high level overview.
+
+![ESP01](./Images/EnterprisePosture.png)
+
+
 
 need to create
+
+## Specific use cases
 
 ## Specific use case called whatever
 
