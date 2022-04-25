@@ -26,9 +26,7 @@ will be held 2-June-2022 at the
 [AT&T Forum](https://policyforum.att.com/att-forum/)
 in Washington, DC.
 
-## Logistics
-
-**Agenda**
+## Agenda
 
 The Workshop will take place 9AM-5PM EDT 2-June-2022.
 
@@ -44,6 +42,10 @@ The remaining time will be spent either:
 - trouble shooting interworking
 - hackathon to create new lycans or modify interfaces in the spirit of adding new interworking scenarios.
 
+See [Agenda](./Agenda.md) for more details.
+
+**PreWorkshop Homework**
+
 At the last Workshop, participants created <3 min videos introducing themselves
 and what they were bringing to the Workshop.
 The intent is to do similar for this workshop with some changes:
@@ -55,7 +57,8 @@ The intent is to do similar for this workshop with some changes:
 Single or multiple track is not yet decided and will depend on
 the number and extent of the interworking scenarios.
 
-See [Agenda](./Agenda.md) for more details.
+
+## Logistics
 
 **Venue**
 
