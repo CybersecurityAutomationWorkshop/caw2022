@@ -38,7 +38,7 @@ All times EDT:
 - 6PM Optional BBQ at Duncan's house
 
 ## Pre Workshop Homework Assignments
-- [use cases](./DemoUseCases/README.md) developed for all planned interoperations that will take place
+- [use cases](./DemoUseCases/#4-interoperability-demos) developed for all planned interoperations that will take place
 - [Videos](./Videos/README.md) prepared by 26-May
 - all participants watch all the [Videos](./Videos/README.md) prior to workshop so they are familiar with the interfaces and the participants
 

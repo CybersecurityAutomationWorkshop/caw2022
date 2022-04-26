@@ -14,6 +14,16 @@ The purpose of the participant videos is to educate everyone on how the
 participant fits into the cybersecurity automation ecosystem and what
 they are bringing to the workshop.
 
+Neither type of videos are allowed to be promotional advertisements.
+But logos are allowed and organizations are allowed to be proud
+of their accomplishments.
+You are allowed to tout your benefits - you are NOT allowed to disparage
+your competitors.
+If you don't have something nice to say, don't say anything at all.
+This is not a bake-off - it's a plug fest focusing on interoperation.
+Promote automation, interoperation, and transparency.
+Remember an incoming tide raises all boats.
+
 ## Interfaces
 - PACE
     + somebody needs to make
@@ -26,16 +36,42 @@ they are bringing to the workshop.
 - OpenC2
    + [last year](https://youtu.be/O78Qx_6PK9s)
 - CSAF/VEX
+   + somebody needs to make
 - OCA
+   + [last year](https://youtu.be/qZgeJ01cqeQ)
 - VSM
+   + somebody needs to make
 - CACAO
+   + [last year](https://www.youtube.com/watch?v=hi6vXKc_9ZE)
 - TAC
+   + somebody needs to make
 - STIX/TAXII
+   + somebody needs to make
 - stix-shifter
+   + somebody needs to make
 - Kestrel
+   + somebody needs to make
+- IACD
+   + [last year](https://youtu.be/YFRMHGUDU7U)
+- OASIS
+   + [last year](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.10.28-TTD-PlugfestHackathon/Results/OasisCybersecurityAutomationMashup_Trim.mp4)
 
 ## Participants
-- sFractal - last year's at https://youtu.be/uTr9HyRXnGw and will do unless new one made
+- sFractal
+   + [last year](https://youtu.be/uTr9HyRXnGw)
+- Huntington Ingalls - OIF
+   + [last year](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.10.28-TTD-PlugfestHackathon/Results/OIF_Plugfest.pptx)
+- Huntington Ingalls - Yuuki
+   + [last year](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.10.28-TTD-PlugfestHackathon/Results/plugfest_yuuki_hii.m4v)
+- NSA/DoD
+    + [last year](https://docs.google.com/presentation/d/15huEOiGChV2chSM82q_r3grfpkxqkPn4wvObvpZMC9k)
+- One Planet Education Network
+   + [last year](https://www.youtube.com/watch?v=YpUSXLIgphg)
+- Podii
+   + [last year](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.10.28-TTD-PlugfestHackathon/Results/podii.plugfest.intro.mov)
+- CERT/SwiftBOM
+   + [last year](https://youtu.be/pmqGp8TWoF4)
+
 - list here as they come in
 
 ## clean up later
