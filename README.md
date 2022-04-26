@@ -4,6 +4,9 @@ This repo is for building the
 Cybersecurity Automation Workshop
 using GitHub Pages.
 
+The published webpages can be found at
+http://www.cybersecurityautomationworkshop.org/
+
 ## How to Contribute
 add stuff here
 
