@@ -21,7 +21,7 @@ PACE maintainers are selected by acclamation by the PACE working group, and are 
 
  * Adam Montville, CIS, @adammontville
  * Sara Archacki, CIS, @slarchacki22
- * David Lemire, Huntington-Ingalls Industries, @dlemire60
+ * David Lemire, HII, @dlemire60
 
 > Maintainers list updated 11 January 2022
 
