@@ -1,4 +1,4 @@
-# Huntington Ingalls - Sweat Equity
+# HII - Sweat Equity
 
 [HII](https://hii.com/) [Mission
 Technologies](https://hii.com/capabilities/mission-technologies//)
