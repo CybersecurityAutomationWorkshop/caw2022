@@ -59,9 +59,9 @@ Remember an incoming tide raises all boats.
 ## Participants
 - sFractal
    + [last year](https://youtu.be/uTr9HyRXnGw)
-- Huntington Ingalls - OIF
+- HII - OIF
    + [last year](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.10.28-TTD-PlugfestHackathon/Results/OIF_Plugfest.pptx)
-- Huntington Ingalls - Yuuki
+- HII - Yuuki
    + [last year](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.10.28-TTD-PlugfestHackathon/Results/plugfest_yuuki_hii.m4v)
 - NSA/DoD
     + [last year](https://docs.google.com/presentation/d/15huEOiGChV2chSM82q_r3grfpkxqkPn4wvObvpZMC9k)
