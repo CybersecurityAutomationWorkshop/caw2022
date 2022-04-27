@@ -1,6 +1,7 @@
 # Linux Foundation Sweat Equity
 
-put stuff here
+Able to share up sample SBOMs from SPDX Docfests
+Projects able to generate SBOMs for systems (Yocto, Zephyr, etc.)
 
 
 ## Return to Home
