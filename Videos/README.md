@@ -8,7 +8,7 @@ interfaces and participants.
 
 The purpose of the interface videos is to define all the arrows in
 
-![CAW logo](Images/caw_logo.jpg)
+![CAW logo](../Images/caw_logo.jpg)
 
 The purpose of the participant videos is to educate everyone on how the
 participant fits into the cybersecurity automation ecosystem and what
