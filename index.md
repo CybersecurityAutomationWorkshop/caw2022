@@ -7,7 +7,7 @@
 ![EO 14028](Images/21-214_Cyber-Executive-Order_WEB.png)
 
 [Executive Order 14028](https://www.cisa.gov/executive-order-improving-nations-cybersecurity)
-establishes that "Prevention, detection, assessment, and remediation of cyber incidents
+states that "Prevention, detection, assessment, and remediation of cyber incidents
 is essential to national and economic security" and establishes requirements for Federal
 Information Systems, including:
 * (Sec. 3) Modernizing Federal Government Cybersecurity
