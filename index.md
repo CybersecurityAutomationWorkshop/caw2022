@@ -31,10 +31,10 @@ in Washington, DC.
 The Workshop will take place 9AM-5PM EDT 2-June-2022.
 
 The four keynote speakers will be:
-- Dan Solero (AT&T)
-- Allan Friedman (CISA)
-- Chuck Brooks (Georgetown University)
-- Neal Ziring (NSA)
+- [Dan Solero](./Dan_Solero.md) (AT&T)
+- [Allan Friedman](./Allan_Friedman.md) (CISA)
+- [Chuck Brooks](./Chuck_Brooks.md) (Georgetown University)
+- [Neal Ziring](./Neal_Ziring.md) (NSA)
 
 The remaining time will be spent either:
 - demonstrating interworking parts/all of a use case

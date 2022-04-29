@@ -8,7 +8,7 @@ The published webpages can be found at
 http://www.cybersecurityautomationworkshop.org/
 
 ## How to Contribute
-add stuff here
+See [Contributing](./CONTRIBUTING.md)
 
 ## Governance
 This workshop
