@@ -1,11 +1,13 @@
-# Huntington Ingalls - Sweat Equity
+# HII - Sweat Equity
 
-[Huntington Ingalls Industries](https://huntingtoningalls.com/) 
-[Technical Solutions](https://tsd.huntingtoningalls.com/) provides 
-contractor support to DoD for [Open Command and Control (OpenC2)](https://openc2.org) 
-standardization and general cybersecurity automation, with a focus on the 
-development of OpenC2 specifications and associated tooling. For the June 2022 CAW,
-HII TSD will provide software tools, infrastructure support, and in-person participation:
+[HII](https://hii.com/) [Mission
+Technologies](https://hii.com/capabilities/mission-technologies//)
+provides contractor support to DoD for [Open Command and Control
+(OpenC2)](https://openc2.org) standardization and general
+cybersecurity automation, with a focus on the development of
+OpenC2 specifications and associated tooling. For the June 2022
+CAW, HII TSD will provide software tools, infrastructure support,
+and in-person participation:
 
  * OpenC2 Integration Framework (OIF)
    * [Orchestrator](https://github.com/oasis-open/openc2-oif-orchestrator)
