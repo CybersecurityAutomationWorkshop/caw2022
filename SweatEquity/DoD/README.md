@@ -16,6 +16,19 @@ DoD's contributions to the CAW include development of:
 ### 1.1 OpenC2 Actuator Profiles
 
 ### 1.2 Profile Creation and Message Validation Tools
+The OpenC2 [JADN Software]() repo contains:
+* Template to use when creating new actuator profiles
+* Template to use when developing OpenC2 producer and consumer device schemas
+* Software to validate profile and device schemas
+* Software to resolve external references to produce a combined schema
+* Example actuator profile and device schemas
+* Example OpenC2 commands and responses
+* Software to validate commands and responses against a device schema
+
+This software can be used both when creating new actuator profiles and when
+developing and testing OpenC2 implementations prior to interoperability testing.
+
+![Schema Tools](https://raw.githubusercontent.com/oasis-tcs/openc2-usecases/main/Actuator-Profile-Schemas/images/ap-process.jpg)
 
 ### 1.3 Posture Attribute Repository Proof of Concept
 Decision-making components will be able to retrieve PACE information from a
