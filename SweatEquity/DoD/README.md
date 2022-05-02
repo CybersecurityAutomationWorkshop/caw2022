@@ -16,7 +16,7 @@ DoD's contributions to the CAW include development of:
 ### 1.1 OpenC2 Actuator Profiles
 
 ### 1.2 Profile Creation and Message Validation Tools
-The OpenC2 [JADN Software]() repo contains:
+The OpenC2 [JADN Software](https://github.com/oasis-open/openc2-jadn-software) repo contains:
 * Template to use when creating new actuator profiles
 * Template to use when developing OpenC2 producer and consumer device schemas
 * Software to validate profile and device schemas
