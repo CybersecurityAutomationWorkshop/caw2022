@@ -28,7 +28,7 @@ The use cases which will be demonstrated are:
 * [Command retrieving converted SBOM (eg SPDX to CycloneDX) from PACE system (SBOM Studio](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/retrieve_sbom.md#formatserialization-conversions)
 * Command requesting posture evaluation of a CVE (eg log4shell) returning which products contain the component affected by the CVE (eg log4j)
 * Command requesting posture evaluation of an SBOM returning vulnerabilities and licensing policy violations
-* Command requesting posture evaluation comparing two versions of an SBOM returning the difference between vulnerabilities and licensing policy violations for the two versions
+* Command requesting posture evaluation comparing SBOMs from two versions of a product, returning the security posture difference between the the two versions - eg which vulnerabilities were fixed
 
 ## Return to Home
 [return to Home](../../index.md)
