@@ -6,6 +6,12 @@
 
 ![EO 14028](Images/21-214_Cyber-Executive-Order_WEB.png)
 
+Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
+among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
+will be held 2-June-2022 at the
+[AT&T Forum](https://policyforum.att.com/att-forum/)
+in Washington, DC.
+
 [Executive Order 14028](https://www.cisa.gov/executive-order-improving-nations-cybersecurity)
 states that "Prevention, detection, assessment, and remediation of cyber incidents
 is essential to national and economic security" and establishes requirements for Federal
@@ -20,11 +26,6 @@ Information Systems, including:
 Vulnerabilities and Incidents
 * (Sec. 7) Improving Detection of Cybersecurity Vulnerabilities and Incidents
 
-Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
-among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
-will be held 2-June-2022 at the
-[AT&T Forum](https://policyforum.att.com/att-forum/)
-in Washington, DC.
 
 ## Agenda
 
@@ -90,8 +91,8 @@ Registration is required.
 
 Should we reach limits (if any)
 on the number of physical attendees,
-some sort of rules will need to be worked out,
-well in advance,
+some sort of rules will need to be worked out
+well in advance
 on who is eligible to attend.
 Rules would probably
 be based on sweat equity,
