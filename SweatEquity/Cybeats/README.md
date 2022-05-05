@@ -20,7 +20,7 @@ Since the PACE OpenC2 interfaces are still being defined,
 liberal use of the hand-waving lycan will be used
 to convert from the PACE interface to the Cybeats APIs.
 
-![cybeats_pace](./Images/CybeatsLycan.drawio.png)
+![cybeats_pace](./images/cybeatsLycan.png)
 
 The use cases which will be demonstrated are:
 * [Command inserting SBOM into PACE system (SBOM Studio)](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_with_command.md)
