@@ -91,8 +91,8 @@ Registration is required.
 
 Should we reach limits (if any)
 on the number of physical attendees,
-some sort of rules will need to be worked out,
-well in advance,
+some sort of rules will need to be worked out
+well in advance
 on who is eligible to attend.
 Rules would probably
 be based on sweat equity,
