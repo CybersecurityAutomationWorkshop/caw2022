@@ -6,12 +6,6 @@
 
 ![EO 14028](Images/21-214_Cyber-Executive-Order_WEB.png)
 
-Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
-among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
-will be held 2-June-2022 at the
-[AT&T Forum](https://policyforum.att.com/att-forum/)
-in Washington, DC.
-
 [Executive Order 14028](https://www.cisa.gov/executive-order-improving-nations-cybersecurity)
 states that "Prevention, detection, assessment, and remediation of cyber incidents
 is essential to national and economic security" and establishes requirements for Federal
@@ -26,6 +20,11 @@ Information Systems, including:
 Vulnerabilities and Incidents
 * (Sec. 7) Improving Detection of Cybersecurity Vulnerabilities and Incidents
 
+Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
+among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
+will be held 2-June-2022 at the
+[AT&T Forum](https://policyforum.att.com/att-forum/)
+in Washington, DC.
 
 ## Agenda
 
@@ -41,22 +40,28 @@ The remaining time will be spent either:
 - demonstrating interworking parts/all of a use case
    + the hope is much of the details will be worked out prior to the Workshop as to what systems will interoperate on which use case(s)
 - trouble shooting interworking
-- hackathon to create new lycans or modify interfaces in the spirit of adding new interworking scenarios.
+- hackathon to create new lycans or modify interfaces in the spirit of adding new interworking scenarios
+- working sessions to work out interfaces (ie what it will take to turn ["hand-waving" lycans](./lycan.md) into real interfaces)
 
 See [Agenda](./Agenda.md) for more details.
 
 **PreWorkshop Homework**
+Prior to the workshop, attendees are encouraged to familiarize
+themselves with the organizations participating,
+what they will be bringing to the workshop,
+and the use cases being demonstrated.
+- Please watch the videos at [Videos](./Videos/)
+- Please familiarize yourself with the "sweat equity" being provided by participants at [Sweat Equity](/SweatEquity/)
+- Please familiarize yourself with the use cases at [use cases](./DemoUseCases/), particularly all [planned interoperation](./DemoUseCases/README.md#4-interoperability-demos) that will take place
 
-At the last Workshop, participants created <3 min videos introducing themselves
-and what they were bringing to the Workshop.
-The intent is to do similar for this workshop with some changes:
-- videos are to be made prior to 26-May
-- videos will be compiled into a YouTube playlist
-- playlist will be made available to participants 27-May
-- videos will NOT be shown at Workshop. Participants should watch all the videos prior to the start of the Workshop.
+The intent is this pre-workshop material will be available by 26-May.
 
-Single or multiple track is not yet decided and will depend on
-the number and extent of the interworking scenarios.
+Single or multiple track
+is not yet decided
+and will depend on
+the number and extent of the interworking scenarios,
+which will depend
+on the sweat equity (so too soon to tell).
 
 
 ## Logistics
@@ -91,8 +96,8 @@ Registration is required.
 
 Should we reach limits (if any)
 on the number of physical attendees,
-some sort of rules will need to be worked out
-well in advance
+some sort of rules will need to be worked out,
+well in advance,
 on who is eligible to attend.
 Rules would probably
 be based on sweat equity,
