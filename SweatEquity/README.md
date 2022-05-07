@@ -12,13 +12,14 @@ Click on a participants link
 for more information on what they
 will be providing:
 - [sFractal](./sFractal/)
-- [DoD](./DoD/README.md)
-- [HII](HII/README.md)
-- [University of Oslo](./UniversityOslo/README.md)
-- [Linux Foundation](./LinuxFoundation/README.md)
-- [Cybeats](./Cybeats/README.md)
-- [Copado](./Copado/README.md)
+- [DoD](./DoD/)
+- [HII](HII/)
+- [University of Oslo](./UniversityOslo/)
+- [Linux Foundation](./LinuxFoundation/)
+- [Cybeats](./Cybeats/)
+- [Copado](./Copado/)
 - [CTIN](./CTIN/)
+- [Fortress](./Fortress/)
 - ...
 
 A procedural note about modifying this
