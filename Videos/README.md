@@ -40,7 +40,7 @@ Remember an incoming tide raises all boats.
 - OCA
    + [last year](https://youtu.be/qZgeJ01cqeQ)
 - VSM
-   + somebody needs to make
+   + [VSM](https://youtu.be/Yto8nUeki-s) - watch the first 3 minutes of this 10 minute video
 - CACAO
    + [last year](https://www.youtube.com/watch?v=hi6vXKc_9ZE)
 - TAC
