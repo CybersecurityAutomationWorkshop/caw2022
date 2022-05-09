@@ -11,9 +11,11 @@ as part of the stated use cases.
 Click on a participants link
 for more information on what they
 will be providing:
+- [AT&T](./ATT)
 - [sFractal](./sFractal/)
 - [DoD](./DoD/)
 - [HII](HII/)
+- [Google](./Google)
 - [University of Oslo](./UniversityOslo/)
 - [Linux Foundation](./LinuxFoundation/)
 - [Cybeats](./Cybeats/)

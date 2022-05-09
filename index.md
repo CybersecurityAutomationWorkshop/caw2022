@@ -105,13 +105,24 @@ distance traveled,
 a quota (ie to spread attendance across the orgs involved),
 with a tie-breaker to who registers first.
 
-**Registration**
+## Registration
 Registration is open until May 19th.
 Register at https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767
 
 There are 4 types of tickets:
-- physically in DC or virtually over web
-- w or wo sweat equity
+- physically in DC, contributing ["sweat equity"](./SweatEquity/README.md)
+- physically in DC, general attendee
+- virtually over web, contributing ["sweat equity"](./SweatEquity/README.md) virtually
+- virtually over web, general attendee
+
+Please sign up for one ticket per person,
+and one person per ticket.
+If you are not sure, pick one
+and change it later if plans change.
+
+Registration closes 19-May
+(other than for changes to ticket type)
+so sign up NOW!
 
 ## Participating Organizations
 Strictly speaking none
