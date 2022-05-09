@@ -120,8 +120,7 @@ and one person per ticket.
 If you are not sure, pick one
 and change it later if plans change.
 
-Registration closes 19-May
-(other than for changes to ticket type)
+Registration closes 19-May at Noon Eastern
 so sign up NOW!
 
 ## Participating Organizations
