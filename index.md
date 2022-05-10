@@ -3,6 +3,11 @@
 ![CAW logo](Images/caw_logo.jpg)
 
 ## Background
+Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
+among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
+will be held 2-June-2022 at the
+[AT&T Forum](https://policyforum.att.com/att-forum/)
+in Washington, DC.
 
 ![EO 14028](Images/21-214_Cyber-Executive-Order_WEB.png)
 
@@ -19,12 +24,6 @@ Information Systems, including:
 * (Sec. 6) Standardizing Federal Government's Playbook for Responding to Cybersecurity
 Vulnerabilities and Incidents
 * (Sec. 7) Improving Detection of Cybersecurity Vulnerabilities and Incidents
-
-Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
-among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
-will be held 2-June-2022 at the
-[AT&T Forum](https://policyforum.att.com/att-forum/)
-in Washington, DC.
 
 ## Agenda
 
