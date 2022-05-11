@@ -8,7 +8,7 @@ interfaces and participants.
 
 The purpose of the interface videos is to define all the arrows in
 
-![CAW logo](Images/caw_logo.jpg)
+![CAW logo](../Images/caw_logo.jpg)
 
 The purpose of the participant videos is to educate everyone on how the
 participant fits into the cybersecurity automation ecosystem and what
@@ -40,7 +40,7 @@ Remember an incoming tide raises all boats.
 - OCA
    + [last year](https://youtu.be/qZgeJ01cqeQ)
 - VSM
-   + somebody needs to make
+   + [VSM](https://youtu.be/Yto8nUeki-s) - watch the first 3 minutes of this 10 minute video
 - CACAO
    + [last year](https://www.youtube.com/watch?v=hi6vXKc_9ZE)
 - TAC

@@ -19,21 +19,25 @@ All times EDT:
 - 9AM kickoff
    + Welcome to Venue
    + Safety review
-- 9:15 AM Dan Solero Keynote
-   + need talk title, bio - hotlink to both
+- 9:15 AM
+   + [Dan Solero](./Dan_Solero.md) (AT&T)
+   + [Abstract](./Dan_Solero.md)
 - 9:45 AM  Interworking Session(s)
 - 11:15 AM Break
-- 11:30AM Allan Friedman Keynote
-   + need talk title, bio - hotlink to both
+- 11:30 AM Keynote Title
+   + [Allan Friedman](./Allan_Friedman.md) (CISA)
+   + [Abstract](./Allan_Friedman.md)
 - Noon Lunch in situ
-- 1:00 PM Chuck Brooks Keynote
-   + need talk title, bio - hotlink to both
+- 1:00 PM Keynote Title
+   + [Chuck Brooks](./Chuck_Brooks.md) (Georgetown University)
+   + [Abstract](./Chuck_Brooks.md)
 - 1:30 PM Interworking Session(s)
 - 3:45 PM Break
 - 4 PM Summary Plenary session
    + review successes and learnings
-- 4:30 PM Neal Ziring Keynote
-   + need talk title, bio - hotlink to both
+- 4:30 PM Keynote Title
+   + [Neal Ziring](./Neal_Ziring.md) (NSA)
+   + [Abstract](./Neal_Ziring.md)
 - 5PM Adjourn
 - 6PM Optional BBQ at Duncan's house
 

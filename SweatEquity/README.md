@@ -11,13 +11,18 @@ as part of the stated use cases.
 Click on a participants link
 for more information on what they
 will be providing:
-- [sFractal](./sFractal/README.md)
-- [DoD](./DoD/README.md)
-- [HII](HII/README.md)
-- [University of Oslo](./UniversityOslo/README.md)
-- [Linux Foundation](./LinuxFoundation/README.md)
-- [Cybeats](./Cybeats/README.md)
-- [Copado](./Copado/README.md)
+- [AT&T](./ATT)
+- [sFractal](./sFractal/)
+- [DoD](./DoD/)
+- [HII](HII/)
+- [Google](./Google)
+- [University of Oslo](./UniversityOslo/)
+- [Linux Foundation](./LinuxFoundation/)
+- [Cybeats](./Cybeats/)
+- [Copado](./Copado/)
+- [CTIN](./CTIN/)
+- [Fortress](./Fortress/)
+- [One Planet Education Network](./OnePlanetEducationNetwork)
 - ...
 
 A procedural note about modifying this

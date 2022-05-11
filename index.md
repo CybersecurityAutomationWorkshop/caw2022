@@ -3,11 +3,16 @@
 ![CAW logo](Images/caw_logo.jpg)
 
 ## Background
+Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
+among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
+will be held 2-June-2022 at the
+[AT&T Forum](https://policyforum.att.com/att-forum/)
+in Washington, DC.
 
 ![EO 14028](Images/21-214_Cyber-Executive-Order_WEB.png)
 
 [Executive Order 14028](https://www.cisa.gov/executive-order-improving-nations-cybersecurity)
-establishes that "Prevention, detection, assessment, and remediation of cyber incidents
+states that "Prevention, detection, assessment, and remediation of cyber incidents
 is essential to national and economic security" and establishes requirements for Federal
 Information Systems, including:
 * (Sec. 3) Modernizing Federal Government Cybersecurity
@@ -20,43 +25,60 @@ Information Systems, including:
 Vulnerabilities and Incidents
 * (Sec. 7) Improving Detection of Cybersecurity Vulnerabilities and Incidents
 
-Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
-among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
-will be held 2-June-2022 at the
-[AT&T Forum](https://policyforum.att.com/att-forum/)
-in Washington, DC.
-
 ## Agenda
 
 The Workshop will take place 9AM-5PM EDT 2-June-2022.
 
 The four keynote speakers will be:
-- Dan Solero (AT&T)
-- Allan Friedman (CISA)
-- Chuck Brooks (Georgetown University)
-- Neal Ziring (NSA)
+- [Dan Solero](./Dan_Solero.md) (AT&T)
+- [Allan Friedman](./Allan_Friedman.md) (CISA)
+- [Chuck Brooks](./Chuck_Brooks.md) (Georgetown University)
+- [Neal Ziring](./Neal_Ziring.md) (NSA)
 
 The remaining time will be spent either:
 - demonstrating interworking parts/all of a use case
    + the hope is much of the details will be worked out prior to the Workshop as to what systems will interoperate on which use case(s)
 - trouble shooting interworking
-- hackathon to create new lycans or modify interfaces in the spirit of adding new interworking scenarios.
+- hackathon to create new lycans or modify interfaces in the spirit of adding new interworking scenarios
+- working sessions to work out interfaces (ie what it will take to turn ["hand-waving" lycans](./lycan.md) into real interfaces)
 
 See [Agenda](./Agenda.md) for more details.
 
 **PreWorkshop Homework**
+Prior to the workshop, attendees are encouraged to familiarize
+themselves with the organizations participating,
+what they will be bringing to the workshop,
+and the use cases being demonstrated.
+- Please watch the videos at [Videos](./Videos/)
+- Please familiarize yourself with the "sweat equity" being provided by participants at [Sweat Equity](/SweatEquity/)
+- Please familiarize yourself with the use cases at [use cases](./DemoUseCases/), particularly all [planned interoperation](./DemoUseCases/README.md#4-interoperability-demos) that will take place
 
-At the last Workshop, participants created <3 min videos introducing themselves
-and what they were bringing to the Workshop.
-The intent is to do similar for this workshop with some changes:
-- videos are to be made prior to 26-May
-- videos will be compiled into a YouTube playlist
-- playlist will be made available to participants 27-May
-- videos will NOT be shown at Workshop. Participants should watch all the videos prior to the start of the Workshop.
+The intent is this pre-workshop material will be available by 26-May.
 
-Single or multiple track is not yet decided and will depend on
-the number and extent of the interworking scenarios.
+Single or multiple track
+is not yet decided
+and will depend on
+the number and extent of the interworking scenarios,
+which will depend
+on the sweat equity (so too soon to tell).
 
+## Registration
+Registration is open until Noon Eastern on May 19th.
+Register at [https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767](https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767)
+
+There are 4 types of tickets:
+- physically in DC, contributing ["sweat equity"](./SweatEquity/README.md)
+- physically in DC, general attendee
+- virtually over web, contributing ["sweat equity"](./SweatEquity/README.md) virtually
+- virtually over web, general attendee
+
+Please sign up for one ticket per person,
+and one person per ticket.
+If you are not sure, pick one
+and change it later if plans change.
+
+Registration closes 19-May at Noon Eastern
+so sign up NOW!
 
 ## Logistics
 
@@ -98,14 +120,6 @@ be based on sweat equity,
 distance traveled,
 a quota (ie to spread attendance across the orgs involved),
 with a tie-breaker to who registers first.
-
-**Registration**
-Registration is open until May 19th.
-Register at https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767
-
-There are 4 types of tickets:
-- physically in DC or virtually over web
-- w or wo sweat equity
 
 ## Participating Organizations
 Strictly speaking none

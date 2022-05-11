@@ -1,6 +1,6 @@
 # Copado Sweat Equity
 
-put stuff here
+put stuff here about VSM use cases
 
 
 ## Return to Home
