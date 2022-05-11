@@ -11,7 +11,9 @@ The sample use cases are:
 
 1. SOC UC
 
-Given the current state of the cybersecurity industry, it is becoming increasingly apparent that one ‘system of record’ in an enterprise is not sufficient, especially for post-incident analysis and forensics. A well implemented value stream mapping will bring together disparate information from across verticals in an enterprise to create a lattice of assurance that will make it less likely that an adversary can tamper with data to hide their tracks. This will create an environment of auditability that leads to enhanced forensics capabilities. In more advanced applications, value stream mapping could have an impact on areas such as enhanced behavioral detection and automated response.
+Given the current state of the cybersecurity industry, it is becoming increasingly apparent that one ‘system of record’ in an enterprise is not sufficient, especially for post-incident analysis and forensics. 
+A well implemented value stream mapping will bring together disparate information from across verticals in an enterprise to create a lattice of assurance that will make it less likely that an adversary can tamper with data to hide their tracks. 
+This will create an environment of auditability that leads to enhanced forensics capabilities. In more advanced applications, value stream mapping could have an impact on areas such as enhanced behavioral detection and automated response.
 
 This use case will focus on gathering data and analysis. Important considerations for each steep step are outlined below.
 
