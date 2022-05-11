@@ -3,6 +3,11 @@
 ![CAW logo](Images/caw_logo.jpg)
 
 ## Background
+Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
+among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
+will be held 2-June-2022 at the
+[AT&T Forum](https://policyforum.att.com/att-forum/)
+in Washington, DC.
 
 ![EO 14028](Images/21-214_Cyber-Executive-Order_WEB.png)
 
@@ -19,12 +24,6 @@ Information Systems, including:
 * (Sec. 6) Standardizing Federal Government's Playbook for Responding to Cybersecurity
 Vulnerabilities and Incidents
 * (Sec. 7) Improving Detection of Cybersecurity Vulnerabilities and Incidents
-
-Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
-among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
-will be held 2-June-2022 at the
-[AT&T Forum](https://policyforum.att.com/att-forum/)
-in Washington, DC.
 
 ## Agenda
 
@@ -63,6 +62,23 @@ the number and extent of the interworking scenarios,
 which will depend
 on the sweat equity (so too soon to tell).
 
+## Registration
+Registration is open until Noon Eastern on May 19th.
+Register at [https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767](https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767)
+
+There are 4 types of tickets:
+- physically in DC, contributing ["sweat equity"](./SweatEquity/README.md)
+- physically in DC, general attendee
+- virtually over web, contributing ["sweat equity"](./SweatEquity/README.md) virtually
+- virtually over web, general attendee
+
+Please sign up for one ticket per person,
+and one person per ticket.
+If you are not sure, pick one
+and change it later if plans change.
+
+Registration closes 19-May at Noon Eastern
+so sign up NOW!
 
 ## Logistics
 
@@ -104,24 +120,6 @@ be based on sweat equity,
 distance traveled,
 a quota (ie to spread attendance across the orgs involved),
 with a tie-breaker to who registers first.
-
-## Registration
-Registration is open until Noon Eastern on May 19th.
-Register at [https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767](https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767)
-
-There are 4 types of tickets:
-- physically in DC, contributing ["sweat equity"](./SweatEquity/README.md)
-- physically in DC, general attendee
-- virtually over web, contributing ["sweat equity"](./SweatEquity/README.md) virtually
-- virtually over web, general attendee
-
-Please sign up for one ticket per person,
-and one person per ticket.
-If you are not sure, pick one
-and change it later if plans change.
-
-Registration closes 19-May at Noon Eastern
-so sign up NOW!
 
 ## Participating Organizations
 Strictly speaking none
