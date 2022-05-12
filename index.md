@@ -268,7 +268,7 @@ for the complete code of conduct.
 ## Participate
 
 Join the mailing list:
-https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about
+[https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about](https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about)
 
 Join the organizing committee:
 See the mailing list archives for meeting announcements,

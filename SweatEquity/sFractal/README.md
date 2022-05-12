@@ -105,7 +105,7 @@ Help on anything appreciated,
 but especially on PACE and other quiz questions.
 Requires no programming experience,
 just markdown e.g.
-https://github.com/sFractal-Podii/quizquadaminos/blob/develop/qna/automation/001.md.
+[https://github.com/sFractal-Podii/quizquadaminos/blob/develop/qna/automation/001.md](https://github.com/sFractal-Podii/quizquadaminos/blob/develop/qna/automation/001.md).
 
 ### 2.4 Ogres
 sFractal will instantiate Open Graph Repository in Elixir for Sboms (OGRES)
@@ -131,7 +131,7 @@ Hopefully will instantiate:
 - OpenC2 PACE PES Actuator Profile
 
 Software at:
-- https://github.com/sparrell/Ogres
+- [https://github.com/sparrell/Ogres](https://github.com/sparrell/Ogres)
 
 Instantiated at:
 - not instantiated yet at ogres.caw.sfractal.com
@@ -155,7 +155,7 @@ So in this context, this repo is "abounding in" example data.
 Oser means "to dare", as in "Do we dare to start populating this data?" :-)
 
 Software at:
-- https://github.com/sparrell/Oser
+- [https://github.com/sparrell/Oser](https://github.com/sparrell/Oser)
 
 Instantiated at:
 - this repo will not be instantiated per se. Data from repo will be used by Foad and Ogres and any other projects that want to use the data for testing/demonstration.
@@ -233,7 +233,7 @@ will be devices in the lower left of the figure above.
 ### 3.2.1 PCS Use Cases
 Editor's note:
 add more detail and on the 1,2,3,4 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace)
 with details on the various components, commands, and interfaces.
 
 Editor's note:
@@ -257,17 +257,17 @@ other side use case from next section
 ### 3.2.2 PAR Use Cases
 Editor's note:
 add more detail and on the 3 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace)
 and on 1,2 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#getting-vex-information-from-pace
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#getting-vex-information-from-pace](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#getting-vex-information-from-pace)
 and on 2,3,4 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace)
 with details on the various components, commands, and interfaces.
 
 ### 3.2.3 PES Use Cases
 Editor's note:
 add more detail and on the 1,2,3,4,5 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#evaluating-risk-from-a-new-cve
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#evaluating-risk-from-a-new-cve](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#evaluating-risk-from-a-new-cve)
 with details on the various components, commands, and interfaces.
 
 Editor's note:
@@ -289,23 +289,23 @@ log4j) including lower risk score, including "yes exploitable", ...
 ### 3.2.4 Orchestrator Use Cases
 Editor's note:
 add more detail and on the 1,4 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace)
 and on 1,2 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#getting-vex-information-from-pace
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#getting-vex-information-from-pace](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#getting-vex-information-from-pace)
 and on 1,5 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace)
 with details on the various components, commands, and interfaces.
 
 ### 3.2.5 EndPoint Use Cases
 Editor's note:
 add more detail and on the 2 in
-https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace
+[https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace](https://github.com/sparrell/PACE/tree/arch2/docs/Arch#putting-an-sbom-into-pace)
 with details on the various components, commands, and interfaces.
 
 Editor's note: need to flesh out and add in new,
 or if appropriate earlier, section(s)
 wrt IIA01 and IIID01 in
-https://github.com/sparrell/PACE/blob/vex2/docs/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags
+[https://github.com/sparrell/PACE/blob/vex2/docs/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags](https://github.com/sparrell/PACE/blob/vex2/docs/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags)
 from a PACE perspective.
 
 ### 3.2.6 Transformer Use Cases
