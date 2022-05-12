@@ -46,6 +46,10 @@ HII has established MQTT and OpenDXL message brokers on Google
 Cloud Platform. Details for how to access those brokers will be
 published here soon.
 
+Connection process:
+ - [OpenDXL Broker](OpenDxlBroker.md)
+ - MQTT Broker
+
 
 ## Return to Home
 [return to Home](../index.md)
