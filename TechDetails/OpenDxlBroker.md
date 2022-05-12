@@ -148,3 +148,9 @@ Certificate Signing Request. Be sure and use your name.
 
 Please reach out on the plugfest Discord and Slack channels, we
 want this to be as easy as possible.
+
+
+## Returns
+[Return to Tech Details](../TechDetails/README.md)
+
+[Return to Home](../index.md)
