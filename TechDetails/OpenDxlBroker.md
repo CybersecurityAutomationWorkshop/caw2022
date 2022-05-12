@@ -1,18 +1,32 @@
 # OpenDXL Broker 
 
-An OpenDXL Broker is available for all CAW participants to connect with and experiment on. There are great open source client libraries available to hit the ground running in [Python](https://github.com/opendxl/opendxl-client-python) and [Java](https://github.com/opendxl/opendxl-client-java). DXL is a cousin of MQTT that is secure by default, [among other differences](https://github.com/opendxl/opendxl-broker/wiki/Comparison-with-MQTT), so please read on to learn how to connect.
+An OpenDXL Broker is available for all CAW participants to
+connect with and experiment on. There are great open source
+client libraries available to hit the ground running in
+[Python](https://github.com/opendxl/opendxl-client-python) and
+[Java](https://github.com/opendxl/opendxl-client-java). DXL is a
+cousin of MQTT that is secure by default, [among other
+differences](https://github.com/opendxl/opendxl-broker/wiki/Comparison-with-MQTT),
+so please read on to learn how to connect.
 
 # Connecting To The Broker
 
 ## Step 1 : Authentication
 
-The OpenDXL Broker requires mutual authentication. In short, you must connect to the broker with a PKI certificate signed by the broker's self-generated Certificate Authority. Luckily, this is a straighforward process. There are a few methods to get a signed key/cert package, shown in order of ease:
+The OpenDXL Broker requires mutual authentication. In short, you
+must connect to the broker with a PKI certificate signed by the
+broker's self-generated Certificate Authority. Luckily, this is a
+straighforward process. There are a few methods to get a signed
+key/cert package, shown in order of ease:
 
-_Remember to look in Slack/Discord for a pinned message with the connection details, not shown here._
+_Remember to look in Slack/Discord for a pinned message with the
+connection details, not shown here._
 
 ### Option A: Web Console
-Login to the broker's web console and create a signed key package to download:
-1. In a browser, go to https://<BROKER_IP>:8443 and click through your browser's security warnings.
+Login to the broker's web console and create a signed key package
+to download:
+1. In a browser, go to https://<BROKER_IP>:8443 and click through
+   your browser's security warnings.
 2. Login with USERNAME/PW.
 3. On the left, click on the "Certificate Management" Icon.
 4. Enter:
@@ -21,15 +35,23 @@ Login to the broker's web console and create a signed key package to download:
 5. Click "Generate". Done!
 
 ### Option B: Ask
-* Reach out on Slack/Discord for a complete key package that's already signed.
+* Reach out on Slack/Discord for a complete key package that's
+  already signed.
 
 ### Option C: Command Line Utility
-If you download the [OpenDXL Python Client](https://github.com/opendxl/opendxl-client-python), it comes with a simple command line utility for this task. You can get a signed key package (as in Option A), or submit your own Certificate Signing Request if you're [using your own private key and cert](#create-your-own-private-key-and-csr).
+If you download the [OpenDXL Python
+Client](https://github.com/opendxl/opendxl-client-python), it
+comes with a simple command line utility for this task. You can
+get a signed key package (as in Option A), or submit your own
+Certificate Signing Request if you're [using your own private key
+and cert](#create-your-own-private-key-and-csr).
 * This will retrieve a complete signed key package:
 
-    ```dxlclient provisionconfig ./ BROKER_IP YOUR_NAME_OR_COMPANY_NAME```
+    ```dxlclient provisionconfig ./ BROKER_IP
+    YOUR_NAME_OR_COMPANY_NAME```
     
-* This will use your own Certificate Signing Request supplied as **client.csr**
+* This will use your own Certificate Signing Request supplied as
+  **client.csr**
    
    ```dxlclient provisionconfig -r ./ BROKER_IP client.csr```
    
@@ -52,7 +74,11 @@ However you proceed, you'll receive **client.zip** that contains:
 * IP Address : Look in your dxlclient.config
 * Port : Look in your dxlclient.config
 
-If you are using the OpenDXL client libraries mentioned above, they accept the dxlclient.config file you received above. The quickest Python Hello World program is [here](https://github.com/opendxl/opendxl-client-python/blob/master/examples/basic/event_example.py), but you can just follow these steps:
+If you are using the OpenDXL client libraries mentioned above,
+they accept the dxlclient.config file you received above. The
+quickest Python Hello World program is
+[here](https://github.com/opendxl/opendxl-client-python/blob/master/examples/basic/event_example.py),
+but you can just follow these steps:
 
 1. Create a new folder and activate a python virtual env
     * ```mkdir dxl_hello_world && cd dxl_hello_world```
@@ -73,15 +99,21 @@ If you are using the OpenDXL client libraries mentioned above, they accept the d
     * Open **dxlclient.config** and ensure the key file names match.
 1. Run the program:
     * ```python basic/event_example.py```
-    * You should see a count of about 1000 messages sent/received. If not, something isn't right.
-1. A better example to run is in the advanced directory, but requires two shells. It's a clearer demonstration of Pub/Sub, however, and is quick to run.
+    * You should see a count of about 1000 messages
+      sent/received. If not, something isn't right.
+1. A better example to run is in the advanced directory, but
+   requires two shells. It's a clearer demonstration of Pub/Sub,
+   however, and is quick to run.
 1. Deactivate the Python environment:
     * ```deactivate```
 
 
 ## Sandboxing
 
-Please sandbox all of your tests by prefixing your name or company to all topic-names and topic-filters. This is not for privacy, but to avoid unknowingly spamming anyone who subscribed to a topic you publish to.
+Please sandbox all of your tests by prefixing your name or
+company to all topic-names and topic-filters. This is not for
+privacy, but to avoid unknowingly spamming anyone who subscribed
+to a topic you publish to.
 
 For example, please use this format (with your name, company, etc):
 
@@ -100,7 +132,8 @@ foo/bar
 
 ## Create your own private key and CSR
 
-Use one of the following commands to create your key and Certificate Signing Request. Be sure and use your name.
+Use one of the following commands to create your key and
+Certificate Signing Request. Be sure and use your name.
 
 * No passphrase:
 ```bash
@@ -113,4 +146,5 @@ Use one of the following commands to create your key and Certificate Signing Req
 
 # Questions
 
-Please reach out on the plugfest Discord and Slack channels, we want this to be as easy as possible.
+Please reach out on the plugfest Discord and Slack channels, we
+want this to be as easy as possible.
