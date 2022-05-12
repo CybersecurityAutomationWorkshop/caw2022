@@ -24,7 +24,7 @@ client to connect to the broker over an unencrypted TCP
 connection. Look at the [Hello World section
 below](#example-hello-world) for an example.
 
-## TLS Access:
+## TLS Access (not currently enabled):
 
 There are two ways to connect with TLS. These options assume you
 are using the [Hello World example](#example-hello-world) below.
@@ -56,28 +56,22 @@ client.tls_set_context(context)
 ```
 # Use Draft OpenC2 MQTT Transfer Specification
 
-The plugfest will use WD04 of the in-development OpenC2 Transfer
+The plugfest will use the OASIS OpenC2 Transfer
 Specification as the working standard for use of MQTT.  This
 version of the document can be found at:
 
-https://github.com/oasis-tcs/openc2-transf-mqtt/blob/v1.0_wd04/transf-mqtt-v1.0.md
+[https://docs.oasis-open.org/openc2/transf-mqtt/v1.0/transf-mqtt-v1.0.html](https://docs.oasis-open.org/openc2/transf-mqtt/v1.0/transf-mqtt-v1.0.html)
 
 This specification incorporates, in [Section
-2.3](https://github.com/oasis-tcs/openc2-transf-mqtt/blob/v1.0_wd04/transf-mqtt-v1.0.md#23-message-format),
-a proposed new OpenC2 message format with more complete contents,
+2.4](https://docs.oasis-open.org/openc2/transf-mqtt/v1.0/cs01/transf-mqtt-v1.0-cs01.html#24-openc2-message-format),
+a new OpenC2 message format with more complete contents,
 originally presented in [issue
 #353](https://github.com/oasis-tcs/openc2-oc2ls/issues/353) for
-the OpenC2 Language Specification, along with an initial 2-byte
-field in the message payload to specify the serialization and
-message type contained in the remainder of the MQTT PUBLISH
-control packet payload.
-
-This approach means using MQTT v3.1.1 clients and applying the
-concepts described in the specification for topics structure,
-message format, etc.  Any gaps in the spec should be addressed in
-the context of the plug fest to achieve interoperability, with
-the understanding that solutions developed there will be
-considered for later incorporation into the spec as it develops.
+the OpenC2 Language Specification. This message format has not
+yet been published as an OASIS committee specifciation, but is in
+the [working
+version](https://github.com/dlemire60/openc2-oc2ls/blob/working/oc2ls.md)
+of the OpenC2 Language Specification.
 
 
 # Topic Structure and Namespaces for Separation
