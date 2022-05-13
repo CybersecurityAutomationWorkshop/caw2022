@@ -23,7 +23,10 @@ will be providing:
 - [CTIN](./CTIN/)
 - [Fortress](./Fortress/)
 - [One Planet Education Network](./OnePlanetEducationNetwork)
+- [Healthcare SBOM PoC](./Healthcare_SBOM_PoC)
 - ...
+
+Note the list is in the order they volunteered.
 
 A procedural note about modifying this
 and subtending dirs/pages:
