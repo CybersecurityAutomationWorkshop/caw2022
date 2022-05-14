@@ -4,8 +4,9 @@
 
 ## Background
 Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
-among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
-will be held 2-June-2022 at the
+among cybersecurity automation technologies supporting the goals of EO 14028 and the
+Open Source Software [Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/).
+The next Workshop will be held 2-June-2022 at the
 [AT&T Forum](https://policyforum.att.com/att-forum/)
 in Washington, DC.
 
