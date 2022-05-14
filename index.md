@@ -73,8 +73,13 @@ There are 4 types of tickets:
 - virtually over web, contributing ["sweat equity"](./SweatEquity/README.md) virtually
 - virtually over web, general attendee
 
-Please sign up for one ticket per person,
-and one person per ticket.
+Please sign up for **one ticket per person**,
+and **one person per ticket**.
+If you attending physically for part of day,
+and virtually for part of day - please sign up for physically.
+If you aren't sure about sweat equity,
+then your company is probably not on [Sweat Equity](./SweatEquity),
+and you should sign up general admission.
 If you are not sure, pick one
 and change it later if plans change.
 
