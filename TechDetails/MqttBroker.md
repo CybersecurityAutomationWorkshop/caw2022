@@ -12,24 +12,24 @@ itself; they are ephemeral, defined on-the-fly by clients that
 publish and subscribe. Please see the notes below about
 sandboxing your tests.
 
-# Connecting To the MQTT Broker
+## Connecting To the MQTT Broker
 
 _Remember to look in Slack/Discord for a pinned message with the
 connection details, not shown here._
 
-## Insecure Access:
+### Insecure Access:
 
 With the IP, Port, User, and Password, you can use any MQTT
 client to connect to the broker over an unencrypted TCP
 connection. Look at the [Hello World section
 below](#example-hello-world) for an example.
 
-## TLS Access (not currently enabled):
+### TLS Access (not currently enabled):
 
 There are two ways to connect with TLS. These options assume you
 are using the [Hello World example](#example-hello-world) below.
 
-### Option A: Ignore Broker Identity
+#### Option A: Ignore Broker Identity
 If you aren't concerned with the broker's identity, just add a
 basic ssl context:
 ```python
@@ -41,7 +41,7 @@ context.verify_mode = ssl.CERT_NONE
 client.tls_set_context(context)
 # ... now connect client
 ```
-### Option B: Verify Broker Identity
+#### Option B: Verify Broker Identity
 To verify the broker's identity, you'll need its [CA
 certificate](#broker-ca-certificate), referenced here as
 **ca-broker.crt**:
@@ -54,7 +54,7 @@ context.load_verify_locations(cafile=CA_CERTS)
 client.tls_set_context(context)
 # ... now connect client
 ```
-# Use Draft OpenC2 MQTT Transfer Specification
+## OpenC2 MQTT Transfer Specification
 
 The plugfest will use the OASIS OpenC2 Transfer
 Specification as the working standard for use of MQTT.  This
@@ -74,7 +74,7 @@ version](https://github.com/dlemire60/openc2-oc2ls/blob/working/oc2ls.md)
 of the OpenC2 Language Specification.
 
 
-# Topic Structure and Namespaces for Separation
+## Topic Structure and Namespaces for Separation
 
 The plugfest will use the default topic structure described in
 [Section
@@ -102,7 +102,7 @@ Topic subscriptions and publications with out a namespace prefix
 should be avoided.
 
 
-# Example: Hello World
+## Example: Hello World
 
 To get started, here is a simple Python3 example with a publisher
 sending a message to a subscriber.
@@ -204,7 +204,7 @@ python mqtt_subscriber.py
 source ../venv/bin/activate
 python mqtt_publish.py
 ```
-# Broker CA Certificate
+## Broker CA Certificate
 To verify the broker's identity over a TLS connection, use the
 following CA certificate:
 
@@ -212,7 +212,12 @@ following CA certificate:
 TBSL
 ```
 
-# Questions
+## Questions
 
 Please reach out on the plugfest Discord and Slack channels, we
 want this to be as easy as possible.
+
+## Returns
+[Return to Tech Details](../TechDetails/README.md)
+
+[Return to Home](../index.md)

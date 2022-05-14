@@ -9,9 +9,9 @@ cousin of MQTT that is secure by default, [among other
 differences](https://github.com/opendxl/opendxl-broker/wiki/Comparison-with-MQTT),
 so please read on to learn how to connect.
 
-# Connecting To The Broker
+## Connecting To The Broker
 
-## Step 1 : Authentication
+### Step 1 : Authentication
 
 The OpenDXL Broker requires mutual authentication. In short, you
 must connect to the broker with a PKI certificate signed by the
@@ -22,7 +22,7 @@ key/cert package, shown in order of ease:
 _Remember to look in Slack/Discord for a pinned message with the
 connection details, not shown here._
 
-### Option A: Web Console
+#### Option A: Web Console
 Login to the broker's web console and create a signed key package
 to download:
 1. In a browser, go to https://<BROKER_IP>:8443 and click through
@@ -34,11 +34,11 @@ to download:
    * Common Name: ```Your name or company name```
 5. Click "Generate". Done!
 
-### Option B: Ask
+#### Option B: Ask
 * Reach out on Slack/Discord for a complete key package that's
   already signed.
 
-### Option C: Command Line Utility
+#### Option C: Command Line Utility
 If you download the [OpenDXL Python
 Client](https://github.com/opendxl/opendxl-client-python), it
 comes with a simple command line utility for this task. You can
@@ -58,7 +58,7 @@ and cert](#create-your-own-private-key-and-csr).
 In both cases, you'll be prompted for the USERNAME and PW.
 
 
-### Client.zip
+#### Client.zip
 However you proceed, you'll receive **client.zip** that contains:
 
 | File | Description |
@@ -69,7 +69,7 @@ However you proceed, you'll receive **client.zip** that contains:
 | dxlclient.config | The broker's IP and port. If using the OpenDXL client libraries mentioned above, this config is generated for them specifically. |
 
 
-## Step 2 : Connect
+### Step 2 : Connect
 
 * IP Address : Look in your dxlclient.config
 * Port : Look in your dxlclient.config
@@ -108,7 +108,7 @@ but you can just follow these steps:
     * ```deactivate```
 
 
-## Sandboxing
+### Sandboxing
 
 Please sandbox all of your tests by prefixing your name or
 company to all topic-names and topic-filters. This is not for
@@ -130,7 +130,7 @@ oc2/cmd/
 foo/bar
 ```
 
-## Create your own private key and CSR
+### Create your own private key and CSR
 
 Use one of the following commands to create your key and
 Certificate Signing Request. Be sure and use your name.
@@ -144,7 +144,13 @@ Certificate Signing Request. Be sure and use your name.
     openssl req -out MY_CSR -subj "/CN=YOUR_NAME_HERE" -new -newkey rsa:2048 -keyout client.key
 ```
 
-# Questions
+## Questions
 
 Please reach out on the plugfest Discord and Slack channels, we
 want this to be as easy as possible.
+
+
+## Returns
+[Return to Tech Details](../TechDetails/README.md)
+
+[Return to Home](../index.md)
