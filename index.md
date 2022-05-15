@@ -154,6 +154,8 @@ The hope is contributions will also represent:
 - IETF MUD
 - ...
 
+![automation](Images/Automation.gif)
+
 To learn more how the work of these organizations
 will be specifically used in this workshop,
 see
@@ -292,3 +294,5 @@ link in the banner at the top
 Want to know more? Contact info can be found in the  github repo.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![CAW logo](Images/caw_logo.jpg)
