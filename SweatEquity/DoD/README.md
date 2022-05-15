@@ -66,7 +66,7 @@ and the SBOM document in one of several types and data formats.
 The [CAW PAR proof of concept](https://job35fyyhbf3lppotkyvrtnjn4.appsync-api.us-east-1.amazonaws.com/graphql)
 is a GraphQL endpoint (not web page) that implements the
 [PAR API](https://raw.githubusercontent.com/oasis-open/openc2-jadn-software/master/Schemas/par-api.jidl),
-populated with a set of example devices and SBOMs.
+populated with a set of example devices and SBOMs.  See this [tutorial](PAR/PAR.md) to explore using the PAR.
 
 ## 2. Which interfaces in which usecases
 

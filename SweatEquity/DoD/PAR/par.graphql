@@ -1,0 +1,91 @@
+type Device @model {
+  sboms: [SBOM] @manyToMany(relationName: "DeviceSboms")
+  kind: DeviceKind
+  manufacturer: String
+  model: String
+  serial: String
+  asset_id: String
+  attrs: PostureAttributes
+}
+
+type SBOM @model {
+  devices: [Device] @manyToMany(relationName: "DeviceSboms")
+  sbom: SBOM_Info
+}
+
+enum DeviceKind {
+  PC
+  LAPTOP
+  TABLET
+  MOBILE
+  CAMERA
+}
+
+type PostureAttributes {
+  osVersion: OsVersion
+  passwordMin: Int
+}
+
+type OsVersion {
+  name: String!
+  version: String!
+  major: Int
+  minor: Int
+  patch: Int
+  build: String
+  platform: String
+  platformLike: [String]
+  codename: String
+  arch: OsArch
+  installDate: AWSTimestamp
+}
+
+"""
+AppSync Enum values must be names (can't start with digit)
+"""
+enum OsArch {
+  x32_bit
+  x64_bit
+  x86_32
+  x86_64
+}
+
+type SBOM_Info {
+  uri: AWSURL
+  summary: SbomElements
+  content: SbomContent
+  blob: SbomBlob
+}
+
+type SbomElements {
+  supplier: [String]!
+  component: [String]!
+  version: String
+  componentIds: [String]
+  dependencies: [String]
+  author: String
+  timestamp: AWSTimestamp
+}
+
+"""
+Choice = @oneOf directive, which is not yet supported in GraphQL
+"""
+type SbomContent {
+  cyclonedx: String
+  spdx2: String
+  spdx3: String
+}
+
+"""
+GraphQL does not support binary data; use String type with Base64URL value
+"""
+type SbomBlob {
+  sbomType: SbomType
+  data: String
+}
+
+enum SbomType {
+  cyclonedx
+  spdx2
+  spdx3
+}
