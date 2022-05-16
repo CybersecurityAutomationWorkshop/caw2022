@@ -16,7 +16,7 @@ includes:
 
 The Posture portion of the PAR Schema is defined by the Results portion of the PAC actuator profile.
 The PAR Schema is translated into
-[GraphQL Schema Definition Language (SDL)](par.graphql) for deployment.
+[GraphQL Schema Definition Language (SDL)](par.graphql.txt) for deployment.
 This manual translation derives the PAR API from the PAC actuator profile.
 
 ## Querying the PAR
