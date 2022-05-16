@@ -7,6 +7,10 @@ a {
     color: unset;
 }
 
+section {
+    padding: 20px;
+}
+
 code {
     font-size: 12px;
     color: #833;
