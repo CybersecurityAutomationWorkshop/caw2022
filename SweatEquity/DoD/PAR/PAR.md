@@ -16,7 +16,7 @@ includes:
 
 The Posture portion of the PAR Schema is defined by the Results portion of the PAC actuator profile.
 The PAR Schema is translated into
-[GraphQL Schema Definition Language (SDL)](par.graphql) for deployment.
+[GraphQL Schema Definition Language (SDL)](par.graphql.txt) for deployment.
 This manual translation derives the PAR API from the PAC actuator profile.
 
 ## Querying the PAR
@@ -53,7 +53,7 @@ that were not included in the createDevice.
 paste the id into the input `id` field, run the mutation, then run the `listDevices` query again
 to show that the newly-created device is gone.
 
-*Note that there are no access controls on the PAR proof of concept and that it is shared
-by all CAW participants. Play nice.*
+*Note that the PAR proof of concept has no access controls and is shared
+by all CAW participants. Please play nice.*
 
-
+<p><a href="/">return to Home</a></p>
