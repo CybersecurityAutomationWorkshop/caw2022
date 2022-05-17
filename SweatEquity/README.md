@@ -27,6 +27,7 @@ will be providing:
 - [IBM](./IBM)
 - [RKVST](./RKVST)
 - [Anchore](./Anchore)
+- [CERT](./CERT)
 - ...
 
 Note the list is in the order they volunteered.
