@@ -57,5 +57,4 @@ Connection process:
  - Viewer: [PAR Explorer](../SweatEquity/DoD/PAR/par-explorer.html)
  - See: [Posture Attribute Repository Proof of Concept](../SweatEquity/DoD/README.md)
 
-## Return to Home
 [return to Home](../index.md)
