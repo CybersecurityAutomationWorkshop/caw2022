@@ -1,4 +1,4 @@
-# Anchore Foundation Sweat Equity
+# Anchore Sweat Equity
 
 Anchore will be bringing
 [Syft](https://github.com/anchore/syft)
