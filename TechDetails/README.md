@@ -54,7 +54,8 @@ DoD has established a device information and security attribute
 repository on Amazon Web Services.
 
 Connection process:
- - Section 1.3: [Posture Attribute Repository Proof of Concept](../SweatEquity/DoD/README.md)
+ - Viewer: [PAR Explorer](../SweatEquity/DoD/PAR/par-explorer.html)
+ - See: [Posture Attribute Repository Proof of Concept](../SweatEquity/DoD/README.md)
 
 ## Return to Home
 [return to Home](../index.md)
