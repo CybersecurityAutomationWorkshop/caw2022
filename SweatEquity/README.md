@@ -26,6 +26,7 @@ will be providing:
 - [Healthcare SBOM PoC](./Healthcare_SBOM_PoC)
 - [IBM](./IBM)
 - [RKVST](./RKVST)
+- [Anchore](./Anchore)
 - ...
 
 Note the list is in the order they volunteered.
