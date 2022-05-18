@@ -1,6 +1,6 @@
 # Cisco Sweat Equity
 
-Eliot add here
+Cisco has provided [SBOM tools](https://github.com/sbomtools).  These tools are also available off of pypi.org.
 
 ## Return to Agenda
 [return to Agenda](../../Agenda)
