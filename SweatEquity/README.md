@@ -28,7 +28,8 @@ will be providing:
 - [RKVST](./RKVST)
 - [Anchore](./Anchore)
 - [CERT](./CERT)
-- [Podii](Podii)
+- [Podii](./Podii)
+- [Cisco](./Cisco)
 - ...
 
 Note the list is in the order they volunteered.

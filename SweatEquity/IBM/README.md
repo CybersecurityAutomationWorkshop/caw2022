@@ -1,6 +1,8 @@
 # IBM Sweat Equity
 
-put stuff here
+put stuff here about stixshifter and kestrel
+
+and Open Horizon wrt One Planet Education Network request for SBOMs
 
 
 ## Return to Home
