@@ -44,6 +44,8 @@ or with their express permission.
    + make a README.md in the subdirectory
    + note that initially just creating the file is sufficient. Details can get filled in over time
 
+## Return to Agenda
+[return to Agenda](../../Agenda)
 
 ## Return to Home
 [return to Home](../index.md)
