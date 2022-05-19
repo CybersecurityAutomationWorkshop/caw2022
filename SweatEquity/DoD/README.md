@@ -19,9 +19,10 @@ DoD's contributions to the CAW include development of:
 The OpenC2 [JADN Software](https://github.com/oasis-open/openc2-jadn-software) repo contains:
 * Template to use when creating new actuator profiles
 * Template to use when developing OpenC2 producer and consumer device schemas
+* Software to translate schemas between multiple formats
 * Software to validate profile and device schemas
-* Software to resolve external references to produce a combined schema
-* Example actuator profile and device schemas
+* Software to resolve external references to produce a self-contained device schema
+* Example actuator profile and device schemas (SLPF, PAC, SBOM, ER)
 * Example OpenC2 commands and responses
 * Software to validate commands and responses against a device schema
 
@@ -50,18 +51,23 @@ provides some background on GraphQL capabilities and our rationale for using it 
 
 **PAR Structure**
 
-Every entry in the PAR has an ID, which must be globally unique and in the form of an
-Internationalized Resource Identifier ([IRI](https://datatracker.ietf.org/doc/html/rfc3987)).
-Initially the PAR will include two entry types: devices and SBOMs.
-* A device is a physical or virtual processing element owned or managed by an organization.
+Initially the PAR will include two types: Device and SBOM.
+* A Device is a physical or virtual processing element owned or managed by an organization.
 A device entry includes asset identifying and configuration information
 including the SBOM(s) applicable to that device.
 * A Software Bill of Materials ([SBOM](https://ntia.gov/SBOM))
 is a nested inventory for software, a list of ingredients that make up software components.
-An SBOM entry includes the SBOM unique identifier, the seven
+An SBOM entry includes the SBOM unique identifier, NTIA's seven
 [SBOM minimum elements](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf),
 and the SBOM document in one of several types and data formats.
 
-## 2. Which interfaces in which usecases
+**Accessing the PAR**
+
+See this [tutorial](PAR/PAR.md) on using the PAR with [GraphQL Explorer](PAR/par-explorer.html).
+The CAW PAR proof of concept is a GraphQL protocol endpoint (not a browsable web page) at
+https://job35fyyhbf3lppotkyvrtnjn4.appsync-api.us-east-1.amazonaws.com/graphql
+that implements the
+[PAR API](https://raw.githubusercontent.com/oasis-open/openc2-jadn-software/master/Schemas/par-api.jidl),
+populated with a set of example devices and SBOMs.
 
 [return to Home](../../index.md)
