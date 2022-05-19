@@ -30,5 +30,12 @@ The use cases which will be demonstrated are:
 * Command requesting posture evaluation of an SBOM returning vulnerabilities and licensing policy violations
 * Command requesting posture evaluation comparing SBOMs from two versions of a product, returning the security posture difference between the the two versions - eg which vulnerabilities were fixed
 
+
+## Return to Sweat Equity
+[return to Sweat Equity](../../SweatEquity)
+
+## Return to Agenda
+[return to Agenda](../../Agenda)
+
 ## Return to Home
 [return to Home](../../index.md)

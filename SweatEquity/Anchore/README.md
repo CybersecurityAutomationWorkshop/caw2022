@@ -21,5 +21,12 @@ They (or others) could be scanned
 with Grype.
 So Grype could be considered a part of a PES in PACE.
 
+
+## Return to Sweat Equity
+[return to Sweat Equity](../../SweatEquity)
+
+## Return to Agenda
+[return to Agenda](../../Agenda)
+
 ## Return to Home
 [return to Home](../../index.md)

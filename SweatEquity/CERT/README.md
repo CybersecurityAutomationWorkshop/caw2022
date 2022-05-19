@@ -18,5 +18,12 @@ https://github.com/CERTCC/SBOM/tree/master/SwiftBOM .
 
 See the CERT video for more info.
 
+
+## Return to Sweat Equity
+[return to Sweat Equity](../../SweatEquity)
+
+## Return to Agenda
+[return to Agenda](../../Agenda)
+
 ## Return to Home
 [return to Home](../../index.md)

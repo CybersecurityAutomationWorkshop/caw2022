@@ -1,6 +1,6 @@
 # Copado Sweat Equity
 
-VSM has multiple uses within an organization. They can happen as individual lines of effort or they can occur in concert to provide maximum impact. This choice will depend on an organization's business goals. 
+VSM has multiple uses within an organization. They can happen as individual lines of effort or they can occur in concert to provide maximum impact. This choice will depend on an organization's business goals.
 
 The sample use cases are:
 
@@ -11,8 +11,8 @@ The sample use cases are:
 
 1. SOC UC
 
-Given the current state of the cybersecurity industry, it is becoming increasingly apparent that one ‘system of record’ in an enterprise is not sufficient, especially for post-incident analysis and forensics. 
-A well implemented value stream mapping will bring together disparate information from across verticals in an enterprise to create a lattice of assurance that will make it less likely that an adversary can tamper with data to hide their tracks. 
+Given the current state of the cybersecurity industry, it is becoming increasingly apparent that one ‘system of record’ in an enterprise is not sufficient, especially for post-incident analysis and forensics.
+A well implemented value stream mapping will bring together disparate information from across verticals in an enterprise to create a lattice of assurance that will make it less likely that an adversary can tamper with data to hide their tracks.
 This will create an environment of auditability that leads to enhanced forensics capabilities. In more advanced applications, value stream mapping could have an impact on areas such as enhanced behavioral detection and automated response.
 
 This use case will focus on gathering data and analysis. Important considerations for each steep step are outlined below.
@@ -41,7 +41,7 @@ powerful mechanism for tracking system state both in realtime and historically.
 
 2. SBOM UC
 
-The forensic capabilities created with implementing VSM could leverage the Software Bill of Materials (SBOM) and other software supply chain requirements. Using the SBOM as a distributed ledger record of the originating VSM from the organization can give 3rd parties greater trust in the organization software build process. 
+The forensic capabilities created with implementing VSM could leverage the Software Bill of Materials (SBOM) and other software supply chain requirements. Using the SBOM as a distributed ledger record of the originating VSM from the organization can give 3rd parties greater trust in the organization software build process.
 
 SBOM will illuminate and track component parts of software. By integrating the output hash of VSM into the SBOM standard as a record of the chain of evidence of software development creates an immutable record of the entire process which can later be forensically examined. If the record on file does not match the cryptographically verified record from the software developer/creator, evidence of a problem exists that can be more closely examined for attribution and potential impact. Copado acknowledges that further development and research is required to create an industry-standard way of signing data to be certain of its provenance but early signs show promise in this area.
 
@@ -54,6 +54,13 @@ Value stream mapping at its root is a management and quality methodology built o
 Value stream mapping tools gather event data from each segment and process in the SDLC. The more accurate and specific the event data, the better the tool will be able to help organizations calculate value and identify blockers in their development process.
 
 A well executed value stream mapping program in software can increase transparency, establish the identity of an information source, and provide for robust forensic analysis. Value stream management concepts focus holistically on the business, bringing in stakeholders across verticals into the security process. As demonstrated by the graphic below, several components across an enterprise can be pulled into a value stream mapping program to maximize impact. Currently, the software development and delivery process is greatly diffused and involves multiple languages, tools, and teams. This creates delays and potentially inhibits the identity of information sources. Value stream management creates connections between all events in a given environment. It maps the linear movements between data, manual processes and handoffs, and operational aspects of a system to provide a deeper understanding of that environment.
+
+
+## Return to Sweat Equity
+[return to Sweat Equity](../../SweatEquity)
+
+## Return to Agenda
+[return to Agenda](../../Agenda)
 
 ## Return to Home
 [return to Home](../../index.md)

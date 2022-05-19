@@ -19,7 +19,14 @@ just discussed in general terms.
 
 Representing the Healthcare SBOM PoC will be Ed Heierman of Abbott,
 Ed created the sweat equity material, but it represents the work of many
-contributors. 
+contributors.
+
+
+## Return to Sweat Equity
+[return to Sweat Equity](../../SweatEquity)
+
+## Return to Agenda
+[return to Agenda](../../Agenda)
 
 ## Return to Home
 [return to Home](../../index.md)
