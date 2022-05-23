@@ -31,6 +31,9 @@ will be providing:
 - [Podii](./Podii)
 - [Cisco](./Cisco)
 - [BSI](./BSI)
+- [NYP](./NYP)
+- [CISA](./CISA)
+- [Ion Channel](./IonChannel)
 - ...
 
 Note the list is in the order they volunteered.
