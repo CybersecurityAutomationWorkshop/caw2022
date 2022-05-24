@@ -50,7 +50,7 @@ Remember an incoming tide raises all boats.
 - stix-shifter
    + somebody needs to make
 - Kestrel
-   + somebody needs to make
+   + [Kestrel in 3 min](https://youtu.be/pbJXGkb_BoY)
 - IACD
    + [last year](https://youtu.be/YFRMHGUDU7U)
 - OASIS
