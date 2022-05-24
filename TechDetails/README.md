@@ -40,11 +40,17 @@ addressing both versions 3.1.1 and 5.0.
 
 ## Message Brokers
 
-HII has established MQTT and OpenDXL message brokers on Google
-Cloud Platform. Details for how to access those brokers will be
-published here soon.
+HII has established **MQTT** and **OpenDXL** message brokers on
+Google Cloud Platform for use by CAW participants. Access details
+for these brokers is available in a pinned message on our
+[Discord #plugfest
+channel](https://discord.com/channels/438045507462365184/). If
+you are not a member of our Discord, contact one of the HII
+participants for an invitation or to be sent the information
+directly.
 
-Connection process:
+Specifics for the process of connecting to the brokers is on the
+following pages:
  - [OpenDXL Broker](OpenDxlBroker.md)
  - [MQTT Broker](MqttBroker.md)
 

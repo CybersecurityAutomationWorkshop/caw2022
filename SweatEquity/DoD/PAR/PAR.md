@@ -53,6 +53,11 @@ that were not included in the createDevice.
 paste the id into the input `id` field, run the mutation, then run the `listDevices` query again
 to show that the newly-created device is gone.
 
+## PAR Python API
+[PACE Software](https://github.com/davaya/pace-software) includes a script to initialize the
+PAR with example Device and SBOM data. This illustrates how to operate the PAR using the GraphQL
+API.
+
 *Note that the PAR proof of concept has no access controls and is shared
 by all CAW participants. Please play nice.*
 
