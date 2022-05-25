@@ -96,12 +96,13 @@ is located at 601 New Jersey Avenue NW, Washington, DC 20001.
 Thank you to AT&T for hosting the event for us.
 
 Light refreshments will be provided - thanks again to AT&T.
-Intent is to have lunch
-brought in to maximize workshop time.
-A sponsor has volunteered to provide lunch.
-Details are still being worked.
+Lunch is being
+brought in to maximize workshop time - thanks to Cybeats.
 
-More details on venue, refreshments, etc are [tbd](fixlink)
+** COVID **
+The workshop will follow [AT&T Forum COVID-19 Guidelines](./Images/ForumCovid-19Guidelines).
+
+TL;DR - Vaccination required. Masks required.
 
 **Remote Access**
 
