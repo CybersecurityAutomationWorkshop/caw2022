@@ -9,7 +9,7 @@ information as directed using the Posture Attribute Collection (PAC)
 which defines the format of collection commands and responses. The PCS then stores
 posture information for each device in the PAR.
 
-The [PAR Schema](https://raw.githubusercontent.com/oasis-open/openc2-jadn-software/master/Schemas/par-api.jidl)
+The [PAR Schema](https://raw.githubusercontent.com/davaya/pace-software/main/Data/par-schema.jidl)
 includes:
 * Device information as supplied by an IT Asset Management service
 * Posture information as collected from Devices by the PCS
