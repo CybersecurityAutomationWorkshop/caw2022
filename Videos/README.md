@@ -26,7 +26,9 @@ Remember an incoming tide raises all boats.
 
 ## Interfaces
 - PACE
-    + somebody needs to make. For now, HII video has some PACE explanatory
+    + somebody needs to make
+       o https://youtu.be/o9O8LFKvfDg?t=96 is a very brief PACE overview as part of the OCA video
+       o HII video has PACE explanation
 - SBOM
     + is there a 3 min?
     + last year had 3
