@@ -99,8 +99,9 @@ Light refreshments will be provided - thanks again to AT&T.
 Lunch is being
 brought in to maximize workshop time - thanks to Cybeats.
 
-** COVID **
-The workshop will follow [AT&T Forum COVID-19 Guidelines](./Images/ForumCovid-19Guidelines).
+**COVID**
+The workshop will follow
+[AT&T Forum COVID-19 Guidelines](./Images/ForumCovid-19Guidelines).
 
 TL;DR - Vaccination required. Masks required.
 
