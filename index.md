@@ -1,6 +1,6 @@
 # Cybersecurity Automation Workshop
 
-![CAW logo](Images/caw_logo.jpg)
+![CAW logo](Images/caw_logo.png)
 
 ## Background
 Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
@@ -297,4 +297,4 @@ Want to know more? Contact info can be found in the  github repo.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-![CAW logo](Images/caw_logo.jpg)
+![CAW logo](Images/caw_logo.png)
