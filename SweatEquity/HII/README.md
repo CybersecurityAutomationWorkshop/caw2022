@@ -16,10 +16,17 @@ infrastructure support, and in-person participation:
  * OpenC2 Integration Framework (OIF): the OIF provides a pre-built OpenC2 ecosystem for testing actuator profiles, transfer specifications, and actuator implementations:
    * [Orchestrator](https://github.com/oasis-open/openc2-oif-orchestrator) -- an OpenC2 Producer
    * [Device](https://github.com/oasis-open/openc2-oif-device) -- an OpenC2 Consumer
- * [Yuuki](https://github.com/oasis-open/openc2-oif-device) -- an OpenC2 Proxy for rapid development of OpenC2 actuators
+ * [Yuuki](https://github.com/oasis-open/openc2-yuuki) -- an OpenC2 Proxy for rapid development of OpenC2 actuators
 
+Note that the OASIS Open repositories contain the latest
+"official" complete release of the OIF and Yuuki products;
+current development versions can be found in the `develop`
+branches in the [corresponding repository forks under
+ScreamBun](https://github.com/ScreamBun).
 
- * In support of communications among plugfest participants, HII hosts two publish / subscribe message brokers on Google Cloud Platform (GCP)
+---
+
+In support of communications among plugfest participants, HII hosts two publish / subscribe message brokers on Google Cloud Platform (GCP)
    * MQTT (supporting use of the OpenC2 [MQTT Transfer Specification](https://docs.oasis-open.org/openc2/transf-mqtt/v1.0/transf-mqtt-v1.0.html))
    * OpenDXL (a commonly used platform in the cyber defense product space; there is not an OpenC2 transfer specification for OpenDXL, although aspects of the MQTT Transfer Specification [e.g., topic structure] could be applied to OpenDXL)
   
@@ -34,6 +41,7 @@ directly. Specifics for the process of connecting to the brokers
 is linked from the [CAW June 2022 Tech Details
 page](https://www.cybersecurityautomationworkshop.org/TechDetails/).
  
+---
 
 HII also plans to participate in demonstrations of interoperability for 
 [Posture Attribute Collection & Evaluation (PACE)](https://github.com/opencybersecurityalliance/PACE) use cases, 
