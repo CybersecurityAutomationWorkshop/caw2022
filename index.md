@@ -4,8 +4,9 @@
 
 ## Background
 Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
-among cybersecurity automation technologies supporting the goals of EO 14028. The next Workshop
-will be held 2-June-2022 at the
+among cybersecurity automation technologies supporting the goals of EO 14028 and the
+Open Source Software [Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/).
+The next Workshop will be held 2-June-2022 at the
 [AT&T Forum](https://policyforum.att.com/att-forum/)
 in Washington, DC.
 
@@ -72,8 +73,13 @@ There are 4 types of tickets:
 - virtually over web, contributing ["sweat equity"](./SweatEquity/README.md) virtually
 - virtually over web, general attendee
 
-Please sign up for one ticket per person,
-and one person per ticket.
+Please sign up for **one ticket per person**,
+and **one person per ticket**.
+If you attending physically for part of day,
+and virtually for part of day - please sign up for physically.
+If you aren't sure about sweat equity,
+then your company is probably not on [Sweat Equity](./SweatEquity),
+and you should sign up general admission.
 If you are not sure, pick one
 and change it later if plans change.
 
@@ -147,6 +153,8 @@ The hope is contributions will also represent:
 - OCA Ontology
 - IETF MUD
 - ...
+
+![automation](Images/Automation.gif)
 
 To learn more how the work of these organizations
 will be specifically used in this workshop,
@@ -286,3 +294,5 @@ link in the banner at the top
 Want to know more? Contact info can be found in the  github repo.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![CAW logo](Images/caw_logo.jpg)

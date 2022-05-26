@@ -23,7 +23,19 @@ will be providing:
 - [CTIN](./CTIN/)
 - [Fortress](./Fortress/)
 - [One Planet Education Network](./OnePlanetEducationNetwork)
+- [Healthcare SBOM PoC](./Healthcare_SBOM_PoC)
+- [IBM](./IBM)
+- [RKVST](./RKVST)
+- [Anchore](./Anchore)
+- [CERT](./CERT)
+- [Podii](./Podii)
+- [Cisco](./Cisco)
+- [BSI](./BSI)
+- [NYP](./NYP)
+- [CISA](./CISA)
 - ...
+
+Note the list is in the order they volunteered.
 
 A procedural note about modifying this
 and subtending dirs/pages:
@@ -35,6 +47,8 @@ or with their express permission.
    + make a README.md in the subdirectory
    + note that initially just creating the file is sufficient. Details can get filled in over time
 
+## Return to Agenda
+[return to Agenda](../../Agenda)
 
 ## Return to Home
 [return to Home](../index.md)

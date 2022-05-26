@@ -1,7 +1,5 @@
 # Tech Details
 
-add blah blah and subtending pages as we decide stuff
-
 ## OpenC2 Transfer Specifications
 
 The mechanisms for exchanging OpenC2 Request (i.e., command) and
@@ -40,7 +38,7 @@ needs. The HiveMQ website has [an excellent collection of
 material](https://www.hivemq.com/mqtt-essentials/) about MQTT,
 addressing both versions 3.1.1 and 5.0.
 
-### Message Brokers
+## Message Brokers
 
 HII has established **MQTT** and **OpenDXL** message brokers on
 Google Cloud Platform for use by CAW participants. Access details
@@ -56,6 +54,13 @@ following pages:
  - [OpenDXL Broker](OpenDxlBroker.md)
  - [MQTT Broker](MqttBroker.md)
 
+## Device and Attribute Repository
 
-## Return to Home
+DoD has established a device information and security attribute
+repository on Amazon Web Services.
+
+Connection process:
+ - Viewer: [PAR Explorer](../SweatEquity/DoD/PAR/par-explorer.html)
+ - See: [Posture Attribute Repository Proof of Concept](../SweatEquity/DoD/README.md)
+
 [return to Home](../index.md)
