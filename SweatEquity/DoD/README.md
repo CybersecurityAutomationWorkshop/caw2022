@@ -68,6 +68,9 @@ The CAW PAR proof of concept is a GraphQL protocol endpoint (not a browsable web
 https://2uqxczz7pjhcbmzp3ncfehfbdu.appsync-api.us-east-1.amazonaws.com/graphql
 that implements the
 [PAR API](https://raw.githubusercontent.com/davaya/pace-software/main/Data/par-schema.jidl),
-populated with a set of example devices and SBOMs.
+populated with a set of example devices and SBOMs.  The proof-of-concept is available to all
+CAW participants and supports all read and write PAR operations. A production PAR would include
+access controls to limit writing to PACE components, as well as limiting read access to authorized
+users.
 
 [return to Home](../../index.md)
