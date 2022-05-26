@@ -65,9 +65,9 @@ and the SBOM document in one of several types and data formats.
 
 See this [tutorial](PAR/PAR.md) on using the PAR with [GraphQL Explorer](PAR/par-explorer.html).
 The CAW PAR proof of concept is a GraphQL protocol endpoint (not a browsable web page) at
-https://job35fyyhbf3lppotkyvrtnjn4.appsync-api.us-east-1.amazonaws.com/graphql
+https://2uqxczz7pjhcbmzp3ncfehfbdu.appsync-api.us-east-1.amazonaws.com/graphql
 that implements the
-[PAR API](https://raw.githubusercontent.com/oasis-open/openc2-jadn-software/master/Schemas/par-api.jidl),
+[PAR API](https://raw.githubusercontent.com/davaya/pace-software/main/Data/par-schema.jidl),
 populated with a set of example devices and SBOMs.
 
 [return to Home](../../index.md)

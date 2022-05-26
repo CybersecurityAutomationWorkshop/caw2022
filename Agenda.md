@@ -1,10 +1,5 @@
 # Agenda
 
-```markdown
-**Under Construction**
-
-```
-
 The Workshop will take place 9AM-5PM EDT 2-June-2022.
 
 ## Schedule
@@ -42,29 +37,13 @@ All times EDT:
 - 6PM Optional BBQ at Duncan's house
 
 ## Pre Workshop Homework Assignments
+- [Sweat Equity](./SweatEquity)
+   + all participants to read thru all the [Sweat Equity](./SweatEquity) documentation to see how it applies to participant use cases
+   + all sweat equity participants are to look for opportunties for interworking
+- [Videos](./Videos) (prepared by 26-May)
+   + all participants watch all the [Videos](./Videos) prior to workshop so they are familiar with the interfaces and the participants. Note video are due 26-May, and some may be late, so you may need to check back after 26-May
 - [use cases](./DemoUseCases/#4-interoperability-demos) developed for all planned interoperations that will take place
-- [Videos](./Videos/README.md) prepared by 26-May
-- all participants watch all the [Videos](./Videos/README.md) prior to workshop so they are familiar with the interfaces and the participants
-
-
-## clean this up
-The remaining time will be spent either:
-- demonstrating interworking parts/all of a use case
-   + the hope is much of the details will be worked out prior to the Workshop as to what systems will interoperate on which use case(s)
-- trouble shooting interworking
-- hackathon to create new lycans or modify interfaces in the spirit of addine new interworking scenarios.
-
-
-
-Single or multiple track is not yet decided and will depend on
-the number and extent of the interworking scenarios.
-
-Prior to 2-June:
-- use cases established
-- interworking scenarios defined including use cases, systems, interfaces, and participants
-- participant videos created and viewed
-
-
+   + all participants to read thru the use cases. And add theirs if not present.
 
 
 ## Return to Home

@@ -27,6 +27,8 @@ Remember an incoming tide raises all boats.
 ## Interfaces
 - PACE
     + somebody needs to make
+       o https://youtu.be/o9O8LFKvfDg?t=96 is a very brief PACE overview as part of the OCA video
+       o HII video has PACE explanation
 - SBOM
     + is there a 3 min?
     + last year had 3
@@ -38,7 +40,7 @@ Remember an incoming tide raises all boats.
 - CSAF/VEX
    + somebody needs to make
 - OCA
-   + [last year](https://youtu.be/qZgeJ01cqeQ)
+   + [OCA](https://youtu.be/o9O8LFKvfDg)
 - VSM
    + [VSM](https://youtu.be/Yto8nUeki-s) - watch the first 3 minutes of this 10 minute video
 - CACAO
@@ -48,9 +50,9 @@ Remember an incoming tide raises all boats.
 - STIX/TAXII
    + somebody needs to make
 - stix-shifter
-   + somebody needs to make
+   + [stixshifter](https://youtu.be/XC1c8nKlXgE)
 - Kestrel
-   + somebody needs to make
+   + [Kestrel in 3 min](https://youtu.be/pbJXGkb_BoY)
 - IACD
    + [last year](https://youtu.be/YFRMHGUDU7U)
 - OASIS
@@ -59,6 +61,8 @@ Remember an incoming tide raises all boats.
 ## Participants
 - sFractal
    + [last year](https://youtu.be/uTr9HyRXnGw)
+- HII - PACE
+   + [HII PACE](https://youtu.be/o9O8LFKvfDg)
 - HII - OIF
    + [last year](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.10.28-TTD-PlugfestHackathon/Results/OIF_Plugfest.pptx)
 - HII - Yuuki
@@ -73,12 +77,3 @@ Remember an incoming tide raises all boats.
    + [last year](https://youtu.be/pmqGp8TWoF4)
 
 - list here as they come in
-
-## clean up later
-At the last Workshop, participants created <3 min videos introducing themselves
-and what they were bringing to the Workshop.
-The intent is to do similar for this workshop with some changes:
-- videos are to be made prior to 26-May
-- videos will be compiled into a YouTube playlist
-- playlist will be made available to participants 27-May
-- videos will NOT be shown at Workshop. Participants should watch all the videos prior to the start of the Workshop.
