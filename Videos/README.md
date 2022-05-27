@@ -48,7 +48,7 @@ Remember an incoming tide raises all boats.
 - Threat Actor Context (TAC)
    + [TAC](https://youtu.be/p5cF6ZmNaNI)
 - STIX/TAXII
-   + somebody needs to make
+   + [STIX](https://youtu.be/TNWS8-XdsYE)
 - stix-shifter
    + [stixshifter](https://youtu.be/XC1c8nKlXgE)
 - Kestrel
