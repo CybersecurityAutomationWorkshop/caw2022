@@ -7,6 +7,15 @@ STIX2.1 formatted data (STIX domain objects [SDOs] and STIX cyber observables [S
 Additional relevant information from other published knowledge bases such as the Common Weakness Enumeration (CWE) (https://cwe.mitre.org/)
 A narrative that adds context to the Use Case for capture by workshop participants.
 
+See [Fileless-Socketless](https://github.com/CybersecurityAutomationWorkshop/caw2022/blob/main/SweatEquity/CTIN/Fileless-Socketless.pdf) for a curated Use Case demonstrating interoperability of multiple security standards including:
+• OpenC2
+• Collaborative Automated Course of Action Operations (CACAO)
+• Threat Actor Context (TAC)
+• Cyber Threat Intelligence (CTI) [for STIX2.1 & TAXII2.1]
+• Common Security Advisory Framework (CSAF)
+• Open Security Alliance
+
+
 
 ## Return to Sweat Equity
 [return to Sweat Equity](../../SweatEquity)
