@@ -8,12 +8,12 @@ Additional relevant information from other published knowledge bases such as the
 A narrative that adds context to the Use Case for capture by workshop participants.
 
 See [Fileless-Socketless](https://github.com/CybersecurityAutomationWorkshop/caw2022/blob/main/SweatEquity/CTIN/Fileless-Socketless.pdf) for a curated Use Case demonstrating interoperability of multiple security standards including:
-• OpenC2
-• Collaborative Automated Course of Action Operations (CACAO)
-• Threat Actor Context (TAC)
-• Cyber Threat Intelligence (CTI) [for STIX2.1 & TAXII2.1]
-• Common Security Advisory Framework (CSAF)
-• Open Security Alliance
+- OpenC2
+- Collaborative Automated Course of Action Operations (CACAO)
+- Threat Actor Context (TAC)
+- Cyber Threat Intelligence (CTI) [for STIX2.1 & TAXII2.1]
+- Common Security Advisory Framework (CSAF)
+- Open Security Alliance
 
 See [Ryuk](https://github.com/CybersecurityAutomationWorkshop/caw2022/blob/main/SweatEquity/CTIN/RyukBrief-AutoWorkshop.pdf) for another curated Use Case for ransomware.
 
