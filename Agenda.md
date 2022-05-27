@@ -38,7 +38,7 @@ All times EDT:
     - identify issues for future resolution
   - Breakout groups to continue morning discussions
 - 3:45 PM Break
-- 4 PM Summary Plenary session
+- 4:00 PM Summary Plenary session
    + review successes and learnings
 - 4:30 PM **Closing Keynote** 
    + [Neal Ziring](./Neal_Ziring.md) (NSA) /
