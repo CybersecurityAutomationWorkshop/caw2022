@@ -1,6 +1,6 @@
 # Agenda
 
-The Workshop will take place 9AM-5PM EDT 2-June-2022.
+The Workshop will take place 9:00 AM-5:00 PM EDT 2 June 2022.
 
 ## Schedule
 All times EDT:
@@ -21,7 +21,7 @@ All times EDT:
     CAW) and potential (future development) interworking
     possibilities based on participant [Sweat
     Equity](./SweatEquity) contributions
-  - 11:00 - 11:15 **Afternoon Plannning** -- identify specific
+  - 11:00 - 11:15 **Afternoon Planning** -- identify specific
     technical interworking demonstrations for afternoon session
 - 11:15 AM Break
 - 11:30 AM **Pre-Lunch Keynote** 
@@ -38,7 +38,7 @@ All times EDT:
     - identify issues for future resolution
   - Breakout groups to continue morning discussions
 - 3:45 PM Break
-- 4 PM Summary Plenary session
+- 4:00 PM Summary Plenary session
    + review successes and learnings
 - 4:30 PM **Closing Keynote** 
    + [Neal Ziring](./Neal_Ziring.md) (NSA) /
