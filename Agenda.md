@@ -24,7 +24,7 @@ All times EDT:
   - 11:00 - 11:15 **Afternoon Planning** -- identify specific
     technical interworking demonstrations for afternoon session
 - 11:15 AM Break
-- 11:30 AM **Pre-Lunch Keynote** 
+- 11:30 AM **Pre-Lunch Keynote**
    + [Allan Friedman](./Allan_Friedman.md) (CISA) /
      [Abstract](./Allan_Friedman.md)
 - Noon Lunch in situ
@@ -33,14 +33,14 @@ All times EDT:
      [Abstract](./Chuck_Brooks.md)
 - 1:30 PM Interworking Session(s) - Technical
   - Apply morning planning to:
-    - conduct technical interworking demonstrations; 
-    - troubleshoot problems; 
+    - conduct technical interworking demonstrations;
+    - troubleshoot problems;
     - identify issues for future resolution
   - Breakout groups to continue morning discussions
 - 3:45 PM Break
 - 4:00 PM Summary Plenary session
    + review successes and learnings
-- 4:30 PM **Closing Keynote** 
+- 4:30 PM **Closing Keynote**
    + [Neal Ziring](./Neal_Ziring.md) (NSA) /
      [Abstract](./Neal_Ziring.md)
 - 5:00 PM Adjourn
@@ -49,7 +49,7 @@ All times EDT:
 - [Sweat Equity](./SweatEquity)
    + all participants to read thru all the [Sweat Equity](./SweatEquity) documentation to see how it applies to participant use cases
    + all sweat equity participants are to look for opportunties for interworking
-- [Videos](./Videos) (prepared by 26-May)
+- [Videos](./Videos)
    + all participants watch all the [Videos](./Videos) prior to workshop so they are familiar with the interfaces and the participants. Note video are due 26-May, and some may be late, so you may need to check back after 26-May
 - [use cases](./DemoUseCases/#4-interoperability-demos) developed for all planned interoperations that will take place
    + all participants to read thru the use cases. And add theirs if not present.
