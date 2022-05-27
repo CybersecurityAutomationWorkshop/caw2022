@@ -40,6 +40,16 @@ is a tool for testing a [CSAF trusted provider](https://docs.oasis-open.org/csaf
 
 [CSAF CMS Backend] is a backend providing part of the [CSAF content management system](https://docs.oasis-open.org/csaf/csaf/v2.0/csaf-v2.0.html#916-conformance-clause-6-csaf-content-management-system) support to authors of CSAF documents. It is still work in progress. An integration with [Secvisogram](#secvisogram) is planned but it can also be used with other frontend systems as it is completely REST-based. See the [documentation](https://github.com/secvisogram/csaf-cms-backend/blob/main/documents/architecture-decisions.md) for more details. [Source Code](https://github.com/secvisogram/csaf-cms-backend) is available under MIT.
 
+## Files
+
+### Security Advisories
+
+A list of real security advisories written in CSAF is available at the [OASIS TC repository](https://github.com/oasis-tcs/csaf/tree/master/csaf_2.0/examples/csaf). This also includes one from BSI.
+
+### VEX
+
+A list of generic VEX documents written in CSAF is available at the [OASIS TC repository](https://github.com/oasis-tcs/csaf/tree/master/csaf_2.0/examples/csaf/csaf_vex). [One for Secvisogram](https://github.com/oasis-tcs/csaf/tree/master/csaf_2.0/examples/csaf/csaf_vex/sec-vex-2022-0001.json) is available in the repo as well.
+
 ## Return to Sweat Equity
 [return to Sweat Equity](../../SweatEquity)
 
