@@ -15,6 +15,9 @@ See [Fileless-Socketless](https://github.com/CybersecurityAutomationWorkshop/caw
 • Common Security Advisory Framework (CSAF)
 • Open Security Alliance
 
+See [Ryuk](RyukBrief-AutoWorkshop.pdf) for another curated Use Case for ransomware.
+
+
 
 
 ## Return to Sweat Equity
