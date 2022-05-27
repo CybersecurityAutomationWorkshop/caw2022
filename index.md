@@ -2,7 +2,8 @@
 
 ![CAW logo](Images/caw_logo.png)
 
-## Background
+**Background**
+
 Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
 among cybersecurity automation technologies supporting the goals of EO 14028 and the
 Open Source Software [Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/).
@@ -66,15 +67,11 @@ on the sweat equity (so too soon to tell).
 
 ---
 
+## Logistics
 
-## Registration
+**Registration**
 
 Registration has closed. If interested, contact organizers.
-
----
-
-
-## Logistics
 
 **Venue**
 
@@ -144,8 +141,7 @@ with a tie-breaker to who registers first.
 
 ---
 
-
-## Participating Organizations
+**Participating Organizations**
 Strictly speaking none
 (ie workshop is a collection of individuals
 getting together to understand and get stuff interoperating
@@ -165,11 +161,6 @@ contributions bringing together the work of the following:
 - CTI (ie STIX/TAXII)
 - OCA stixshifter
 - OCA Kestrel
-
-The hope is contributions will also represent:
-- LF Daggerboard
-- OCA Ontology
-- IETF MUD
 - ...
 
 ![automation](Images/Automation.gif)
@@ -182,7 +173,7 @@ see
 ---
 
 
-## Objective, Goals, Focus
+**Objective, Goals, Focus**
 Attendees should walk away feeling
 that they have had a positive engagement
 with their peers
@@ -299,7 +290,7 @@ spread the joy around.
 ---
 
 
-## Code of Conduct
+**Code of Conduct**
 TL;DR - don't be a jerk.
 
 In the interest of fostering an open and welcoming environment,
@@ -318,7 +309,7 @@ for the complete code of conduct.
 ---
 
 
-## Participate
+**Participate**
 
 Join the mailing list:
 [https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about](https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about)
@@ -334,7 +325,7 @@ See [CONTRIBUTING](CONTRIBUTING.md)
 ---
 
 
-## Support or Contact
+**Support or Contact**
 
 Need help with contributing to this page - click on the github repo
 link in the banner at the top
