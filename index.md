@@ -68,27 +68,8 @@ on the sweat equity (so too soon to tell).
 
 
 ## Registration
-Registration is open until Noon Eastern on May 19th.
-Register at [https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767](https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767)
 
-There are 4 types of tickets:
-- physically in DC, contributing ["sweat equity"](./SweatEquity/README.md)
-- physically in DC, general attendee
-- virtually over web, contributing ["sweat equity"](./SweatEquity/README.md) virtually
-- virtually over web, general attendee
-
-Please sign up for **one ticket per person**,
-and **one person per ticket**.
-If you attending physically for part of day,
-and virtually for part of day - please sign up for physically.
-If you aren't sure about sweat equity,
-then your company is probably not on [Sweat Equity](./SweatEquity),
-and you should sign up general admission.
-If you are not sure, pick one
-and change it later if plans change.
-
-Registration closes 19-May at Noon Eastern
-so sign up NOW!
+Registration has closed. If interested, contact organizers.
 
 ---
 
@@ -102,7 +83,7 @@ is located at 601 New Jersey Avenue NW, Washington, DC 20001.
 
 Thank you to AT&T for hosting the event for us.
 
-Light refreshments will be provided - thanks again to AT&T. 
+Light refreshments will be provided - thanks again to AT&T.
 
 Lunch is being brought in to maximize workshop time - thanks to
 [Cybeats](https://www.cybeats.com/).
@@ -111,8 +92,9 @@ Lunch is being brought in to maximize workshop time - thanks to
 
 **COVID**
 
-The workshop will follow
-[AT&T Forum COVID-19 Guidelines](./Images/ForumCovid-19Guidelines).
+The workshop will follow AT&T Forum COVID-19 Guidelines
+[CovidPg1](./Images/ForumCovid-19GuidelinesPg1.jpg),
+[CovidPg1](./Images/ForumCovid-19GuidelinesPg2.jpg).
 
 TL;DR - Vaccination required. Masks required.
 
@@ -141,7 +123,7 @@ Inbound connections will not be supported.
 Intent is to allow virtual participation. It may not apply to all
 sessions or all interoperation demonstrations.
 
-More details in [tbd](fixlink).
+More details will be provided to registered participants nearer the event.
 
 **Eligibility**
 
