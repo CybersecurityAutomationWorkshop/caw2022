@@ -26,6 +26,8 @@ Information Systems, including:
 Vulnerabilities and Incidents
 * (Sec. 7) Improving Detection of Cybersecurity Vulnerabilities and Incidents
 
+---
+
 ## Agenda
 
 The Workshop will take place 9AM-5PM EDT 2 June 2022.
@@ -45,8 +47,7 @@ The remaining time will be spent either:
 
 See [Agenda](./Agenda.md) for more details.
 
-**Pre-Workshop Homework**
-Prior to the workshop, attendees are encouraged to familiarize
+**Pre-Workshop Homework**:  Prior to the workshop, attendees are encouraged to familiarize
 themselves with the organizations participating,
 what they will be bringing to the workshop,
 and the use cases being demonstrated.
@@ -62,6 +63,9 @@ and will depend on
 the number and extent of the interworking scenarios,
 which will depend
 on the sweat equity (so too soon to tell).
+
+---
+
 
 ## Registration
 Registration is open until Noon Eastern on May 19th.
@@ -86,6 +90,9 @@ and change it later if plans change.
 Registration closes 19-May at Noon Eastern
 so sign up NOW!
 
+---
+
+
 ## Logistics
 
 **Venue**
@@ -95,20 +102,44 @@ is located at 601 New Jersey Avenue NW, Washington, DC 20001.
 
 Thank you to AT&T for hosting the event for us.
 
-Light refreshments will be provided - thanks again to AT&T.
-Lunch is being
-brought in to maximize workshop time - thanks to Cybeats.
+Light refreshments will be provided - thanks again to AT&T. 
+
+Lunch is being brought in to maximize workshop time - thanks to
+[Cybeats](https://www.cybeats.com/).
+
+
 
 **COVID**
+
 The workshop will follow
 [AT&T Forum COVID-19 Guidelines](./Images/ForumCovid-19Guidelines).
 
 TL;DR - Vaccination required. Masks required.
 
+**Networking And Work Spaces**
+
+We will have multiple spaces within the Forum, specifically:
+
+  * Large meeting space (Forum 1 & 2), which will be used for keynote presentations and all-participant activities
+  * Cafe, which will be used for a mixture of refreshments and meeting space
+  * MPR Room, which will be used for meeting space
+
+The large meeting space will be used for keynotes and the morning
+non-technical interworking session (see the
+[Agenda](./Agenda.md)). The available spaces will be used
+flexibly as-needed during the afternoon technical interworking
+session.
+
+The Forum will provide secured WiFi (SSID + password) which will
+support outbound Internet access (e.g., to connect to the
+[HII-provided message brokers](./SweatEquity/HII/README.md)).
+Inbound connections will not be supported.
+
+
 **Remote Access**
 
-Intent is to allow virtual participation.
-It may not apply to all sessions or all interoperation demonstrations.
+Intent is to allow virtual participation. It may not apply to all
+sessions or all interoperation demonstrations.
 
 More details in [tbd](fixlink).
 
@@ -128,6 +159,9 @@ be based on sweat equity,
 distance traveled,
 a quota (ie to spread attendance across the orgs involved),
 with a tie-breaker to who registers first.
+
+---
+
 
 ## Participating Organizations
 Strictly speaking none
@@ -162,6 +196,9 @@ To learn more how the work of these organizations
 will be specifically used in this workshop,
 see
 [OrgMashup](./OrgMashup/README.md)
+
+---
+
 
 ## Objective, Goals, Focus
 Attendees should walk away feeling
@@ -209,16 +246,25 @@ of meeting the interworking interfaces
 Consider the Code of Conduct to have "vendor" added to the harassment-free
 list. Talk up your value, don't talk down your competitors.
 
+---
+
+
 ## Sweat Equity
 To learn more about what participants are bringing
 to the workshop, see
 [Sweat Equity](./SweatEquity/README.md)
+
+---
+
 
 ## Technical Details for Interoperation
 see
 [TechDetails](./TechDetails/README.md)
 for more details on decisions being made on how to get
 stuff to work together.
+
+---
+
 
 ## Demo Use Cases
 In the ideal world,
@@ -242,9 +288,15 @@ fixing bugs so that interworking can occur.
 More details on exactly is planned is at
 [DemoUseCases](./DemoUseCases/README.md)
 
+---
+
+
 ## Results
 Eventually results will be put
 [here](./Results/README.md)
+
+---
+
 
 ## Previous Events
 Results from the two previous workshops,
@@ -252,12 +304,18 @@ and other related events,
 can be found at
 [Previous Workshops](./PrevResults)
 
+---
+
+
 ## Governance
 This workshop is being organized by one passionate individual volunteer
 who was unelected and will be running it on the
 D-cubed model (Duncan/democratic/dictator).
 Hopefully others will step in to help and we'll evolve to
 spread the joy around.
+
+---
+
 
 ## Code of Conduct
 TL;DR - don't be a jerk.
@@ -275,6 +333,9 @@ or sexual identity and orientation.
 See [Code of Conduct](./CODE_OF_CONDUCT.md)
 for the complete code of conduct.
 
+---
+
+
 ## Participate
 
 Join the mailing list:
@@ -287,6 +348,9 @@ surveys, and how to help.
 Contribute to this website:
 Click on the GitHub button at the top of this page.
 See [CONTRIBUTING](CONTRIBUTING.md)
+
+---
+
 
 ## Support or Contact
 
