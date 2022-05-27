@@ -28,7 +28,7 @@ Vulnerabilities and Incidents
 
 ## Agenda
 
-The Workshop will take place 9AM-5PM EDT 2-June-2022.
+The Workshop will take place 9AM-5PM EDT 2 June 2022.
 
 The four keynote speakers will be:
 - [Dan Solero](./Dan_Solero.md) (AT&T)
@@ -41,11 +41,11 @@ The remaining time will be spent either:
    + the hope is much of the details will be worked out prior to the Workshop as to what systems will interoperate on which use case(s)
 - trouble shooting interworking
 - hackathon to create new lycans or modify interfaces in the spirit of adding new interworking scenarios
-- working sessions to work out interfaces (ie what it will take to turn ["hand-waving" lycans](./lycan.md) into real interfaces)
+- working sessions to work out interfaces (i.e., what it will take to turn ["hand-waving" lycans](./lycan.md) into real interfaces)
 
 See [Agenda](./Agenda.md) for more details.
 
-**PreWorkshop Homework**
+**Pre-Workshop Homework**
 Prior to the workshop, attendees are encouraged to familiarize
 themselves with the organizations participating,
 what they will be bringing to the workshop,
