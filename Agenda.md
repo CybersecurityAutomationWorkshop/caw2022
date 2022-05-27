@@ -1,6 +1,6 @@
 # Agenda
 
-The Workshop will take place 9AM-5PM EDT 2-June-2022.
+The Workshop will take place 9:00 AM-5:00 PM EDT 2 June 2022.
 
 ## Schedule
 All times EDT:
