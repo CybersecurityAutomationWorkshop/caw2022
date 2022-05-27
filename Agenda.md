@@ -21,7 +21,7 @@ All times EDT:
     CAW) and potential (future development) interworking
     possibilities based on participant [Sweat
     Equity](./SweatEquity) contributions
-  - 11:00 - 11:15 **Afternoon Plannning** -- identify specific
+  - 11:00 - 11:15 **Afternoon Planning** -- identify specific
     technical interworking demonstrations for afternoon session
 - 11:15 AM Break
 - 11:30 AM **Pre-Lunch Keynote** 
