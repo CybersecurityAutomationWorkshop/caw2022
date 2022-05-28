@@ -303,7 +303,7 @@ level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion,
 or sexual identity and orientation.
 
-See [Code of Conduct](./CODE_OF_CONDUCT.md)
+See [Code of Conduct](./CodeOfConduct.md)
 for the complete code of conduct.
 
 ---
@@ -320,7 +320,7 @@ surveys, and how to help.
 
 Contribute to this website:
 Click on the GitHub button at the top of this page.
-See [CONTRIBUTING](CONTRIBUTING.md)
+See [CONTRIBUTING](Contributing.md)
 
 ---
 
