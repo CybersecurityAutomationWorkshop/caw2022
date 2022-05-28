@@ -2,9 +2,23 @@
 
 ## What Contributed
 recap sweat equity here, can ref to sweat page
+- BlinkyMaHa IoT toy device blah blah
+- TwinklyMaHa
+- QuadBlockQuiz
+- SBOMS
+   - BlinkyMaHa IoT
+   - TwinklyMaHa
+   - QuadBlockQuiz
+
 
 ## Use Cases
 Note which use cases were of interest
+- Comply to Connect (decision points)
+   + decision points used PACE security posture data based on
+      * BlinkyMaHa IoT toy device was connected to HII MQTT Broker and queried by HII OIF as part of a PACE 'collect SBOM' use case
+- ditto TwinklyMaHa
+- SBOM
+   +  BlinkyMaHa, TwinklyMaHa, QuadBlockQuiz
 
 ## Take aways
 Note what learned from workshop.
