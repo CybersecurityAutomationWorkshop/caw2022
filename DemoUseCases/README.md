@@ -29,6 +29,7 @@ decision making, and acting terminology and
 functional architecture.
 See [IACD](./iacd.md) for more info.
 
+
 ## 2. Big Picture Ideal Use Cases
 
 These are realistic (aka complex) use cases
@@ -52,8 +53,11 @@ those specific interoperability use cases fit into.
 
 These big-picture scenarios are:
 - Enterprise Security Posture
-    + See ./enterprise_posture.md
+    + See [Enterprise Security Posture](./enterprise_posture.md()
     + In this example, the enterprise (a large company or a large government agency) has a very complex security posture based on many factors across many internal organizations located in many places. But for the purpose of an executive dashboard, the security posture is bucketed into one of four states.
+- comply to connect
+   + See [comply to connect](./comply2connect.md)
+   + https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/
 - create some business-as-usual scenario
 - create some threat-intel-comes-in scenario
 - create some non-crippling-attack scenario
@@ -80,6 +84,23 @@ blah blah
 -  Next use case of this other thing
 - demo 1 of this other thing
  ...
+
+## 5 Other stuff that needs to get entered
+Mine the following to flesh out Sections 2,3,4 better:
+- PACE collect SBOM use cases
+    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_device.md
+    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_url.md
+    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_with_command.md
+- PACE evaluate SBOM/VEX/NCD use cases
+    +
+- Using PACE posture results in other use cases
+    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/ips-pcs-pes-usecase.md
+    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/stix-pcs-pes-usecase.md
+    + the 3 use cases in https://github.com/sparrell/PACE/blob/main/docs/UseCases/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags - note "flags" are now "status_justification" in SBOM docs so PACE page needs updating for correct terminology
+- CSAF/VEX use cases
+   + http://www.cybersecurityautomationworkshop.org/SweatEquity/BSI/
+- Interop pics
+   + https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.06.22-BC-SBOM-PoC/ParticipantInfo/sFractal/workPlan.1.md
 
 # Return to Home
 [return to Home](../index.md)
