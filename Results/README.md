@@ -19,14 +19,7 @@ The results will be looked at from several dimensions:
 - Contributing Companies/Agencies/Universities - what each of the sweat equity contributors benefited from the workshop
 
 ## 1. Use Cases
-[Use Cases](./UseCases) contains
-blah blah
-
-- [Comply to Connect](./ComplyToConnect)
-- add PACE collect SBOM
-- add PACE retreive SBOM
-- add which analyze security posture sbom/vex we do
-- put Jane's use cases here
+See [Use Cases](./UseCases) 
 
 ## 2. Standard Interface
 ![CAW logo](Images/caw_logo.png)
