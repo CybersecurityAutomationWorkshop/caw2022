@@ -29,13 +29,22 @@ blah blah
 - put Jane's use cases here
 
 ## 2. Standard Interface
-[Standard Interface](./StandardInterface) contains
-blah blah
+![CAW logo](Images/caw_logo.png)
 
-- [PACE](./StandardInterface/PACE)
-- [SBOM](./StandardInterface/SBOM)
-- [OpenC2](./StandardInterface/OpenC2)
-- fill in rest
+Results for each standard interface/functionality are shown in
+[Standard Interface](./StandardInterface) which contains:
+- [PACE](./PACE)
+- [SBOM](./SBOM)
+- [OpenC2](./OpenC2)
+- [OCA](./OCA)
+- [CSAF](./CSAF)
+- [VSM](./VSM)
+- [Kestrel](./Kestrel)
+- [stix-shifter](./StixShifter)
+- [STIX/TAXII](./StixTaxii)
+- [TAC](./TAC)
+- [CACAO](./CACAO)
+
 
 ## 3. Contributing Companies/Agencies/Universities
 [Contributing Companies/Agencies/Universities](./Orgs)
