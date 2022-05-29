@@ -19,7 +19,7 @@ The results will be looked at from several dimensions:
 - Contributing Companies/Agencies/Universities - what each of the sweat equity contributors benefited from the workshop
 
 ## 1. Use Cases
-See [Use Cases](./UseCases) 
+See [Use Cases](./UseCases)
 
 ## 2. Standard Interface
 ![CAW logo](Images/caw_logo.png)
@@ -67,9 +67,6 @@ contains blah blah
 - [CISA](./CISA)
 - [Ion Channel](./IonChannel)
 - [Arctic Wolf](./ArcticWolf)
-
-
-
 
 # Feedback
 TBD - Feedback will be solicited.
