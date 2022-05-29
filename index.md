@@ -320,7 +320,7 @@ surveys, and how to help.
 
 Contribute to this website:
 Click on the GitHub button at the top of this page.
-See [Contributing](./Contributing.md)
+See [Contributing](./Contributing2.md)
 
 ---
 
