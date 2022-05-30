@@ -66,7 +66,7 @@ contains blah blah
 - [NYP](./NYP)
 - [CISA](./CISA)
 - [Ion Channel](./IonChannel)
-- [Arctic Wolf](./ArcticWolf)
+- [Individuals](./Individuals)
 
 # Feedback
 TBD - Feedback will be solicited.
