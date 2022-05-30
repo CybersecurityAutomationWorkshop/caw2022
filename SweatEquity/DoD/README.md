@@ -14,19 +14,34 @@ DoD's contributions to the CAW include development of:
 * Posture Attribute Repository (PAR) proof of concept
 
 ### 1.1 OpenC2 Actuator Profiles
+An actuator profile describes a function performed by a product and defines the API operations
+(commands) related to that function. A device may perform the operations defined in one or more
+actuator profiles, and a device schema defines which profiles and which optional commands
+from each profile are supported. Actuator profiles include:
+* [Packet Filtering](https://github.com/oasis-tcs/openc2-ap-pf), 
+successor to [Stateless Packet Filtering](https://github.com/oasis-tcs/openc2-apsc-stateless-packet-filter)
+* [Software Bill of Materials Retrieval](https://github.com/oasis-open/openc2-jadn-software/blob/master/ProfileTables/oc2ap-sbom-v1.1.md),
+to be merged into [SBOM](https://github.com/oasis-tcs/openc2-ap-sbom/tree/working)
+* [Posture Attribute Collection](https://github.com/oasis-tcs/openc2-ap-pac)
+* [Endpoint Response](https://github.com/oasis-tcs/openc2-ap-er)
 
 ### 1.2 Profile Creation and Message Validation Tools
 The OpenC2 [JADN Software](https://github.com/oasis-open/openc2-jadn-software) repo contains:
-* Template to use when creating new actuator profiles
-* Template to use when developing OpenC2 producer and consumer device schemas
-* Software to translate schemas between multiple formats
-* Software to validate profile and device schemas
-* Software to resolve external references to produce a self-contained device schema
-* Example actuator profile and device schemas (SLPF, PAC, SBOM, ER)
-* Example OpenC2 commands and responses
-* Software to validate commands and responses against a device schema
+* [Template](https://raw.githubusercontent.com/oasis-open/openc2-jadn-software/master/Schemas/oc2ls-v1.1-ap-template.jadn)
+to use when creating new actuator profiles
+* [Template](https://raw.githubusercontent.com/oasis-open/openc2-jadn-software/master/Schemas/oc2ls-v1.1-lang.jadn)
+to use when developing OpenC2 producer and consumer device schemas
+* [Software](https://github.com/oasis-open/openc2-jadn-software/blob/master/make-artifacts.py)
+to validate profile and device schemas and translate schemas between multiple formats
+* [Software](https://github.com/oasis-open/openc2-jadn-software/blob/master/resolve-references.py)
+to resolve external references to produce a self-contained device schema
+* Actuator profile and device [schemas](https://github.com/oasis-open/openc2-jadn-software/tree/master/Schemas)
+* Example OpenC2 [commands and responses](https://github.com/oasis-open/openc2-jadn-software/tree/master/Test)
+for a device supporting each profile
+* [Software](https://github.com/oasis-open/openc2-jadn-software/blob/master/test-poc.py)
+to validate commands and responses for each device
 
-This software can be used both when creating new actuator profiles and when
+This software is used both when creating new actuator profiles and when
 developing and testing OpenC2 implementations prior to interoperability testing.
 
 ![Schema Tools](https://raw.githubusercontent.com/oasis-tcs/openc2-usecases/main/Actuator-Profile-Schemas/images/ap-process.jpg)
