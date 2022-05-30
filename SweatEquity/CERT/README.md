@@ -16,7 +16,7 @@ including vulnerabilities highlighted in red.
 The source code is open source at
 https://github.com/CERTCC/SBOM/tree/master/SwiftBOM .
 
-See the CERT video for more info.
+See the SwiftBOM video playlist https://youtu.be/pmqGp8TWoF4  for more info.
 
 
 ## Return to Sweat Equity
