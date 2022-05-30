@@ -23,4 +23,4 @@
 - [NYP](./NYP)
 - [CISA](./CISA)
 - [Ion Channel](./IonChannel)
-- [Arctic Wolf](./ArcticWolf)
+- [Individuals](./Individuals)
