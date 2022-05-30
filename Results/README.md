@@ -41,32 +41,7 @@ Results for each standard interface/functionality are shown in
 
 ## 3. Contributing Companies/Agencies/Universities
 [Contributing Companies/Agencies/Universities](./Orgs)
-contains blah blah
-
-- [AT&T](./ATT)
-- [sFractal](./sFractal/)
-- [DoD](./DoD/)
-- [HII](HII/)
-- [Google](./Google)
-- [University of Oslo](./UniversityOslo/)
-- [Linux Foundation](./LinuxFoundation/)
-- [Cybeats](./Cybeats/)
-- [Copado](./Copado/)
-- [CTIN](./CTIN/)
-- [Fortress](./Fortress/)
-- [One Planet Education Network](./OnePlanetEducationNetwork)
-- [Healthcare SBOM PoC](./Healthcare_SBOM_PoC)
-- [IBM](./IBM)
-- [RKVST](./RKVST)
-- [Anchore](./Anchore)
-- [CERT](./CERT)
-- [Podii](./Podii)
-- [Cisco](./Cisco)
-- [BSI](./BSI)
-- [NYP](./NYP)
-- [CISA](./CISA)
-- [Ion Channel](./IonChannel)
-- [Individuals](./Individuals)
+contains results by organizations.
 
 # Feedback
 TBD - Feedback will be solicited.
