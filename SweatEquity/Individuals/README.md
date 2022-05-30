@@ -5,6 +5,10 @@ This may be to avoid corporate bureaucracy
 or may just be because it's on an individual's own time
 and unrelated to their corporate work.
 
+# Individual 1
+
+![analytcs](./AnalyticsServiceProvisioning-PACE.png)
+
 ## Return to Sweat Equity
 [return to Sweat Equity](../../SweatEquity)
 
