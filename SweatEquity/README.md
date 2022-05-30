@@ -33,7 +33,7 @@ will be providing:
 - [NYP](./NYP)
 - [CISA](./CISA)
 - [Ion Channel](./IonChannel)
-- [Arctic Wolf](./ArcticWolf)
+- [Individual Contributors](./Individuals)
 - ...
 
 Note the list is in the order they volunteered.

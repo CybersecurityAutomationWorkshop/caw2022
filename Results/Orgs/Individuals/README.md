@@ -1,4 +1,4 @@
-# Arctic Wolf Results
+# Individual Results
 
 ## What Contributed
 recap sweat equity here, can ref to sweat page
