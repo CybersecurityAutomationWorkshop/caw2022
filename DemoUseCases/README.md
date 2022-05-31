@@ -53,11 +53,11 @@ those specific interoperability use cases fit into.
 
 These big-picture scenarios are:
 - Enterprise Security Posture
-    + See [Enterprise Security Posture](./enterprise_posture.md()
+    + See [Enterprise Security Posture](./enterprise_posture.md)
     + In this example, the enterprise (a large company or a large government agency) has a very complex security posture based on many factors across many internal organizations located in many places. But for the purpose of an executive dashboard, the security posture is bucketed into one of four states.
 - comply to connect
    + See [comply to connect](./comply2connect.md)
-   + https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/
+   + See[https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/](https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/)
 - create some business-as-usual scenario
 - create some threat-intel-comes-in scenario
 - create some non-crippling-attack scenario
@@ -91,17 +91,18 @@ Mine the following to flesh out Sections 2,3,4 better:
 ![alphabetsoup](../Images/Automation.gif)
 
 - Jane's real life use cases
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/CTIN/
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/CTIN/](http://www.cybersecurityautomationworkshop.org/SweatEquity/CTIN/)
 - PACE collect SBOM use cases
-    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_device.md
-    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_url.md
-    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_with_command.md
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/DoD/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/HII/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/
+    + [Collect SBOM from Device](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_device.md)
+    + [Collect SBOM from URL](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_url.md)
+    + [Collect SBOM with Command](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_with_command.md)
+  + Sweat Equity Contributions
+    + [DoD](http://www.cybersecurityautomationworkshop.org/SweatEquity/DoD/)
+    + [HII](http://www.cybersecurityautomationworkshop.org/SweatEquity/HII/)
+    + [Cybeats](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/)
+    + [Fortress](http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/)
+    + [Healthcare SBOM PoC](http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/)
+    + [NY Presbitarian](http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/)
 - PACE Transformer use cases
     + this is a subset of the following evaluation use cases but rates it's own subset
     + https://www.cybersecurityautomationworkshop.org/SweatEquity/sFractal/#326-transformer-use-cases
