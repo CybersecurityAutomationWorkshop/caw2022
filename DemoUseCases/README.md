@@ -131,9 +131,8 @@ Mine the following to flesh out Sections 2,3,4 better:
       - It actually makes a pretty good story. Because of this  workshop, a tiny company (One Planet) gave a tiny push to its supplier, a huge company (IBM) working on a huge opensource project (Open Horizon), and the community collaboration (Anchore) resulted in demonstrable progress with an actual, real, useful [SBOM](../SweatEquity/OnePlanetEducationNetwork/sbom.anax.json). My day is complete.
    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/)
    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/](http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/)
-   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/
-- TAC use cases](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/
-- TAC use cases)
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/)
+- TAC use cases
    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/UniversityOslo/](http://www.cybersecurityautomationworkshop.org/SweatEquity/UniversityOslo/)
 - VSM use cases
    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Copado/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Copado/)
