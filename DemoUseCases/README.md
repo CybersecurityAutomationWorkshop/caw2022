@@ -23,33 +23,36 @@ cybersecurity automation landscape.
 
 ### 1.1 IACD Framework
 The demo use cases will follow a modular functional framework
-from Integrated Adaptive Cyber Defense (IACD).
-In particular, it will use the sensing, sense making,
-decision making, and acting terminology and
-functional architecture.
-See [IACD](./iacd.md) for more info.
+from Integrated Adaptive Cyber Defense (IACD). In particular, it
+will use the 
+ - sensing
+ - sense making
+ - decision making, and 
+ - acting terminology 
+ 
+and functional architecture. See [IACD](./iacd.md) for more info.
 
 
 ## 2. Big Picture Ideal Use Cases
 
-These are realistic (aka complex) use cases
+These are realistic (AKA complex) use cases
 and hence there are many elements for a given use case.
 Any given use case will have:
-- situation (e.g. "Criminal hackers are currently in the system")
-- industry (e.g. "healthcare")
-- organization (e.g. "General Hospital")
-- infrastructure systems (e.g. BestInClass intrusion detection system, Stixshifter, PACE PES/PCS/PAR, ...)
-- attributes (e.g. asset type, triage scale, SBOMs, VEXs)
-- parameters (e.g. asset type = respirator, triage = life threatening, SBOM = incomplete CycloneDx, ...)
-- assets (both micro e.g. mri47 with particular attributes/parameters, and macro e.g. 234 "level 1" devices with SBOMs and VEXs)
-- playbooks (e.g. CACAO playbook to handle a particular set of conditions)
-- security policies (e.g. General Hospital may choose to do different actions on VEX product_status="not affected/component_not_present" than on "not affected/vulnerable_code_not_in_execute_path" whereas Podunk Rural Community Hospital may choose to lump several/all VEX flags together.
+- situation (e.g., "Criminal hackers are currently in the system")
+- industry (e.g., "healthcare")
+- organization (e.g., "General Hospital")
+- infrastructure systems (e.g., Best-In-Class intrusion detection system, Stixshifter, PACE PES/PCS/PAR, ...)
+- attributes (e.g., asset type, triage scale, SBOMs, VEXs)
+- parameters (e.g., asset type = respirator, triage = life threatening, SBOM = incomplete CycloneDx, ...)
+- assets (both micro e.g., mri47 with particular attributes/parameters, and macro e.g., 234 "level 1" devices with SBOMs and VEXs)
+- playbooks (e.g., CACAO playbook to handle a particular set of conditions)
+- security policies (e.g., General Hospital may choose to do different actions on VEX product_status="not affected/component_not_present" than on "not affected/vulnerable_code_not_in_execute_path" whereas Podunk Rural Community Hospital may choose to lump several/all VEX flags together.
 
-The demonstrable use interoperability will tend to be down in the weeds
-(eg HII OIF Orchestrator sending a retrieve-SBOM OpenC2 command
-over MQTT to sFractal BlinkyMaHa).
-This section will attempt to define some big picture use cases which
-those specific interoperability use cases fit into.
+The demonstrable use interoperability will tend to be down in the
+weeds (e.g., HII OIF Orchestrator sending a retrieve-SBOM OpenC2
+command over MQTT to sFractal BlinkyMaHa). This section will
+attempt to define some big picture use cases which those specific
+interoperability use cases fit into.
 
 These big-picture scenarios are:
 - Enterprise Security Posture
