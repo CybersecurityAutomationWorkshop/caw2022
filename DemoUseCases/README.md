@@ -105,18 +105,18 @@ Mine the following to flesh out Sections 2,3,4 better:
     + [NY Presbitarian](http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/)
 - PACE Transformer use cases
     + this is a subset of the following evaluation use cases but rates it's own subset
-    + https://www.cybersecurityautomationworkshop.org/SweatEquity/sFractal/#326-transformer-use-cases
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/
+    + [https://www.cybersecurityautomationworkshop.org/SweatEquity/sFractal/#326-transformer-use-cases](https://www.cybersecurityautomationworkshop.org/SweatEquity/sFractal/#326-transformer-use-cases)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/)
     + I suspect most PACE vendors and open source tools could go here
 - PACE evaluate SBOM/VEX/NCD use cases
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/ note besides creating SBOMs, you can load SBOMs and it creates relationship graph showing which components vulnerable according to NVD
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/ note as SBOM data extraction tools as well as creation tools
-    + http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/](http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/) note besides creating SBOMs, you can load SBOMs and it creates relationship graph showing which components vulnerable according to NVD
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/) note as SBOM data extraction tools as well as creation tools
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/](http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/)
 - Using PACE posture results in other use cases
     + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/ips-pcs-pes-usecase.md
     + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/stix-pcs-pes-usecase.md
