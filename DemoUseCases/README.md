@@ -46,10 +46,10 @@ Any given use case will have:
 - parameters (e.g., asset type = respirator, triage = life threatening, SBOM = incomplete CycloneDx, ...)
 - assets (both micro e.g., mri47 with particular attributes/parameters, and macro e.g., 234 "level 1" devices with SBOMs and VEXs)
 - playbooks (e.g., CACAO playbook to handle a particular set of conditions)
-- security policies (e.g., General Hospital may choose to do different actions on VEX product_status="not affected/component_not_present" than on "not affected/vulnerable_code_not_in_execute_path" whereas Podunk Rural Community Hospital may choose to lump several/all VEX flags together.
+- security policies (e.g., General Hospital may choose to do different actions on VEX `product_status="not affected/component_not_present"` than on `"not affected/vulnerable_code_not_in_execute_path"` whereas Podunk Rural Community Hospital may choose to lump several/all VEX flags together.
 
 The demonstrable use interoperability will tend to be down in the
-weeds (e.g., HII OIF Orchestrator sending a retrieve-SBOM OpenC2
+weeds (e.g., HII OIF-Orchestrator sending a retrieve-SBOM OpenC2
 command over MQTT to sFractal BlinkyMaHa). This section will
 attempt to define some big picture use cases which those specific
 interoperability use cases fit into.
@@ -60,7 +60,7 @@ These big-picture scenarios are:
     + In this example, the enterprise (a large company or a large government agency) has a very complex security posture based on many factors across many internal organizations located in many places. But for the purpose of an executive dashboard, the security posture is bucketed into one of four states.
 - comply to connect
    + See [comply to connect](./comply2connect.md)
-   + See[https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/](https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/)
+   + See [https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/](https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/)
 - create some business-as-usual scenario
 - create some threat-intel-comes-in scenario
 - create some non-crippling-attack scenario
@@ -81,15 +81,15 @@ These big-picture scenarios are:
 
 blah blah
 - Specific use case called whatever
-- demo 1 of whatever (eg between two systems of single participant)
-- demo 2 of whatever (eg between participant1 and participant2)
+- demo 1 of whatever (e.g., between two systems of single participant)
+- demo 2 of whatever (e.g., between participant1 and participant2)
 -  ... demo N of whatever
 -  Next use case of this other thing
 - demo 1 of this other thing
  ...
 
 ## 5 Other stuff that needs to get entered
-Mine the following to flesh out Sections 2,3,4 better:
+Mine the following to flesh out Sections 2, 3, 4 better:
 
 ![alphabetsoup](../Images/Automation.gif)
 
