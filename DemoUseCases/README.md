@@ -118,24 +118,25 @@ Mine the following to flesh out Sections 2,3,4 better:
     + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/) note as SBOM data extraction tools as well as creation tools
     + [http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/](http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/)
 - Using PACE posture results in other use cases
-    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/ips-pcs-pes-usecase.md
-    + https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/stix-pcs-pes-usecase.md
-    + the 3 use cases in https://github.com/sparrell/PACE/blob/main/docs/UseCases/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags - note "flags" are now "status_justification" in SBOM docs so PACE page needs updating for correct terminology
+    + [https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/ips-pcs-pes-usecase.md](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/ips-pcs-pes-usecase.md)
+    + [https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/stix-pcs-pes-usecase.md](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/stix-pcs-pes-usecase.md)
+    + the 3 use cases in [https://github.com/sparrell/PACE/blob/main/docs/UseCases/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags](https://github.com/sparrell/PACE/blob/main/docs/UseCases/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags) - note "flags" are now "status_justification" in SBOM docs so PACE page needs updating for correct terminology
 - CSAF/VEX use cases
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/BSI/
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/BSI/](http://www.cybersecurityautomationworkshop.org/SweatEquity/BSI/)
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/)
 - Interop pics
-   + https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.06.22-BC-SBOM-PoC/ParticipantInfo/sFractal/workPlan.1.md
+   + [https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.06.22-BC-SBOM-PoC/ParticipantInfo/sFractal/workPlan.1.md](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.06.22-BC-SBOM-PoC/ParticipantInfo/sFractal/workPlan.1.md)
 - SBOM Creation use cases
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/OnePlanetEducationNetwork/
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/OnePlanetEducationNetwork/](http://www.cybersecurityautomationworkshop.org/SweatEquity/OnePlanetEducationNetwork/)
       - It actually makes a pretty good story. Because of this  workshop, a tiny company (One Planet) gave a tiny push to its supplier, a huge company (IBM) working on a huge opensource project (Open Horizon), and the community collaboration (Anchore) resulted in demonstrable progress with an actual, real, useful [SBOM](../SweatEquity/OnePlanetEducationNetwork/sbom.anax.json). My day is complete.
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/
-- TAC use cases
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/UniversityOslo/
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/)
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/](http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/)
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/
+- TAC use cases](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/
+- TAC use cases)
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/UniversityOslo/](http://www.cybersecurityautomationworkshop.org/SweatEquity/UniversityOslo/)
 - VSM use cases
-   + http://www.cybersecurityautomationworkshop.org/SweatEquity/Copado/
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Copado/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Copado/)
 - need stixshifter use cases, particularly as ties in to bigger pic with rest of alphabet soup
 - need kestrel use cases, particularly as ties in to bigger pic with rest of alphabet soup
 
