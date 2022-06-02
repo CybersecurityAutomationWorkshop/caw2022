@@ -2,8 +2,8 @@
 
 ## Projects Description
 
-### stix-shifter (OCA)
-STIX-shifter is an open-source python library that queries security products and data stores using STIX patterning and presents the results as STIX cyber observable objects.  The project contains several connectors such as Splunk, QRadar, and Crowdstrike Falcon. 
+### STIX-shifter (OCA)
+[STIX-shifter](https://github.com/opencybersecurityalliance/stix-shifter) is an open-source python library that queries security products and data stores using STIX patterning and presents the results as STIX cyber observable objects.  The project contains several [connectors](https://github.com/opencybersecurityalliance/stix-shifter/tree/develop/stix_shifter_modules) such as Splunk, QRadar, and Crowdstrike Falcon. 
 
 STIX-shifter uses connectors as follows:
 STIX patterns are translated into the target data source's native query language.
@@ -12,6 +12,8 @@ Search results are fetched via the target data source's APIs.
 The fetched results are translated into STIX observed-data SDOs.
 
 It allows for federated search against supported data sources: One STIX pattern can query multiple security products and return the results in a unified STIX format. The STIX objects can then be ingested by other projects (ie. Kestrel).
+
+Since STIX-shifter is open, anyone can contribute the library of data source integrations. Follow the [developer guide](https://github.com/opencybersecurityalliance/stix-shifter/blob/develop/adapter-guide/develop-stix-adapter.md) to begin building your own connector.
 
 ### Kestrel (OCA)
 [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) is a threat hunting language aiming to make cyber threat hunting _fast_ by providing a layer of abstraction to build reusable, composable, and shareable hunt-flow.
