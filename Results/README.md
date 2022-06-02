@@ -22,17 +22,17 @@ The results will be looked at from several dimensions:
 ## 1. Keynotes
 The opening keynote was provided by Anthony Ramos of AT&T.
 
-You can watch Allan Friedman's keynote
+You can watch the keynote by Allan Friedman (CISA)
 [here](https://youtu.be/8t_Pe7HaenA)
 and his slides [here](./VexAutomationWorkshop.pptx).
 Apologies, I started recording several minutes into the talk.
 
-You can watch Chuck Brooks's keynote
+You can watch the keynote by Chuck Brooks (Georgetown University)
 [here](https://youtu.be/G5pvI8h3lRM)
 and his slides [here](./AUTOMATIONWORKSHOP.pptx).
 Apologies, I forgot again and started recording several minutes into the talk.
 
-You can watch Neal Ziring's keynote
+You can watch the keynote by Neal Ziring (NSA)
 [here](https://youtu.be/cWL8wiSi-Rs)
 
 
