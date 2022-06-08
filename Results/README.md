@@ -40,7 +40,7 @@ You can watch the keynote by Neal Ziring (NSA)
 See [Use Cases](./UseCases)
 
 ## 3. Standard Interface
-![CAW logo](https://github.com/CybersecurityAutomationWorkshop/caw2022/blob/main/Images/caw_logo.png)
+![CAW logo](/Images/caw_logo.png)
 
 Results for each standard interface/functionality are shown in
 [Standard Interface](./StandardInterface) which contains:
