@@ -14,7 +14,7 @@ We further discussed how the TAC ontology could integrate with other open-source
 As an ad-hoc contribution, we briefed about the [CACAO](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cacao) security playbooks "standard" and presented use cases on how CACAO can orchestrate and automate cyberspace defense, also by utilizing STIX and TAXII, OpenC2, Kestrel, and the TAC ontology.
 
 Finally, we discussed and demonstrated how we can share (and couple with CTI) CACAO security playbooks using STIX 2.1.
-The STIX 2.1 "Extension" we demonstrated is available on [GitHub](https://github.com/fovea-research/stix2.1-coa-playbook-extension). We provided for further reading a [technical report](https://arxiv.org/pdf/2203.04136.pdf) that explains the STIX 2,1 extension.
+The STIX 2.1 "Extension" we demonstrated is available on [GitHub](https://github.com/fovea-research/stix2.1-coa-playbook-extension). We provided for further reading a [technical report](https://arxiv.org/pdf/2203.04136.pdf) that explains the STIX 2.1 extension.
 
 ## Use Cases and Take Aways
 The participants showed high interest in the inference capabilities of the Threat Actor Context ontology to derive new understandings pertinent to CTI and support human intelligence analysis and decision making. 
