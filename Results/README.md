@@ -53,7 +53,7 @@ Results for each standard interface/functionality are shown in
 - [Kestrel](./Kestrel)
 - [stix-shifter](./StixShifter)
 - [STIX/TAXII](./StixTaxii)
-- [TAC](./TAC)
+- [TAC](StandardInterface/TAC)
 - [CACAO](./CACAO)
 
 
