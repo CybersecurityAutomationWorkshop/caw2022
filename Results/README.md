@@ -1,9 +1,9 @@
 # Results
 
-This is being drafted prior to the workshop
-to hopefully predict results and to help prioritize
-and steer efforts the day of the workshop.
-It will be revised post-workshop based on how we did.
+This was drafted prior to the workshop
+to  predict results and  help prioritize
+the day of the workshop.
+It is in the process of being revised post-workshop based on how we did.
 
 The Cybersecurity Automation Workshop was held
 2-June-2022 at the
@@ -39,22 +39,22 @@ You can watch the keynote by Neal Ziring (NSA)
 ## 2. Use Cases
 See [Use Cases](./UseCases)
 
-## 3. Standard Interface
+## 3. Standard Interfaces
 ![CAW logo](Images/caw_logo.png)
 
 Results for each standard interface/functionality are shown in
 [Standard Interface](./StandardInterface) which contains:
-- [PACE](./PACE)
-- [SBOM](./SBOM)
-- [OpenC2](./OpenC2)
-- [OCA](./OCA)
-- [CSAF](./CSAF)
-- [VSM](./VSM)
-- [Kestrel](./Kestrel)
-- [stix-shifter](./StixShifter)
-- [STIX/TAXII](./StixTaxii)
-- [TAC](./TAC)
-- [CACAO](./CACAO)
+- [PACE](./StandardInterface/PACE)
+- [SBOM](./StandardInterface/SBOM)
+- [OpenC2](./StandardInterface/OpenC2)
+- [OCA](./StandardInterface/OCA)
+- [CSAF](./StandardInterface/CSAF)
+- [VSM](./StandardInterface/VSM)
+- [Kestrel](./StandardInterface/Kestrel)
+- [stix-shifter](./StandardInterface/StixShifter)
+- [STIX/TAXII](./StandardInterface/StixTaxii)
+- [TAC](./StandardInterface/TAC)
+- [CACAO](./StandardInterface/CACAO)
 
 
 ## 4. Contributing Companies/Agencies/Universities

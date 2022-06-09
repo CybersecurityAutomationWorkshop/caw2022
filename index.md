@@ -31,15 +31,15 @@ Vulnerabilities and Incidents
 
 ## Agenda
 
-The Workshop will take place 9AM-5PM EDT 2 June 2022.
+The Workshop took place 9AM-5PM EDT 2 June 2022.
 
-The four keynote speakers will be:
-- [Dan Solero](./Dan_Solero.md) (AT&T)
+The four keynote speakers were:
+- Anthony Ramos (AT&T)
 - [Allan Friedman](./Allan_Friedman.md) (CISA)
 - [Chuck Brooks](./Chuck_Brooks.md) (Georgetown University)
 - [Neal Ziring](./Neal_Ziring.md) (NSA)
 
-The remaining time will be spent either:
+The remaining was spent either:
 - demonstrating interworking parts/all of a use case
    + the hope is much of the details will be worked out prior to the Workshop as to what systems will interoperate on which use case(s)
 - trouble shooting interworking
@@ -48,7 +48,7 @@ The remaining time will be spent either:
 
 See [Agenda](./Agenda.md) for more details.
 
-**Pre-Workshop Homework**:  Prior to the workshop, attendees are encouraged to familiarize
+**Pre-Workshop Homework**:  Prior to the workshop, attendees were encouraged to familiarize
 themselves with the organizations participating,
 what they will be bringing to the workshop,
 and the use cases being demonstrated.
@@ -56,14 +56,23 @@ and the use cases being demonstrated.
 - Please familiarize yourself with the "sweat equity" being provided by participants at [Sweat Equity](/SweatEquity/)
 - Please familiarize yourself with the use cases at [use cases](./DemoUseCases/), particularly all [planned interoperation](./DemoUseCases/README.md#4-interoperability-demos) that will take place
 
-The intent is this pre-workshop material will be available by 26-May.
+This 'pre-workshop' material is still useful post-workshop.
 
-Single or multiple track
-is not yet decided
-and will depend on
-the number and extent of the interworking scenarios,
-which will depend
-on the sweat equity (so too soon to tell).
+For the working sessions, the group split into two parallel tracks with some
+common time.
+
+---
+
+## Results
+See
+[results](./Results/README.md)
+
+---
+
+## Sweat Equity
+To learn more about what participants are bringing
+to the workshop, see
+[Sweat Equity](./SweatEquity/README.md)
 
 ---
 
@@ -117,10 +126,7 @@ Inbound connections will not be supported.
 
 **Remote Access**
 
-Intent is to allow virtual participation. It may not apply to all
-sessions or all interoperation demonstrations.
-
-More details will be provided to registered participants nearer the event.
+A zoom link was provided for virtual participation.
 
 **Eligibility**
 
@@ -221,15 +227,6 @@ list. Talk up your value, don't talk down your competitors.
 
 ---
 
-
-## Sweat Equity
-To learn more about what participants are bringing
-to the workshop, see
-[Sweat Equity](./SweatEquity/README.md)
-
----
-
-
 ## Technical Details for Interoperation
 see
 [TechDetails](./TechDetails/README.md)
@@ -237,7 +234,6 @@ for more details on decisions being made on how to get
 stuff to work together.
 
 ---
-
 
 ## Demo Use Cases
 In the ideal world,
@@ -262,14 +258,6 @@ More details on exactly is planned is at
 [DemoUseCases](./DemoUseCases/README.md)
 
 ---
-
-
-## Results
-See
-[results](./Results/README.md)
-
----
-
 
 ## Previous Events
 Results from the two previous workshops,
