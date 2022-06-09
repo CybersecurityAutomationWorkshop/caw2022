@@ -23,7 +23,7 @@ framework and HII's implementation of it. While much of our role
 in the proposed interworking was as the intermediary, having a
 functional end-to-end PACE solution allowed us to demonstrate the
 viability of the OIF-Orchestrator as an intermediate Posture
-Colleciton Service (PCS) directly. This enabled more discussions
+Collection Service (PCS) directly. This enabled more discussions
 to credibly use a “hand-waving lycan”, since OIF could be shown
 to interoperate with other technologies.
 
