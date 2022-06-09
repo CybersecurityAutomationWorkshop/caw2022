@@ -31,10 +31,9 @@ interworking with an OpenC2 device.
 ## Use Cases
 
 HII's PAC over OpenC2 demonstration is both a collection of tools
-as well as an implementation of a PACE use case. 
-
-The primary focus of HII's protoptying efforts was the PACE
-["Collect SBOM From
+as well as an implementation of a PACE use case. The primary
+focus of HII's protoptying efforts was the PACE ["Collect SBOM
+From
 Device"](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_device.md)
 use case, shown here:
 
