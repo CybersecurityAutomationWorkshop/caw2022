@@ -265,8 +265,8 @@ More details on exactly is planned is at
 
 
 ## Results
-Eventually results will be put
-[here](./Results/README.md)
+See
+[results](./Results/README.md)
 
 ---
 

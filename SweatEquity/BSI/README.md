@@ -12,19 +12,19 @@ Several Open Source Tools have been made available on GitHub to ease the use of 
 
 The repo [CSAF Distribution](https://github.com/csaf-poc/csaf_distribution) contains several tools around the distribution, discovery and retrieval of CSAF documents. It contributes to the understanding of [Section 7](https://docs.oasis-open.org/csaf/csaf/v2.0/csaf-v2.0.html#7-distributing-csaf-documents) in the CSAF standard. Even though it is officially still "work in progress" it can already be used. Guidance on the build, setup and usage of the Go applications is provided in the repo. [Source Code](https://github.com/csaf-poc/csaf_distribution) is available under MIT.
 
-#### [CSAF Provider(https://github.com/csaf-poc/csaf_distribution#csaf_provider)
+#### [CSAF Provider](https://github.com/csaf-poc/csaf_distribution#csaf_provider)
 
 is an implementation of the role [CSAF trusted provider](https://docs.oasis-open.org/csaf/csaf/v2.0/csaf-v2.0.html#723-role-csaf-trusted-provider), also offering a simple HTTPS based management service. It is more or less a static site generator.
 
-#### [CSAF Uploader(https://github.com/csaf-poc/csaf_distribution#csaf_uploader)
+#### [CSAF Uploader](https://github.com/csaf-poc/csaf_distribution#csaf_uploader)
 
 is a command line tool that uploads CSAF documents to the [csaf_provider](#csaf_provider).
 
-#### [CSAF Aggregator(https://github.com/csaf-poc/csaf_distribution#csaf_aggregator)
+#### [CSAF Aggregator](https://github.com/csaf-poc/csaf_distribution#csaf_aggregator)
 
 is an implementation of the role [CSAF Aggregator](https://docs.oasis-open.org/csaf/csaf/v2.0/csaf-v2.0.html#725-role-csaf-aggregator).
 
-#### [CSAF Checker(https://github.com/csaf-poc/csaf_distribution#csaf_checker)
+#### [CSAF Checker](https://github.com/csaf-poc/csaf_distribution#csaf_checker)
 
 is a tool for testing a [CSAF trusted provider](https://docs.oasis-open.org/csaf/csaf/v2.0/csaf-v2.0.html#723-role-csaf-trusted-provider) according to [Section 7 of the CSAF standard](https://docs.oasis-open.org/csaf/csaf/v2.0/csaf-v2.0.html#7-distributing-csaf-documents).
 
