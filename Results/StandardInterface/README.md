@@ -1,6 +1,6 @@
 # Results by (what to call this)
 
-![CAW logo](Images/caw_logo.png)
+![CAW logo](/Images/caw_logo.png)
 
 Results for each standard interface/functionality are shown in:
 
