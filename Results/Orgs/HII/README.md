@@ -13,18 +13,19 @@ interworking discussions at the event. Having the
 serve as a bridge between threat hunting/decision maker
 components such as
 [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
-and endpoint utilities such as Fortress FIA, Anchore SYFT/GRYPE,
-or our own [Yuuki](https://github.com/oasis-open/openc2-yuuki)
-actuators allowed us to better hear presentations of other
-attendees in terms of their tools’ ability to directly interface
-with the PACE framework and HII's implementation of it. While
-much of our role in the proposed interworking was as the
-intermediary, having a functional end-to-end PACE solution
-allowed us to demonstrate the viability of the OIF-Orchestrator
-as an intermediate Posture Colleciton Service (PCS) directly.
-This enabled more discussions to credibly use a “hand-waving
-lycan”, since OIF could be shown to interoperate with other
-technologies.
+and endpoint utilities such as [Fortress File Integrity Assurance
+(FIA)](../../../SweatEquity/Fortress/README.md), [Anchore Syft &
+Grype](../../../SweatEquity/Anchore/README.md), or our own
+[Yuuki](https://github.com/oasis-open/openc2-yuuki) actuators
+allowed us to better hear presentations of other attendees in
+terms of their tools’ ability to directly interface with the PACE
+framework and HII's implementation of it. While much of our role
+in the proposed interworking was as the intermediary, having a
+functional end-to-end PACE solution allowed us to demonstrate the
+viability of the OIF-Orchestrator as an intermediate Posture
+Colleciton Service (PCS) directly. This enabled more discussions
+to credibly use a “hand-waving lycan”, since OIF could be shown
+to interoperate with other technologies.
 
 Additionally, we provided access to the HII Blinky-Board to
 visually demonstrate OpenC2 commands and facilitate simple
