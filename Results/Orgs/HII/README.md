@@ -4,9 +4,11 @@
 
 HII enumerated our plans for the CAW on our [Sweat Equity page](../../../SweatEquity/HII/README.md).
 
-At the CAW, HII presented a PACE over OpenC2 framework that
-served as the cornerstone of the PACE interworking discussions at
-the event. Having the
+At the CAW, HII presented a [Posture Attribute Collection and
+Evaluation
+(PACE)](https://github.com/opencybersecurityalliance/PACE) over
+OpenC2 framework that served as the cornerstone of the PACE
+interworking discussions at the event. Having the
 [OIF-Orchestrator](https://github.com/oasis-open/openc2-oif-orchestrator)
 serve as a bridge between threat hunting/decision maker
 components such as
