@@ -1,20 +1,12 @@
 # CACAO Results
 
 ## What Contributed
-recap sweat equity was brought of interest to this effort,
-can ref to sweat page
 
-## Use Cases
-Note which use cases were of interest
+University of Oslo (UiO) briefed about the [CACAO](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cacao) security playbooks "standard" and presented use cases on how CACAO can orchestrate and automate cyberspace defense, also by utilizing STIX and TAXII, OpenC2, Kestrel, and the TAC ontology. 
 
-## Example Files
-Provide links to example CACAO files used in plugfest
+An emphasis was given in demonstrating how CACAO can utilize OpenC2 for command and control of cyber defense systems and components. 
 
-## Accomplishments
-Note what accomplished
-
-## Action Items
-Note what needs to be brought back to community
+Finally, UiO discussed and demonstrated how we can share (and couple with CTI) CACAO security playbooks using STIX 2.1. They presented a STIX 2.1 property extension for the Course of Action object type. The STIX 2.1 "Extension" is available on [GitHub](https://github.com/fovea-research/stix2.1-coa-playbook-extension). For further reading they provided a [technical report](https://arxiv.org/pdf/2203.04136.pdf) that explains the aforementioned STIX 2.1 extension.
 
 
 # Jump to
