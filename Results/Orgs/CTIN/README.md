@@ -1,14 +1,14 @@
 # CTIN Results
 
 ## What Contributed
-recap sweat equity here, can ref to sweat page
+Developed two use cases based on actual threat hunts. One was a fileless, socketless backdoor known as sockdetour.  The second was based on cyber observables from ransomare attacks by the Conti gang.  
 
 ## Use Cases
-Note which use cases were of interest
+Not applicable to our sweat equity.
 
 ## Take aways
-Note what learned from workshop.
-Are you likely to follow or participate in something new?
+It was valuable to see the dialogue between and among the members of the various TCs and members of the public.  
+We will install and instance of Kestrel.
 
 
 # Jump to
