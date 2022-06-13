@@ -72,7 +72,7 @@ laid the ground work for two others.
 
 ## Take aways
 
-We conducted a successful demonstration of use the [OpenC2
+We conducted a successful demonstration of using the [OpenC2
 language](https://openc2.org) to implement Posture Attribute
 Collection (PAC) as a stepping stone to a more complete PACE
 implementation.

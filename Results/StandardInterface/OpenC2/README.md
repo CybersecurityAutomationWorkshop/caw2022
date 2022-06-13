@@ -13,7 +13,7 @@ HII's prototype demonstrated two specific PACE use cases (one formally documente
 
  - [Collect SBOM From
    Device](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_device.md), using an OpenC2 SBOM Actuator Profile
- - [ ✓ ] Collect OS version from Device, using an OpenC2 Database Actuator Profile to access the osquery tool.
+ - Collect OS version from Device, using an OpenC2 Database Actuator Profile to access the osquery tool.
 
 ## Example Files
 *Provide links to example OpenC2 command/response files used in plugfest*
@@ -21,7 +21,7 @@ HII's prototype demonstrated two specific PACE use cases (one formally documente
 ## Accomplishments
 *Note what accomplished*
 
-HII conducted a successful demonstration of use the OpenC2 language to implement Posture Attribute Collection (PAC) as a stepping stone to a more complete PACE implementation.
+HII conducted a successful demonstration of using the OpenC2 language to implement Posture Attribute Collection (PAC) as a stepping stone to a more complete PACE implementation.
 
 ## Action Items
 *Note what needs to be brought back to community*
