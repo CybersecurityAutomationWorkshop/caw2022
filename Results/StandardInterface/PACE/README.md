@@ -21,6 +21,8 @@ HII's prototype demonstrated two specific PACE use cases (one formally documente
 ## Accomplishments
 *Note what accomplished*
 
+HII conducted a successful demonstration of use the OpenC2 language to implement Posture Attribute Collection (PAC) as a stepping stone to a more complete PACE implementation.
+
 ## Action Items
 *Note what needs to be brought back to community*
 
