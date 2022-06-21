@@ -1,91 +1,123 @@
 type Device @model {
-  sboms: [SBOM] @manyToMany(relationName: "DeviceSboms")
   kind: DeviceKind
   manufacturer: String
   model: String
   serial: String
   asset_id: String
   attrs: PostureAttributes
+  sboms: [SBOM] @manyToMany(relationName: "DeviceSboms")
 }
 
 type SBOM @model {
   devices: [Device] @manyToMany(relationName: "DeviceSboms")
-  sbom: SBOM_Info
+  sbom: SBOM_Info!
 }
 
 enum DeviceKind {
-  PC
-  LAPTOP
-  TABLET
-  MOBILE
-  CAMERA
+  Computer
+  Laptop
+  Tablet
+  Chromebook
+  Phone
+  Camera
+  AccessPoint
+  DataStorage
+  Firewall
+  HardDrive
+  Headset
+  Keyboard
+  Monitor
+  Printer
+  Projector
+  Router
+  Switch
+  StreamingMediaDevice
+  Videoconference
+  VirtualMachine
 }
 
 type PostureAttributes {
-  osVersion: OsVersion
-  passwordMin: Int
+  os_version: OS_Version
+  password_min: Int
+  file: File
 }
 
-type OsVersion {
+type OS_Version {
   name: String!
   version: String!
-  major: Int
-  minor: Int
-  patch: Int
-  build: String
-  platform: String
-  platformLike: [String]
-  codename: String
-  arch: OsArch
-  installDate: AWSTimestamp
+  major: Int!
+  minor: Int!
+  patch: Int!
+  build: String!
+  platform: String!
+  platform_like: String!
+  codename: String!
+  arch: OS_Arch!
+  install_date: Int
+  pid_with_namespace: String
+  mount_namespace_id: String
 }
 
 """
 AppSync Enum values must be names (can't start with digit)
 """
-enum OsArch {
+enum OS_Arch {
   x32_bit
   x64_bit
   x86_32
   x86_64
 }
 
-type SBOM_Info {
-  uri: AWSURL
-  summary: SbomElements
-  content: SbomContent
-  blob: SbomBlob
+"""
+File data is Base64URL
+"""
+type File {
+  path: String!
+  data: String
 }
 
-type SbomElements {
+type SBOM_Info {
+  uri: AWSURL
+  summary: SBOM_Elements
+  content: SBOM_Content
+  blob: SBOM_Blob
+}
+
+"""
+"Baseline information about each component that should be tracked and maintained"
+"""
+type SBOM_Elements {
   supplier: [String]!
   component: [String]!
-  version: String
-  componentIds: [String]
-  dependencies: [String]
-  author: String
-  timestamp: AWSTimestamp
+  version: String!
+  componentIds: [String!]!
+  dependencies: [String!]!
+  author: String!
+  timestamp: Int!
 }
 
 """
 Choice = @oneOf directive, which is not yet supported in GraphQL
 """
-type SbomContent {
+type SBOM_Content {
   cyclonedx: String
   spdx2: String
   spdx3: String
 }
 
 """
-GraphQL does not support binary data; use String type with Base64URL value
+Enum items = SBOM_Content field names
 """
-type SbomBlob {
-  sbomType: SbomType
-  data: String
-}
-
-enum SbomType {
+enum SBOM_Format {
   cyclonedx
   spdx2
   spdx3
+}
+
+"""
+GraphQL does not support binary data; use String type with Base64URL value
+"""
+type SBOM_Blob {
+  format: SBOM_Format!
+  data: String!
 }

@@ -9,7 +9,7 @@ information as directed using the Posture Attribute Collection (PAC)
 which defines the format of collection commands and responses. The PCS then stores
 posture information for each device in the PAR.
 
-The [PAR Schema](https://raw.githubusercontent.com/oasis-open/openc2-jadn-software/master/Schemas/par-api.jidl)
+The [PAR Schema](https://raw.githubusercontent.com/davaya/pace-software/main/Data/par-schema.jidl)
 includes:
 * Device information as supplied by an IT Asset Management service
 * Posture information as collected from Devices by the PCS
@@ -52,6 +52,11 @@ that were not included in the createDevice.
 8. Copy the `id` field for the new device, click "ADD NEW MUTATION", select `deleteDevice`,
 paste the id into the input `id` field, run the mutation, then run the `listDevices` query again
 to show that the newly-created device is gone.
+
+## PAR Python API
+[PACE Software](https://github.com/davaya/pace-software) includes a script to initialize the
+PAR with example Device and SBOM data. This illustrates how to operate the PAR using the GraphQL
+API.
 
 *Note that the PAR proof of concept has no access controls and is shared
 by all CAW participants. Please play nice.*

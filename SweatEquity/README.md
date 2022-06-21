@@ -1,7 +1,6 @@
 # Sweat Equity
 this directory is for organizations to
-document what they will hopefully
-(no commitment, this is for planning purposes)
+document what they will
 be providing for the workshop.
 
 The following participants have agreed
@@ -33,6 +32,8 @@ will be providing:
 - [BSI](./BSI)
 - [NYP](./NYP)
 - [CISA](./CISA)
+- [Ion Channel](./IonChannel)
+- [Individual Contributors](./Individuals)
 - ...
 
 Note the list is in the order they volunteered.

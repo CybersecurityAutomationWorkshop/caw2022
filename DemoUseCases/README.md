@@ -23,37 +23,44 @@ cybersecurity automation landscape.
 
 ### 1.1 IACD Framework
 The demo use cases will follow a modular functional framework
-from Integrated Adaptive Cyber Defense (IACD).
-In particular, it will use the sensing, sense making,
-decision making, and acting terminology and
-functional architecture.
-See [IACD](./iacd.md) for more info.
+from Integrated Adaptive Cyber Defense (IACD). In particular, it
+will use the 
+ - sensing
+ - sense making
+ - decision making, and 
+ - acting terminology 
+ 
+and functional architecture. See [IACD](./iacd.md) for more info.
+
 
 ## 2. Big Picture Ideal Use Cases
 
-These are realistic (aka complex) use cases
+These are realistic (AKA complex) use cases
 and hence there are many elements for a given use case.
 Any given use case will have:
-- situation (e.g. "Criminal hackers are currently in the system")
-- industry (e.g. "healthcare")
-- organization (e.g. "General Hospital")
-- infrastructure systems (e.g. BestInClass intrusion detection system, Stixshifter, PACE PES/PCS/PAR, ...)
-- attributes (e.g. asset type, triage scale, SBOMs, VEXs)
-- parameters (e.g. asset type = respirator, triage = life threatening, SBOM = incomplete CycloneDx, ...)
-- assets (both micro e.g. mri47 with particular attributes/parameters, and macro e.g. 234 "level 1" devices with SBOMs and VEXs)
-- playbooks (e.g. CACAO playbook to handle a particular set of conditions)
-- security policies (e.g. General Hospital may choose to do different actions on VEX product_status="not affected/component_not_present" than on "not affected/vulnerable_code_not_in_execute_path" whereas Podunk Rural Community Hospital may choose to lump several/all VEX flags together.
+- situation (e.g., "Criminal hackers are currently in the system")
+- industry (e.g., "healthcare")
+- organization (e.g., "General Hospital")
+- infrastructure systems (e.g., Best-In-Class intrusion detection system, Stixshifter, PACE PES/PCS/PAR, ...)
+- attributes (e.g., asset type, triage scale, SBOMs, VEXs)
+- parameters (e.g., asset type = respirator, triage = life threatening, SBOM = incomplete CycloneDx, ...)
+- assets (both micro e.g., mri47 with particular attributes/parameters, and macro e.g., 234 "level 1" devices with SBOMs and VEXs)
+- playbooks (e.g., CACAO playbook to handle a particular set of conditions)
+- security policies (e.g., General Hospital may choose to do different actions on VEX `product_status="not affected/component_not_present"` than on `"not affected/vulnerable_code_not_in_execute_path"` whereas Podunk Rural Community Hospital may choose to lump several/all VEX flags together.
 
-The demonstrable use interoperability will tend to be down in the weeds
-(eg HII OIF Orchestrator sending a retrieve-SBOM OpenC2 command
-over MQTT to sFractal BlinkyMaHa).
-This section will attempt to define some big picture use cases which
-those specific interoperability use cases fit into.
+The demonstrable use interoperability will tend to be down in the
+weeds (e.g., HII OIF-Orchestrator sending a retrieve-SBOM OpenC2
+command over MQTT to sFractal BlinkyMaHa). This section will
+attempt to define some big picture use cases which those specific
+interoperability use cases fit into.
 
 These big-picture scenarios are:
 - Enterprise Security Posture
-    + See ./enterprise_posture.md
+    + See [Enterprise Security Posture](./enterprise_posture.md)
     + In this example, the enterprise (a large company or a large government agency) has a very complex security posture based on many factors across many internal organizations located in many places. But for the purpose of an executive dashboard, the security posture is bucketed into one of four states.
+- comply to connect
+   + See [comply to connect](./comply2connect.md)
+   + See [https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/](https://www.cybersecurityautomationworkshop.org/Results/UseCases/ComplyToConnect/)
 - create some business-as-usual scenario
 - create some threat-intel-comes-in scenario
 - create some non-crippling-attack scenario
@@ -74,12 +81,66 @@ These big-picture scenarios are:
 
 blah blah
 - Specific use case called whatever
-- demo 1 of whatever (eg between two systems of single participant)
-- demo 2 of whatever (eg between participant1 and participant2)
+- demo 1 of whatever (e.g., between two systems of single participant)
+- demo 2 of whatever (e.g., between participant1 and participant2)
 -  ... demo N of whatever
 -  Next use case of this other thing
 - demo 1 of this other thing
  ...
+
+## 5 Other stuff that needs to get entered
+Mine the following to flesh out Sections 2, 3, 4 better:
+
+![alphabetsoup](../Images/Automation.gif)
+
+- Jane's real life use cases
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/CTIN/](http://www.cybersecurityautomationworkshop.org/SweatEquity/CTIN/)
+- PACE collect SBOM use cases
+    + [Collect SBOM from Device](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_device.md)
+    + [Collect SBOM from URL](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_from_url.md)
+    + [Collect SBOM with Command](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/collect_sbom_with_command.md)
+  + Sweat Equity Contributions
+    + [DoD](http://www.cybersecurityautomationworkshop.org/SweatEquity/DoD/)
+    + [HII](http://www.cybersecurityautomationworkshop.org/SweatEquity/HII/)
+    + [Cybeats](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/)
+    + [Fortress](http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/)
+    + [Healthcare SBOM PoC](http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/)
+    + [NY Presbitarian](http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/)
+- PACE Transformer use cases
+    + this is a subset of the following evaluation use cases but rates it's own subset
+    + [https://www.cybersecurityautomationworkshop.org/SweatEquity/sFractal/#326-transformer-use-cases](https://www.cybersecurityautomationworkshop.org/SweatEquity/sFractal/#326-transformer-use-cases)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/)
+    + I suspect most PACE vendors and open source tools could go here
+- PACE evaluate SBOM/VEX/NCD use cases
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cybeats/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Fortress/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/)
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/](http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/) note besides creating SBOMs, you can load SBOMs and it creates relationship graph showing which components vulnerable according to NVD
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/) note as SBOM data extraction tools as well as creation tools
+    + [http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/](http://www.cybersecurityautomationworkshop.org/SweatEquity/NYP/)
+- Using PACE posture results in other use cases
+    + [https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/ips-pcs-pes-usecase.md](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/ips-pcs-pes-usecase.md)
+    + [https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/stix-pcs-pes-usecase.md](https://github.com/opencybersecurityalliance/PACE/blob/main/docs/UseCases/stix-pcs-pes-usecase.md)
+    + the 3 use cases in [https://github.com/sparrell/PACE/blob/main/docs/UseCases/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags](https://github.com/sparrell/PACE/blob/main/docs/UseCases/Pace_Sbom_Vex_Flags_Prioritization/README.md#not_affected-flags) - note "flags" are now "status_justification" in SBOM docs so PACE page needs updating for correct terminology
+- CSAF/VEX use cases
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/BSI/](http://www.cybersecurityautomationworkshop.org/SweatEquity/BSI/)
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Healthcare_SBOM_PoC/)
+- Interop pics
+   + [https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.06.22-BC-SBOM-PoC/ParticipantInfo/sFractal/workPlan.1.md](https://github.com/oasis-tcs/openc2-usecases/blob/main/PlugFests/2021.06.22-BC-SBOM-PoC/ParticipantInfo/sFractal/workPlan.1.md)
+- SBOM Creation use cases
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/OnePlanetEducationNetwork/](http://www.cybersecurityautomationworkshop.org/SweatEquity/OnePlanetEducationNetwork/)
+      - It actually makes a pretty good story. Because of this  workshop, a tiny company (One Planet) gave a tiny push to its supplier, a huge company (IBM) working on a huge opensource project (Open Horizon), and the community collaboration (Anchore) resulted in demonstrable progress with an actual, real, useful [SBOM](../SweatEquity/OnePlanetEducationNetwork/sbom.anax.json). My day is complete.
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Anchore/)
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/](http://www.cybersecurityautomationworkshop.org/SweatEquity/CERT/)
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Cisco/)
+- TAC use cases
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/UniversityOslo/](http://www.cybersecurityautomationworkshop.org/SweatEquity/UniversityOslo/)
+- VSM use cases
+   + [http://www.cybersecurityautomationworkshop.org/SweatEquity/Copado/](http://www.cybersecurityautomationworkshop.org/SweatEquity/Copado/)
+- need stixshifter use cases, particularly as ties in to bigger pic with rest of alphabet soup
+- need kestrel use cases, particularly as ties in to bigger pic with rest of alphabet soup
 
 # Return to Home
 [return to Home](../index.md)

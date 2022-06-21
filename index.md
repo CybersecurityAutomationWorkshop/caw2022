@@ -1,8 +1,9 @@
 # Cybersecurity Automation Workshop
 
-![CAW logo](Images/caw_logo.jpg)
+![CAW logo](Images/caw_logo.png)
 
-## Background
+**Background**
+
 Cybersecurity Automation Workshops are a series of events to prototype and test interoperability
 among cybersecurity automation technologies supporting the goals of EO 14028 and the
 Open Source Software [Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/).
@@ -26,27 +27,28 @@ Information Systems, including:
 Vulnerabilities and Incidents
 * (Sec. 7) Improving Detection of Cybersecurity Vulnerabilities and Incidents
 
+---
+
 ## Agenda
 
-The Workshop will take place 9AM-5PM EDT 2-June-2022.
+The Workshop took place 9AM-5PM EDT 2 June 2022.
 
-The four keynote speakers will be:
-- [Dan Solero](./Dan_Solero.md) (AT&T)
+The four keynote speakers were:
+- Anthony Ramos (AT&T)
 - [Allan Friedman](./Allan_Friedman.md) (CISA)
 - [Chuck Brooks](./Chuck_Brooks.md) (Georgetown University)
 - [Neal Ziring](./Neal_Ziring.md) (NSA)
 
-The remaining time will be spent either:
+The remaining was spent either:
 - demonstrating interworking parts/all of a use case
    + the hope is much of the details will be worked out prior to the Workshop as to what systems will interoperate on which use case(s)
 - trouble shooting interworking
 - hackathon to create new lycans or modify interfaces in the spirit of adding new interworking scenarios
-- working sessions to work out interfaces (ie what it will take to turn ["hand-waving" lycans](./lycan.md) into real interfaces)
+- working sessions to work out interfaces (i.e., what it will take to turn ["hand-waving" lycans](./lycan.md) into real interfaces)
 
 See [Agenda](./Agenda.md) for more details.
 
-**PreWorkshop Homework**
-Prior to the workshop, attendees are encouraged to familiarize
+**Pre-Workshop Homework**:  Prior to the workshop, attendees were encouraged to familiarize
 themselves with the organizations participating,
 what they will be bringing to the workshop,
 and the use cases being demonstrated.
@@ -54,39 +56,31 @@ and the use cases being demonstrated.
 - Please familiarize yourself with the "sweat equity" being provided by participants at [Sweat Equity](/SweatEquity/)
 - Please familiarize yourself with the use cases at [use cases](./DemoUseCases/), particularly all [planned interoperation](./DemoUseCases/README.md#4-interoperability-demos) that will take place
 
-The intent is this pre-workshop material will be available by 26-May.
+This 'pre-workshop' material is still useful post-workshop.
 
-Single or multiple track
-is not yet decided
-and will depend on
-the number and extent of the interworking scenarios,
-which will depend
-on the sweat equity (so too soon to tell).
+For the working sessions, the group split into two parallel tracks with some
+common time.
 
-## Registration
-Registration is open until Noon Eastern on May 19th.
-Register at [https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767](https://www.eventbrite.com/e/cybersecurity-automation-workshop-tickets-324093962767)
+---
 
-There are 4 types of tickets:
-- physically in DC, contributing ["sweat equity"](./SweatEquity/README.md)
-- physically in DC, general attendee
-- virtually over web, contributing ["sweat equity"](./SweatEquity/README.md) virtually
-- virtually over web, general attendee
+## Results
+See
+[results](./Results/README.md)
 
-Please sign up for **one ticket per person**,
-and **one person per ticket**.
-If you attending physically for part of day,
-and virtually for part of day - please sign up for physically.
-If you aren't sure about sweat equity,
-then your company is probably not on [Sweat Equity](./SweatEquity),
-and you should sign up general admission.
-If you are not sure, pick one
-and change it later if plans change.
+---
 
-Registration closes 19-May at Noon Eastern
-so sign up NOW!
+## Sweat Equity
+To learn more about what participants are bringing
+to the workshop, see
+[Sweat Equity](./SweatEquity/README.md)
+
+---
 
 ## Logistics
+
+**Registration**
+
+Registration has closed. If interested, contact organizers.
 
 **Venue**
 
@@ -96,19 +90,43 @@ is located at 601 New Jersey Avenue NW, Washington, DC 20001.
 Thank you to AT&T for hosting the event for us.
 
 Light refreshments will be provided - thanks again to AT&T.
-Intent is to have lunch
-brought in to maximize workshop time.
-A sponsor has volunteered to provide lunch.
-Details are still being worked.
 
-More details on venue, refreshments, etc are [tbd](fixlink)
+Lunch is being brought in to maximize workshop time - thanks to
+[Cybeats](https://www.cybeats.com/).
+
+
+
+**COVID**
+
+The workshop will follow AT&T Forum COVID-19 Guidelines
+[CovidPg1](./Images/ForumCovid-19GuidelinesPg1.jpg),
+[CovidPg1](./Images/ForumCovid-19GuidelinesPg2.jpg).
+
+TL;DR - Vaccination required. Masks required.
+
+**Networking And Work Spaces**
+
+We will have multiple spaces within the Forum, specifically:
+
+  * Large meeting space (Forum 1 & 2), which will be used for keynote presentations and all-participant activities
+  * Cafe, which will be used for a mixture of refreshments and meeting space
+  * MPR Room, which will be used for meeting space
+
+The large meeting space will be used for keynotes and the morning
+non-technical interworking session (see the
+[Agenda](./Agenda.md)). The available spaces will be used
+flexibly as-needed during the afternoon technical interworking
+session.
+
+The Forum will provide secured WiFi (SSID + password) which will
+support outbound Internet access (e.g., to connect to the
+[HII-provided message brokers](./SweatEquity/HII/README.md)).
+Inbound connections will not be supported.
+
 
 **Remote Access**
 
-Intent is to allow virtual participation.
-It may not apply to all sessions or all interoperation demonstrations.
-
-More details in [tbd](fixlink).
+A zoom link was provided for virtual participation.
 
 **Eligibility**
 
@@ -127,7 +145,9 @@ distance traveled,
 a quota (ie to spread attendance across the orgs involved),
 with a tie-breaker to who registers first.
 
-## Participating Organizations
+---
+
+**Participating Organizations**
 Strictly speaking none
 (ie workshop is a collection of individuals
 getting together to understand and get stuff interoperating
@@ -147,11 +167,6 @@ contributions bringing together the work of the following:
 - CTI (ie STIX/TAXII)
 - OCA stixshifter
 - OCA Kestrel
-
-The hope is contributions will also represent:
-- LF Daggerboard
-- OCA Ontology
-- IETF MUD
 - ...
 
 ![automation](Images/Automation.gif)
@@ -161,7 +176,10 @@ will be specifically used in this workshop,
 see
 [OrgMashup](./OrgMashup/README.md)
 
-## Objective, Goals, Focus
+---
+
+
+**Objective, Goals, Focus**
 Attendees should walk away feeling
 that they have had a positive engagement
 with their peers
@@ -207,16 +225,15 @@ of meeting the interworking interfaces
 Consider the Code of Conduct to have "vendor" added to the harassment-free
 list. Talk up your value, don't talk down your competitors.
 
-## Sweat Equity
-To learn more about what participants are bringing
-to the workshop, see
-[Sweat Equity](./SweatEquity/README.md)
+---
 
 ## Technical Details for Interoperation
 see
 [TechDetails](./TechDetails/README.md)
 for more details on decisions being made on how to get
 stuff to work together.
+
+---
 
 ## Demo Use Cases
 In the ideal world,
@@ -240,15 +257,16 @@ fixing bugs so that interworking can occur.
 More details on exactly is planned is at
 [DemoUseCases](./DemoUseCases/README.md)
 
-## Results
-Eventually results will be put
-[here](./Results/README.md)
+---
 
 ## Previous Events
 Results from the two previous workshops,
 and other related events,
 can be found at
 [Previous Workshops](./PrevResults)
+
+---
+
 
 ## Governance
 This workshop is being organized by one passionate individual volunteer
@@ -257,7 +275,10 @@ D-cubed model (Duncan/democratic/dictator).
 Hopefully others will step in to help and we'll evolve to
 spread the joy around.
 
-## Code of Conduct
+---
+
+
+**Code of Conduct**
 TL;DR - don't be a jerk.
 
 In the interest of fostering an open and welcoming environment,
@@ -270,10 +291,13 @@ level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion,
 or sexual identity and orientation.
 
-See [Code of Conduct](./CODE_OF_CONDUCT.md)
+See [Code of Conduct](./CodeOfConduct.md)
 for the complete code of conduct.
 
-## Participate
+---
+
+
+**Participate**
 
 Join the mailing list:
 [https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about](https://groups.google.com/g/cybersecurity-automation-workshop-coordination/about)
@@ -284,9 +308,12 @@ surveys, and how to help.
 
 Contribute to this website:
 Click on the GitHub button at the top of this page.
-See [CONTRIBUTING](CONTRIBUTING.md)
+See [Contributing](./Contributing2.md)
 
-## Support or Contact
+---
+
+
+**Support or Contact**
 
 Need help with contributing to this page - click on the github repo
 link in the banner at the top
@@ -295,4 +322,4 @@ Want to know more? Contact info can be found in the  github repo.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-![CAW logo](Images/caw_logo.jpg)
+![CAW logo](Images/caw_logo.png)
