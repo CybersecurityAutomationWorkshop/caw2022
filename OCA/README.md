@@ -23,7 +23,7 @@ can freely exchange information, insights, and reference implementations
 via commonly developed code and tooling,
 using mutually agreed upon technologies, specifications, and procedures.
 
-For Frequently Asked Questions,
+For Frequently Asked Questions about CASP,
 see [FAQ](./OCA-Automation-FAQ.md).
 
 
@@ -32,7 +32,35 @@ The reality of the current cyber threat landscape is daunting.
 Attacks are becoming more frequent, more impactful, and more sophisticated.
 Attackers make use of sophisticated tools operating at machine speed.
 
+Today, cyber defense technologies, systems and applications
+often use proprietary software and commands to
+control system configurations.
+Most environments within a company or enterprise
+are comprised of hundreds of different types of cyber-defense devices.
 
+When security incidents are detected or configuration changes are required,
+manual commands and real time system updates are required,
+increasing incident response time and potentially introducing human error.
+
+The intent of CASP is to be vendor and application agnostic,
+enabling interoperability across a range of
+cyber security tools and applications.
+The use of standardized interfaces and protocols enables
+interoperability of different tools,
+regardless of the vendor that developed them,
+the language they are written in
+or the function they are designed to fulfill.
+
+With CASP, security professionals can orchestrate automated,
+tactical threat responses across a wide range of
+cyber-defense technologies at speeds significantly
+greater than previously imagined.
+
+As a subproject of the Open Cybersecurity Alliance,
+an OASIS Open Project,
+the community of cyber-security stakeholders across government agencies,
+small to large industries across all sectors, and academia
+can join together to innovate and evolve this cyberdefense approach.
 
 The initial focus of the Cybersecurity Automation SubProject (CASP)
 will be the Cybersecurity Automation Workshops.
@@ -50,9 +78,7 @@ if necessary.
 For example, to aid interworking,
 CASP may select certain specifications
 or options among competing choices.
-Some potential specification topics are included
-[here](./ExampleSpecTopics.md)
-
+Some potential specification topics are included in
 [ExampleSpecTopics.md](./ExampleSpecTopics.md)
 
 ## 5. Relationship to Other Projects
@@ -105,30 +131,3 @@ Initial technical contributors are expected to include:
 * Jane Ginn (CTIN)
 * Dmitry Raidman (Cybeats)
 * Duncan Sparrell (sFractal)
-
-===============================
-
-For related activities, see [FAQ](./OCA-Automation-FAQ.md).
-
-
-
-
-creating a standardized approach for
-automating cybersecurity.
-representing
-cyber threat actor behaviors
-in a shareable format to augment the world’s capability
-in detecting and responding to cyber threats
-in a broader capacity
-than what is currently possible with existing specifications.
-
-## 3. Purpose and Scope
-
-CTI sharing communities and activities have evolved from efforts within government, to establish more government-wide situational awareness and now to sharing between government, critical infrastructure owners/operators, and commercial cybersecurity service providers to support mitigation of these shared cyber threats.  However, sharing traditional indicators of compromise (IOCs) is no longer effective against an ever increasingly sophisticated adversary.  It is imperative that we continue to evolve and mature as a global community to maintain a competitive advantage over our adversaries.
-
-To that end the OCA IoB Working Group was established to bring key stakeholders in the CTI community together to collectively focus on patterns of behavior associated with malicious cyber activity.  By understanding “normal” and possibly malicious behaviors or patterns of activity in our networks we can develop innovative solutions that enable us to share behavior sets (aka sets of adversarial behaviors) amongst the CTI community.   These behavior sets and associated detection strategies will lead to more proactive detection, more effective mitigations and, through timely and actionable sharing,  more prevention.
-
-
-End user organizations consistently face challenges with the integration of CTI in direct network defense operations. This is often due to the primary actionable shared data being Common Vulnerability Enumerations (CVEs) and Indicators of Compromise (IoCs). While it is critical to ensure CVEs are mitigated and active IoCs are blocked, these actions by their very nature force a reactive posture to an ever increasing cyber threat. Larger organizations with robust threat hunting teams are able to interpret insights from CTI into more proactive actions but the transfer of this knowledge and capability is not widespread to all organizations and currently is not occurring at machine speed while the cyber threat advances in speed and scale.
-
-By creating machine-readable IoB objects and reference implementation code to easily integrate representations of adversary behaviors, the IoB Working Group can provide rapid detection and response capabilities that can be readily accessible to all organizations and provide standardization amongst the vendor community who can help provide capability to smaller organizationsthat may not have the resources for advanced threat hunting teams. The overarching theme is to foster collaboration across and between organizations.
