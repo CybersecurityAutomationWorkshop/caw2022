@@ -127,6 +127,12 @@ has a VEX profile for automated creation/consumption of VEX information. See pre
 
 ## How does STIX relate to the Cybersecurity Automation SubProject?
 
+## How does JADN relate to the Cybersecurity Automation SubProject?
+
+## How does VSMI relate to the Cybersecurity Automation SubProject?
+
+## How does CSAF relate to the Cybersecurity Automation SubProject?
+
 ## How does NIEM relate to the Cybersecurity Automation SubProject?
 
 ## How does OCSF relate to the Cybersecurity Automation SubProject?
