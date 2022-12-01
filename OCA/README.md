@@ -99,8 +99,9 @@ It included 'sweat equity'from
 '[24 organizations](http://www.cybersecurityautomationworkshop.org/SweatEquity/)'.
 
 Initial technical contributors are expected to include:
+* Jane Ginn (CTIN)
+* Dmitry Raidman (Cybeats)
 * Duncan Sparrell (sFractal)
-*
 
 ===============================
 
