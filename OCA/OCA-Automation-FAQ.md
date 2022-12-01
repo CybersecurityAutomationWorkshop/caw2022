@@ -28,7 +28,7 @@ the AT&T Forum in Washington, DC. See {need to make archive}.
 Previous workshops were {need to make archive}.
 
 ## How does PACE relate to the Cybersecurity Automation SubProject?
-[[Posture Attribute Collection & Evaluation (PACE)]](https://opencybersecurityalliance.org/pace/)
+[Posture Attribute Collection & Evaluation (PACE)](https://opencybersecurityalliance.org/pace/)
 is a comprehensive automated strategy
 for understanding security posture and what to do about it.
 At the last Cybersecurity Automation Workshop,
@@ -39,7 +39,7 @@ PACE evaluation (ie security posture) for decision making within
 CACAO playbooks to initiate OpenC2 actions.
 
 ## How does Kestrel relate to the Cybersecurity Automation SubProject?
-[[Kestrel]](https://github.com/opencybersecurityalliance/kestrel-lang)
+[Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
 is a threat hunting language,
 providing an abstraction for threat hunters
 to focus on what to hunt instead of how to hunt.
@@ -50,7 +50,7 @@ PACE security posture being used in
 CACAO playbooks initiating Kestrel threat hunting using OpenC2 actions.
 
 ## How does IoB relate to the Cybersecurity Automation SubProject?
-The [[Indicators of Behavior (IoB)]](https://github.com/opencybersecurityalliance/oca-iob) Subproject
+The [Indicators of Behavior (IoB)](https://github.com/opencybersecurityalliance/oca-iob) Subproject
 is creating a structured representation of reusable adversary behaviors,
 detections of those behaviors,
 and correlation workflows to aid network defenders.
@@ -58,13 +58,13 @@ IoB is data that can control workflows in CACAO playbooks
 in automation scenarios.
 
 ## How does stixshifter relate to the Cybersecurity Automation SubProject?
-[[Stixshifter]](https://github.com/opencybersecurityalliance/stix-shifter)
+[Stixshifter](https://github.com/opencybersecurityalliance/stix-shifter)
 is a patterning library which allows
 data to be normalized across domains
 for comprehensive security analysis.
 
 ## How does CACAO relate to the Cybersecurity Automation SubProject?
-[[Collaborative automated course of action operations (CACAO)]](https://www.oasis-open.org/standard/cacao-security-playbooks-version-1-0/)
+[Collaborative automated course of action operations (CACAO)](https://www.oasis-open.org/standard/cacao-security-playbooks-version-1-0/)
 defines the schema and taxonomy for
 security playbooks
 and how these playbooks can be created, documented, and shared
@@ -74,11 +74,11 @@ Much of the automation demonstrated at Cybersecurity Automation Workshops
 can be shared using CACAO playbooks.
 
 ## How does TAC relate to the Cybersecurity Automation SubProject?
-[[Threat Actor Context]](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tac)
+[Threat Actor Context](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tac)
 seeks to resolve ambiguity across different sources and solutions
 to support organizing what is known and sharing information
 about threat actors.
-It establishs a common knowledge framework
+It establishes a common knowledge framework
 that enables semantic interoperability
 of threat actor contextual information
 and develop standardized vocabularies
@@ -88,7 +88,7 @@ TAC is data that can control workflows in CACAO playbooks
 in automation scenarios.
 
 ## How does OpenC2 relate to the Cybersecurity Automation SubProject?
-[[Open Command & Control (OpenC2)]](https://openc2.org/)
+[Open Command & Control (OpenC2)](https://openc2.org/)
 is a standardized language for the command and control
 of technologies that provide or support cyber defenses.
 By providing a common language for machine-to-machine communication,
@@ -102,7 +102,7 @@ the language they are written in
 or the function they are designed to fulfill.
 
 ## How does SBOM relate to the Cybersecurity Automation SubProject?
-[[Software Bill of Materials (SBOM)]](https://www.cisa.gov/sbom)
+[Software Bill of Materials (SBOM)](https://www.cisa.gov/sbom)
 has emerged as a key building block in
 software security and software supply chain risk management.
 An SBOM is a nested inventory, a list of ingredients
@@ -110,7 +110,7 @@ that make up software components.
 SBOM is a valuable security posture driving PACE automation.
 
 ## How does VEX relate to the Cybersecurity Automation SubProject?
-[[Vulnerability Exploitability eXchange (VEX)]](https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_Aprill2022.pdf)
+[Vulnerability Exploitability eXchange (VEX)](https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_Aprill2022.pdf)
 allows a software supplier or other parties
 to assert the status of specific vulnerabilities in a particular product.
 Examples include:
@@ -120,6 +120,10 @@ Examples include:
 
 VEX information enhances SBOM information in PACE usecases and both
 are valuable security posture driving PACE automation.
+
+## How does CSAF relate to the Cybersecurity Automation SubProject?
+The [Common Security Advisory Framework (CSAF)](https://docs.oasis-open.org/csaf/csaf/v2.0/csaf-v2.0.html)
+has a VEX profile for automated creation/consumption of VEX information. See previous question.
 
 ## How does STIX relate to the Cybersecurity Automation SubProject?
 
