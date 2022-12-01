@@ -89,6 +89,9 @@ sFractal is contributing the contents of
 this Cybersecurity Automation Workshop website.
 
 ## 8. Contributors
+It is expected that most, if not all,
+of the previous workshop contributors
+would contribute.
 The [previous Cybersecurity Automation Workshop](http://www.cybersecurityautomationworkshop.org/Results/)
 had over 100 participants from around the globe
 and included participation from the
