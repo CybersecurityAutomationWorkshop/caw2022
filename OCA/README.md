@@ -81,7 +81,7 @@ or options among competing choices.
 Some potential specification topics are included in
 [ExampleSpecTopics.md](./ExampleSpecTopics.md)
 
-## 5. Relationship to Other Projects
+## 4. Relationship to Other Projects
 By it's nature, CASP has relationships with many other
 projects, including the other 4 OCA subprojects and
 many OASIS Technical Committees
@@ -89,7 +89,7 @@ as well as other organizations.
 For related activities, see the
 [FAQ](./OCA-Automation-FAQ.md).
 
-## 6. Repositories and Licenses
+## 5. Repositories and Licenses
 CASP expects to launch with one repository
 for development of the Cybersecurity Automation Workshop.
 The Cybersecurity Automation Workshop repository
@@ -110,11 +110,11 @@ Some potential specification topics are included
 Any proposed repositories would include a proposed license
 (from approved OCA list).
 
-## 7. Initial Contributions from Existing Work
+## 6. Initial Contributions from Existing Work
 sFractal is contributing the contents of
 this Cybersecurity Automation Workshop website.
 
-## 8. Contributors
+## 7. Contributors
 It is expected that most, if not all,
 of the previous workshop contributors
 would contribute.
