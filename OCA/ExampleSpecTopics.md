@@ -20,7 +20,7 @@ Possibility in time for another repo would be established for interworking requi
 - To aid in business decision making, CASP compliant systems will supply data to business decision making systems meeting one of the following specifications:
    + VSMI
 - CASP compliant systems will create complete Software Bill of Materials (SBOM) according to one of the following specifications:
-   + For licensing use cases, SBOMs SHOULD be in SPDX format but MAY be in CycloneDX format as long as all necessary information is included for that usecase.
+   + For licensing use cases, SBOMs SHOULD be in SPDX format (per ISO/IEC 5692:2021) but MAY be in CycloneDX format as long as all necessary information is included for that usecase.
    + For cybersecurity use cases, SBOMs SHOULD be in CycloneDX format but MAY be in SPDX format as long as all necessary information is included for that usecase.
    + For software architecture use cases, SBOMs SHOULD be in one of the following formats:
       * CycloneDX
